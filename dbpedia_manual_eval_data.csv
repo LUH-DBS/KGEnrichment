@@ -1,0 +1,801 @@
+﻿Entity,Predicate,Entity URI,Relation URI,Identifier,Correct,Relevant
+The Hangman's Body Count,Associated Band,http://dbpedia.org/resource/The_Hangman's_Body_Count,http://dbpedia.org/ontology/associatedBand,embedding,0,0
+Four Sticks,Starring,http://dbpedia.org/resource/Four_Sticks,http://dbpedia.org/ontology/starring,compatible,1,1
+Starsailor (band),Band Member,http://dbpedia.org/resource/Starsailor_(band),http://dbpedia.org/ontology/bandMember,query,1,1
+J. F. Oberlin,Nationality,http://dbpedia.org/resource/J._F._Oberlin,http://dbpedia.org/ontology/nationality,compatible,1,1
+"Howardsville, Loudoun County, Virginia",Artist,"http://dbpedia.org/resource/Howardsville,_Loudoun_County,_Virginia",http://dbpedia.org/ontology/artist,random,0,0
+Saw Rock,Birth Place,http://dbpedia.org/resource/Saw_Rock,http://dbpedia.org/ontology/birthPlace,random,0,0
+I Promise (Radiohead Song),Occupation,http://dbpedia.org/resource/I_Promise_(Radiohead_song),http://dbpedia.org/ontology/occupation,random,0,0
+Kurt Peter,Nationality,http://dbpedia.org/resource/Kurt_Peter,http://dbpedia.org/ontology/nationality,compatible,1,1
+Marcelo Camelo,Associated Musical Artist,http://dbpedia.org/resource/Marcelo_Camelo,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Karl Hugo Huppert,Programming Language,http://dbpedia.org/resource/Karl_Hugo_Huppert,http://dbpedia.org/ontology/programmingLanguage,random,0,0
+Charles Lynn Batten,Birth Place,http://dbpedia.org/resource/Charles_Lynn_Batten,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Still Blind,Hometown,http://dbpedia.org/resource/Still_Blind,http://dbpedia.org/ontology/hometown,compatible,0,0
+Super Love Song,Country,http://dbpedia.org/resource/Super_Love_Song,http://dbpedia.org/ontology/country,embedding,1,1
+Geraldine Ferraro,Location,http://dbpedia.org/resource/Geraldine_Ferraro,http://dbpedia.org/ontology/location,random,0,0
+Markus Schulz,Genre,http://dbpedia.org/resource/Markus_Schulz,http://dbpedia.org/ontology/genre,query,1,1
+Lips Are Movin,Artist,http://dbpedia.org/resource/Lips_Are_Movin,http://dbpedia.org/ontology/artist,compatible,1,1
+Mark Welsh,Death Place,http://dbpedia.org/resource/Mark_Welsh,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+K J Sawka,Death Place,http://dbpedia.org/resource/KJ_Sawka,http://dbpedia.org/ontology/deathPlace,random,0,0
+Matt Bianco,Record Label,http://dbpedia.org/resource/Matt_Bianco,http://dbpedia.org/ontology/recordLabel,query,1,1
+Shugo Kawahara,Death Place,http://dbpedia.org/resource/Shugo_Kawahara,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Pappy Wood,Nationality,http://dbpedia.org/resource/Pappy_Wood,http://dbpedia.org/ontology/nationality,compatible,1,1
+Michael Ostini,Located In Area,http://dbpedia.org/resource/Michael_Ostini,http://dbpedia.org/ontology/locatedInArea,random,0,0
+Capote (horse),Birth Place,http://dbpedia.org/resource/Capote_(horse),http://dbpedia.org/ontology/birthPlace,compatible,1,1
+I Can Be (Taio Cruz Song),Birth Place,http://dbpedia.org/resource/I_Can_Be_(Taio_Cruz_song),http://dbpedia.org/ontology/birthPlace,embedding,0,0
+The Who,Band Member,http://dbpedia.org/resource/The_Who,http://dbpedia.org/ontology/bandMember,query,1,1
+Mike Weatherley,Death Place,http://dbpedia.org/resource/Mike_Weatherley,http://dbpedia.org/ontology/deathPlace,compatible,1,1
+Little Richard,Record Label,http://dbpedia.org/resource/Little_Richard,http://dbpedia.org/ontology/recordLabel,query,1,1
+Justin Timberlake,Genre,http://dbpedia.org/resource/Justin_Timberlake,http://dbpedia.org/ontology/genre,query,1,1
+William Bayliss,Associated Band,http://dbpedia.org/resource/William_Bayliss,http://dbpedia.org/ontology/associatedBand,embedding,1,0
+Mayday Parade,Associated Band,http://dbpedia.org/resource/Mayday_Parade,http://dbpedia.org/ontology/associatedBand,query,1,1
+Kyle Townsend,Associated Band,http://dbpedia.org/resource/Kyle_Townsend,http://dbpedia.org/ontology/associatedBand,query,1,1
+Speos Artemidos,Nationality,http://dbpedia.org/resource/Speos_Artemidos,http://dbpedia.org/ontology/nationality,random,0,0
+That's Why (I Love You So),Genre,http://dbpedia.org/resource/That's_Why_(I_Love_You_So),http://dbpedia.org/ontology/genre,random,1,1
+Robert Wald (sound Engineer),Death Place,http://dbpedia.org/resource/Robert_Wald_(sound_engineer),http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Pojana Maggiore,Death Place,http://dbpedia.org/resource/Pojana_Maggiore,http://dbpedia.org/ontology/deathPlace,random,1,0
+Beyond The Embrace,Birth Place,http://dbpedia.org/resource/Beyond_the_Embrace,http://dbpedia.org/ontology/birthPlace,embedding,0,0
+"Sharon, Wisconsin",Nationality,"http://dbpedia.org/resource/Sharon,_Wisconsin",http://dbpedia.org/ontology/nationality,random,0,0
+Ministry (band),Hometown,http://dbpedia.org/resource/Ministry_(band),http://dbpedia.org/ontology/hometown,query,0,0
+University Of Central Florida Student Housing,Headquarter,http://dbpedia.org/resource/University_of_Central_Florida_student_housing,http://dbpedia.org/ontology/headquarter,compatible,0,0
+"Hickory County, Missouri",Associated Musical Artist,"http://dbpedia.org/resource/Hickory_County,_Missouri",http://dbpedia.org/ontology/associatedMusicalArtist,embedding,0,0
+Christopher Von Uckermann,Record Label,http://dbpedia.org/resource/Christopher_von_Uckermann,http://dbpedia.org/ontology/recordLabel,query,1,1
+W X R J-L P,Location,http://dbpedia.org/resource/WXRJ-LP,http://dbpedia.org/ontology/location,random,1,1
+Placebo (band),Hometown,http://dbpedia.org/resource/Placebo_(band),http://dbpedia.org/ontology/hometown,query,0,0
+Laurence Patrick Byrne,Death Place,http://dbpedia.org/resource/Laurence_Patrick_Byrne,http://dbpedia.org/ontology/deathPlace,compatible,1,1
+Rock The House (Afrojack Song),Writer,http://dbpedia.org/resource/Rock_the_House_(Afrojack_song),http://dbpedia.org/ontology/writer,embedding,1,1
+Christian Due-Boje,Nationality,http://dbpedia.org/resource/Christian_Due-Boje,http://dbpedia.org/ontology/nationality,compatible,1,1
+Aleksander Laak,Nationality,http://dbpedia.org/resource/Aleksander_Laak,http://dbpedia.org/ontology/nationality,compatible,1,1
+Jerry Styner,Country,http://dbpedia.org/resource/Jerry_Styner,http://dbpedia.org/ontology/country,random,1,1
+Daeg Faerch,Death Place,http://dbpedia.org/resource/Daeg_Faerch,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Richmond Valley Council,Located In Area,http://dbpedia.org/resource/Richmond_Valley_Council,http://dbpedia.org/ontology/locatedInArea,compatible,1,1
+"Crowhurst, East Sussex",Associated Band,"http://dbpedia.org/resource/Crowhurst,_East_Sussex",http://dbpedia.org/ontology/associatedBand,embedding,0,0
+Yuka Momiki,Death Place,http://dbpedia.org/resource/Yuka_Momiki,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Henry Martin (socialist),Death Place,http://dbpedia.org/resource/Henry_Martin_(socialist),http://dbpedia.org/ontology/deathPlace,compatible,1,1
+Bill Mc Dougall,Nationality,http://dbpedia.org/resource/Bill_McDougall,http://dbpedia.org/ontology/nationality,compatible,1,1
+At The Drive-In,Band Member,http://dbpedia.org/resource/At_the_Drive-In,http://dbpedia.org/ontology/bandMember,query,1,1
+Myzino,Nationality,http://dbpedia.org/resource/Myzino,http://dbpedia.org/ontology/nationality,random,0,0
+Emil Gorovets,Country,http://dbpedia.org/resource/Emil_Gorovets,http://dbpedia.org/ontology/country,embedding,0,0
+Hubertine Heijermans,Country,http://dbpedia.org/resource/Hubertine_Heijermans,http://dbpedia.org/ontology/country,random,0,0
+Bob Prince,State,http://dbpedia.org/resource/Bob_Prince,http://dbpedia.org/ontology/state,random,0,0
+Edmund Gilligan,Located In Area,http://dbpedia.org/resource/Edmund_Gilligan,http://dbpedia.org/ontology/locatedInArea,random,0,0
+Jordan Rudess,Associated Musical Artist,http://dbpedia.org/resource/Jordan_Rudess,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Amduscia,Record Label,http://dbpedia.org/resource/Amduscia,http://dbpedia.org/ontology/recordLabel,query,1,1
+Florida,Record Label,http://dbpedia.org/resource/Florida,http://dbpedia.org/ontology/recordLabel,embedding,0,0
+Can't Be Really Gone,Artist,http://dbpedia.org/resource/Can't_Be_Really_Gone,http://dbpedia.org/ontology/artist,compatible,1,1
+The Skatalites,Genre,http://dbpedia.org/resource/The_Skatalites,http://dbpedia.org/ontology/genre,query,1,1
+Gmina Lipusz,Record Label,http://dbpedia.org/resource/Gmina_Lipusz,http://dbpedia.org/ontology/recordLabel,random,0,0
+Sini Karjalainen,Country,http://dbpedia.org/resource/Sini_Karjalainen,http://dbpedia.org/ontology/country,random,0,0
+Leighton Meester,Associated Musical Artist,http://dbpedia.org/resource/Leighton_Meester,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+"St James' Church, Edgbaston",Genre,"http://dbpedia.org/resource/St_James'_Church,_Edgbaston",http://dbpedia.org/ontology/genre,random,0,0
+Otomo Yoshihide,Nationality,http://dbpedia.org/resource/Otomo_Yoshihide,http://dbpedia.org/ontology/nationality,compatible,1,1
+Gotthard (band),Associated Band,http://dbpedia.org/resource/Gotthard_(band),http://dbpedia.org/ontology/associatedBand,query,1,1
+Dan Forshaw,Birth Place,http://dbpedia.org/resource/Dan_Forshaw,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+G-Dragon,Hometown,http://dbpedia.org/resource/G-Dragon,http://dbpedia.org/ontology/hometown,query,1,1
+"Ocala, Florida",Hometown,"http://dbpedia.org/resource/Ocala,_Florida",http://dbpedia.org/ontology/hometown,query,1,0
+Marisa Matias,Education,http://dbpedia.org/resource/Marisa_Matias,http://dbpedia.org/ontology/education,compatible,1,1
+Foo Fighters,Associated Musical Artist,http://dbpedia.org/resource/Foo_Fighters,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+"Barrington Passage, Nova Scotia",Genre,"http://dbpedia.org/resource/Barrington_Passage,_Nova_Scotia",http://dbpedia.org/ontology/genre,random,0,0
+Kelly Sweet,Associated Musical Artist,http://dbpedia.org/resource/Kelly_Sweet,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Hit Me Up (Danny Fernandes Song),Birth Place,http://dbpedia.org/resource/Hit_Me_Up_(Danny_Fernandes_song),http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Leon Lee,Death Place,http://dbpedia.org/resource/Leon_Lee,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Pamela Morgan,Birth Place,http://dbpedia.org/resource/Pamela_Morgan,http://dbpedia.org/ontology/birthPlace,embedding,1,1
+Jane Harbour,Location,http://dbpedia.org/resource/Jane_Harbour,http://dbpedia.org/ontology/location,embedding,0,0
+Doug Wimbish,Death Place,http://dbpedia.org/resource/Doug_Wimbish,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+A Very Silent Night,Genre,http://dbpedia.org/resource/A_Very_Silent_Night,http://dbpedia.org/ontology/genre,random,1,1
+Vadim Zhelobnyuk,Country,http://dbpedia.org/resource/Vadim_Zhelobnyuk,http://dbpedia.org/ontology/country,random,0,0
+Storm Warning (song),Associated Musical Artist,http://dbpedia.org/resource/Storm_Warning_(song),http://dbpedia.org/ontology/associatedMusicalArtist,embedding,0,0
+Recoil (band),Band Member,http://dbpedia.org/resource/Recoil_(band),http://dbpedia.org/ontology/bandMember,query,1,1
+Stick Together (Anthony Jasmin Song),Birth Place,http://dbpedia.org/resource/Stick_Together_(Anthony_Jasmin_song),http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Vanessa-Mae,Hometown,http://dbpedia.org/resource/Vanessa-Mae,http://dbpedia.org/ontology/hometown,query,1,1
+Avantasia,Associated Musical Artist,http://dbpedia.org/resource/Avantasia,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Dobrna,Associated Musical Artist,http://dbpedia.org/resource/Dobrna,http://dbpedia.org/ontology/associatedMusicalArtist,embedding,0,0
+You Little Beauty,Country,http://dbpedia.org/resource/You_Little_Beauty,http://dbpedia.org/ontology/country,embedding,1,1
+Caesar (band),Located In Area,http://dbpedia.org/resource/Caesar_(band),http://dbpedia.org/ontology/locatedInArea,random,0,0
+Dick Parry,Associated Musical Artist,http://dbpedia.org/resource/Dick_Parry,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Jack Ashenden,Birth Place,http://dbpedia.org/resource/Jack_Ashenden,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Phil Slater,Associated Band,http://dbpedia.org/resource/Phil_Slater,http://dbpedia.org/ontology/associatedBand,embedding,1,1
+Asian American Hip Hop,Record Label,http://dbpedia.org/resource/Asian_American_hip_hop,http://dbpedia.org/ontology/recordLabel,embedding,0,0
+Mark O' Connor,Nationality,http://dbpedia.org/resource/Mark_O'Connor,http://dbpedia.org/ontology/nationality,compatible,1,1
+Rotersand,Band Member,http://dbpedia.org/resource/Rotersand,http://dbpedia.org/ontology/bandMember,query,1,1
+Interstate (duo),Producer,http://dbpedia.org/resource/Interstate_(duo),http://dbpedia.org/ontology/producer,embedding,1,1
+Geri Halliwell,Associated Band,http://dbpedia.org/resource/Geri_Halliwell,http://dbpedia.org/ontology/associatedBand,query,1,1
+Mount Everett State Reservation,Alma Mater,http://dbpedia.org/resource/Mount_Everett_State_Reservation,http://dbpedia.org/ontology/almaMater,random,0,0
+Highfield Leadership Academy,Hometown,http://dbpedia.org/resource/Highfield_Leadership_Academy,http://dbpedia.org/ontology/hometown,embedding,0,0
+Marcelo Zarvos,Country,http://dbpedia.org/resource/Marcelo_Zarvos,http://dbpedia.org/ontology/country,random,0,0
+"Redmon, Illinois",Located In Area,"http://dbpedia.org/resource/Redmon,_Illinois",http://dbpedia.org/ontology/locatedInArea,compatible,1,0
+Chic Discography,Birth Place,http://dbpedia.org/resource/Chic_discography,http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Bill Lee (musician),Associated Band,http://dbpedia.org/resource/Bill_Lee_(musician),http://dbpedia.org/ontology/associatedBand,query,1,1
+Idle Chatter,Country,http://dbpedia.org/resource/Idle_Chatter,http://dbpedia.org/ontology/country,embedding,1,1
+System Soft Alpha,Hometown,http://dbpedia.org/resource/SystemSoft_Alpha,http://dbpedia.org/ontology/hometown,compatible,0,0
+Osmose Productions,Record Label,http://dbpedia.org/resource/Osmose_Productions,http://dbpedia.org/ontology/recordLabel,query,1,0
+Enemy Inside,Artist,http://dbpedia.org/resource/Enemy_Inside,http://dbpedia.org/ontology/artist,embedding,1,1
+The Fleetwoods,Location,http://dbpedia.org/resource/The_Fleetwoods,http://dbpedia.org/ontology/location,random,0,0
+Elizabeth Ashley,Country,http://dbpedia.org/resource/Elizabeth_Ashley,http://dbpedia.org/ontology/country,random,0,0
+Liers In Wait,Associated Musical Artist,http://dbpedia.org/resource/Liers_in_Wait,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Blondie Chaplin,Associated Band,http://dbpedia.org/resource/Blondie_Chaplin,http://dbpedia.org/ontology/associatedBand,query,1,1
+Blake Fleming,Birth Place,http://dbpedia.org/resource/Blake_Fleming,http://dbpedia.org/ontology/birthPlace,embedding,1,1
+Richard Rodger,Location,http://dbpedia.org/resource/Richard_Rodger,http://dbpedia.org/ontology/location,embedding,0,0
+Colby College Museum Of Art,Hometown,http://dbpedia.org/resource/Colby_College_Museum_of_Art,http://dbpedia.org/ontology/hometown,random,0,0
+Johnny Hates Jazz,Hometown,http://dbpedia.org/resource/Johnny_Hates_Jazz,http://dbpedia.org/ontology/hometown,query,0,0
+Ronnie Spector,Associated Band,http://dbpedia.org/resource/Ronnie_Spector,http://dbpedia.org/ontology/associatedBand,query,1,1
+Eric Prydz,Associated Musical Artist,http://dbpedia.org/resource/Eric_Prydz,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Transatlantic (band),Associated Band,http://dbpedia.org/resource/Transatlantic_(band),http://dbpedia.org/ontology/associatedBand,query,1,1
+Flying Saucer Attack,Artist,http://dbpedia.org/resource/Flying_Saucer_Attack,http://dbpedia.org/ontology/artist,embedding,1,1
+Charlotte Anne,Writer,http://dbpedia.org/resource/Charlotte_Anne,http://dbpedia.org/ontology/writer,embedding,1,1
+The Cult,Associated Band,http://dbpedia.org/resource/The_Cult,http://dbpedia.org/ontology/associatedBand,query,1,1
+The Crusaders (jazz Fusion Group),Place,http://dbpedia.org/resource/The_Crusaders_(jazz_fusion_group),http://dbpedia.org/ontology/place,embedding,0,0
+Thank The Lord For The Night Time,Birth Place,http://dbpedia.org/resource/Thank_the_Lord_for_the_Night_Time,http://dbpedia.org/ontology/birthPlace,random,0,0
+Grigory Verichev,Birth Place,http://dbpedia.org/resource/Grigory_Verichev,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Danish People's Defence,Profession,http://dbpedia.org/resource/Danish_People's_Defence,http://dbpedia.org/ontology/profession,random,1,0
+Cry For Freedom,Artist,http://dbpedia.org/resource/Cry_for_Freedom,http://dbpedia.org/ontology/artist,embedding,1,1
+I Want You Back (Hoodoo Gurus Song),Artist,http://dbpedia.org/resource/I_Want_You_Back_(Hoodoo_Gurus_song),http://dbpedia.org/ontology/artist,compatible,1,1
+Takanori Nishikawa,Associated Band,http://dbpedia.org/resource/Takanori_Nishikawa,http://dbpedia.org/ontology/associatedBand,query,1,1
+Dave Stewart (musician And Producer),Associated Musical Artist,http://dbpedia.org/resource/Dave_Stewart_(musician_and_producer),http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Deathrock,Genre,http://dbpedia.org/resource/Deathrock,http://dbpedia.org/ontology/genre,query,1,0
+Tim Christensen,Death Place,http://dbpedia.org/resource/Tim_Christensen,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Papplewick School,Genre,http://dbpedia.org/resource/Papplewick_School,http://dbpedia.org/ontology/genre,random,0,0
+Mingo Lewis,Country,http://dbpedia.org/resource/Mingo_Lewis,http://dbpedia.org/ontology/country,embedding,0,0
+Merle Tuve,Location,http://dbpedia.org/resource/Merle_Tuve,http://dbpedia.org/ontology/location,random,0,0
+Doin' The Do,Producer,http://dbpedia.org/resource/Doin'_the_Do,http://dbpedia.org/ontology/producer,random,0,0
+Menomena,Associated Band,http://dbpedia.org/resource/Menomena,http://dbpedia.org/ontology/associatedBand,query,1,1
+First Base (group),Artist,http://dbpedia.org/resource/First_Base_(group),http://dbpedia.org/ontology/artist,embedding,0,0
+Dead Boys,Country,http://dbpedia.org/resource/Dead_Boys,http://dbpedia.org/ontology/country,embedding,1,1
+Ashura Hara,Associated Musical Artist,http://dbpedia.org/resource/Ashura_Hara,http://dbpedia.org/ontology/associatedMusicalArtist,embedding,1,0
+Pat Keen,Artist,http://dbpedia.org/resource/Pat_Keen,http://dbpedia.org/ontology/artist,embedding,1,1
+Aida Rodriguez,Nationality,http://dbpedia.org/resource/Aida_Rodriguez,http://dbpedia.org/ontology/nationality,compatible,1,1
+Waspman,Birth Place,http://dbpedia.org/resource/Waspman,http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Jack Sharrott,Country,http://dbpedia.org/resource/Jack_Sharrott,http://dbpedia.org/ontology/country,embedding,0,0
+"Artemivsk, Luhansk Oblast",Nationality,"http://dbpedia.org/resource/Artemivsk,_Luhansk_Oblast",http://dbpedia.org/ontology/nationality,random,0,0
+Morbid Angel,Hometown,http://dbpedia.org/resource/Morbid_Angel,http://dbpedia.org/ontology/hometown,query,1,1
+William Bartram,Birth Place,http://dbpedia.org/resource/William_Bartram,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Richard Tandy,Country,http://dbpedia.org/resource/Richard_Tandy,http://dbpedia.org/ontology/country,embedding,0,0
+Rosemary Sassoon,Death Place,http://dbpedia.org/resource/Rosemary_Sassoon,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Ricanstruction,Country,http://dbpedia.org/resource/Ricanstruction,http://dbpedia.org/ontology/country,random,1,1
+"Dunlapsville, Indiana",Located In Area,"http://dbpedia.org/resource/Dunlapsville,_Indiana",http://dbpedia.org/ontology/locatedInArea,compatible,1,0
+Five Finger Death Punch,Associated Musical Artist,http://dbpedia.org/resource/Five_Finger_Death_Punch,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Cake (band),Genre,http://dbpedia.org/resource/Cake_(band),http://dbpedia.org/ontology/genre,query,1,1
+Nils Patrik Johansson,Death Place,http://dbpedia.org/resource/Nils_Patrik_Johansson,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+J E F F The Brotherhood,Genre,http://dbpedia.org/resource/JEFF_the_Brotherhood,http://dbpedia.org/ontology/genre,embedding,1,1
+Nazad U Veliki Prljavi Grad,Death Place,http://dbpedia.org/resource/Nazad_u_veliki_prljavi_grad,http://dbpedia.org/ontology/deathPlace,random,0,0
+Hurricane (Halsey Song),Country,http://dbpedia.org/resource/Hurricane_(Halsey_song),http://dbpedia.org/ontology/country,embedding,1,1
+Tickenham,Located In Area,http://dbpedia.org/resource/Tickenham,http://dbpedia.org/ontology/locatedInArea,compatible,1,0
+Yvonne Arnold,Nationality,http://dbpedia.org/resource/Yvonne_Arnold,http://dbpedia.org/ontology/nationality,random,1,1
+Sarah Blasko,Located In Area,http://dbpedia.org/resource/Sarah_Blasko,http://dbpedia.org/ontology/locatedInArea,random,0,0
+Vitali Chochiyev,Profession,http://dbpedia.org/resource/Vitali_Chochiyev,http://dbpedia.org/ontology/profession,compatible,1,1
+Bo A,Record Label,http://dbpedia.org/resource/BoA,http://dbpedia.org/ontology/recordLabel,query,1,1
+Royal Trux,Country,http://dbpedia.org/resource/Royal_Trux,http://dbpedia.org/ontology/country,embedding,1,1
+Hyde (musician),Associated Musical Artist,http://dbpedia.org/resource/Hyde_(musician),http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Horse The Band,Genre,http://dbpedia.org/resource/Horse_the_Band,http://dbpedia.org/ontology/genre,query,1,1
+House Industries,Hometown,http://dbpedia.org/resource/House_Industries,http://dbpedia.org/ontology/hometown,compatible,0,0
+Arms And Sleepers,Birth Place,http://dbpedia.org/resource/Arms_and_Sleepers,http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Ed Van Campen,Death Place,http://dbpedia.org/resource/Ed_van_Campen,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+The Browning,Associated Musical Artist,http://dbpedia.org/resource/The_Browning,http://dbpedia.org/ontology/associatedMusicalArtist,embedding,1,1
+Victor Electrics,State,http://dbpedia.org/resource/Victor_Electrics,http://dbpedia.org/ontology/state,embedding,0,0
+Pillar (band),Band Member,http://dbpedia.org/resource/Pillar_(band),http://dbpedia.org/ontology/bandMember,query,1,1
+Nile (band),Associated Musical Artist,http://dbpedia.org/resource/Nile_(band),http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Danny Heifetz,Alma Mater,http://dbpedia.org/resource/Danny_Heifetz,http://dbpedia.org/ontology/almaMater,compatible,1,1
+Al Alquist,Birth Place,http://dbpedia.org/resource/Al_Alquist,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Rocky Fortune,Country,http://dbpedia.org/resource/Rocky_Fortune,http://dbpedia.org/ontology/country,embedding,1,1
+Punta De Arinaga Lighthouse,Birth Place,http://dbpedia.org/resource/Punta_de_Arinaga_Lighthouse,http://dbpedia.org/ontology/birthPlace,random,0,0
+Alexandra Burke,Associated Band,http://dbpedia.org/resource/Alexandra_Burke,http://dbpedia.org/ontology/associatedBand,query,1,1
+Cloudland Canyon (band),Country,http://dbpedia.org/resource/Cloudland_Canyon_(band),http://dbpedia.org/ontology/country,embedding,1,1
+Beast (South Korean Band),Associated Band,http://dbpedia.org/resource/Beast_(South_Korean_band),http://dbpedia.org/ontology/associatedBand,query,1,1
+Scared Of Beautiful,Associated Band,http://dbpedia.org/resource/Scared_of_Beautiful,http://dbpedia.org/ontology/associatedBand,embedding,0,0
+Cough Cough,Record Label,http://dbpedia.org/resource/Cough_Cough,http://dbpedia.org/ontology/recordLabel,embedding,1,1
+Charlie Bates (baseball),Nationality,http://dbpedia.org/resource/Charlie_Bates_(baseball),http://dbpedia.org/ontology/nationality,compatible,1,1
+Communist Party Of Brazil,Genre,http://dbpedia.org/resource/Communist_Party_of_Brazil,http://dbpedia.org/ontology/genre,random,0,0
+Jacobus Golius,Author,http://dbpedia.org/resource/Jacobus_Golius,http://dbpedia.org/ontology/author,query,1,1
+Biology (song),Associated Band,http://dbpedia.org/resource/Biology_(song),http://dbpedia.org/ontology/associatedBand,embedding,0,0
+Eva Simons,Associated Band,http://dbpedia.org/resource/Eva_Simons,http://dbpedia.org/ontology/associatedBand,query,1,1
+Angra (band),Hometown,http://dbpedia.org/resource/Angra_(band),http://dbpedia.org/ontology/hometown,query,0,0
+Kasabian,Genre,http://dbpedia.org/resource/Kasabian,http://dbpedia.org/ontology/genre,query,1,1
+X-Wild,Associated Band,http://dbpedia.org/resource/X-Wild,http://dbpedia.org/ontology/associatedBand,query,1,1
+A F I (band),Associated Musical Artist,http://dbpedia.org/resource/AFI_(band),http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Ernesto Tamariz,Profession,http://dbpedia.org/resource/Ernesto_Tamariz,http://dbpedia.org/ontology/profession,compatible,1,1
+Anthony Gomez,Education,http://dbpedia.org/resource/Anthony_Gomez,http://dbpedia.org/ontology/education,compatible,1,1
+Yuri Veksler,Birth Place,http://dbpedia.org/resource/Yuri_Veksler,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Ain't I,Associated Musical Artist,http://dbpedia.org/resource/Ain't_I,http://dbpedia.org/ontology/associatedMusicalArtist,embedding,1,1
+Cheeky Records,Record Label,http://dbpedia.org/resource/Cheeky_Records,http://dbpedia.org/ontology/recordLabel,query,1,1
+Hinoi Team,Located In Area,http://dbpedia.org/resource/Hinoi_Team,http://dbpedia.org/ontology/locatedInArea,random,1,1
+Richard Hudson (musician),Artist,http://dbpedia.org/resource/Richard_Hudson_(musician),http://dbpedia.org/ontology/artist,embedding,1,1
+Go-go,Artist,http://dbpedia.org/resource/Go-go,http://dbpedia.org/ontology/artist,embedding,1,1
+Jung Bong,Nationality,http://dbpedia.org/resource/Jung_Bong,http://dbpedia.org/ontology/nationality,compatible,1,1
+Johan Jacobsen,Birth Place,http://dbpedia.org/resource/Johan_Jacobsen,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+City Life (magazine),State,http://dbpedia.org/resource/City_Life_(magazine),http://dbpedia.org/ontology/state,random,0,0
+Flying Colors (band),Location,http://dbpedia.org/resource/Flying_Colors_(band),http://dbpedia.org/ontology/location,embedding,0,0
+Social Democratic Federation,Death Place,http://dbpedia.org/resource/Social_Democratic_Federation,http://dbpedia.org/ontology/deathPlace,random,0,0
+Kyuss,Record Label,http://dbpedia.org/resource/Kyuss,http://dbpedia.org/ontology/recordLabel,query,1,1
+Hampton Fancher,Death Place,http://dbpedia.org/resource/Hampton_Fancher,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Municipal Research And Services Center,Hometown,http://dbpedia.org/resource/Municipal_Research_and_Services_Center,http://dbpedia.org/ontology/hometown,compatible,0,0
+Luxxury,Instrument,http://dbpedia.org/resource/Luxxury,http://dbpedia.org/ontology/instrument,random,1,1
+"Warszawa, Greater Poland Voivodeship",Location,"http://dbpedia.org/resource/Warszawa,_Greater_Poland_Voivodeship",http://dbpedia.org/ontology/location,random,1,0
+Akon,Record Label,http://dbpedia.org/resource/Akon,http://dbpedia.org/ontology/recordLabel,query,1,1
+Paris Bennett,Artist,http://dbpedia.org/resource/Paris_Bennett,http://dbpedia.org/ontology/artist,embedding,1,1
+Dolores O' Riordan,Associated Band,http://dbpedia.org/resource/Dolores_O'Riordan,http://dbpedia.org/ontology/associatedBand,query,1,1
+Anthony Joshua,Death Place,http://dbpedia.org/resource/Anthony_Joshua,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Professor Longhair,Band Member,http://dbpedia.org/resource/Professor_Longhair,http://dbpedia.org/ontology/bandMember,query,1,1
+Orquesta Broadway,Birth Place,http://dbpedia.org/resource/Orquesta_Broadway,http://dbpedia.org/ontology/birthPlace,compatible,0,0
+Kraftwerk,Record Label,http://dbpedia.org/resource/Kraftwerk,http://dbpedia.org/ontology/recordLabel,query,1,1
+De Witt Clinton School,Hometown,http://dbpedia.org/resource/DeWitt_Clinton_School,http://dbpedia.org/ontology/hometown,compatible,0,0
+Cecil Gordon Lawson,Associated Band,http://dbpedia.org/resource/Cecil_Gordon_Lawson,http://dbpedia.org/ontology/associatedBand,embedding,1,0
+G Bedtime Stories,Location,http://dbpedia.org/resource/G_Bedtime_Stories,http://dbpedia.org/ontology/location,embedding,0,0
+Cameron Van Hoy,Occupation,http://dbpedia.org/resource/Cameron_Van_Hoy,http://dbpedia.org/ontology/occupation,random,1,1
+The Kovenant,Record Label,http://dbpedia.org/resource/The_Kovenant,http://dbpedia.org/ontology/recordLabel,query,1,1
+Stanley Booth-Clibborn,Alma Mater,http://dbpedia.org/resource/Stanley_Booth-Clibborn,http://dbpedia.org/ontology/almaMater,compatible,1,1
+Sam Fan Thomas,Genre,http://dbpedia.org/resource/Sam_Fan_Thomas,http://dbpedia.org/ontology/genre,embedding,1,1
+Fritz Bohla,Death Place,http://dbpedia.org/resource/Fritz_Bohla,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Demi Lovato,Band Member,http://dbpedia.org/resource/Demi_Lovato,http://dbpedia.org/ontology/bandMember,query,1,1
+Florence Ashton Marshall,Associated Band,http://dbpedia.org/resource/Florence_Ashton_Marshall,http://dbpedia.org/ontology/associatedBand,embedding,1,0
+Georgi Petrov (ice Hockey),Location,http://dbpedia.org/resource/Georgi_Petrov_(ice_hockey),http://dbpedia.org/ontology/location,random,0,0
+Carolyn Dennis,Associated Musical Artist,http://dbpedia.org/resource/Carolyn_Dennis,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Pavel Sitnikov,Nationality,http://dbpedia.org/resource/Pavel_Sitnikov,http://dbpedia.org/ontology/nationality,random,1,1
+Akito Fukuta,Nationality,http://dbpedia.org/resource/Akito_Fukuta,http://dbpedia.org/ontology/nationality,compatible,1,1
+Bella Morte,Genre,http://dbpedia.org/resource/Bella_Morte,http://dbpedia.org/ontology/genre,query,1,1
+Anciients,Country,http://dbpedia.org/resource/Anciients,http://dbpedia.org/ontology/country,embedding,1,1
+Novodobrinka,Location,http://dbpedia.org/resource/Novodobrinka,http://dbpedia.org/ontology/location,random,1,0
+Mazanovsky District,Death Place,http://dbpedia.org/resource/Mazanovsky_District,http://dbpedia.org/ontology/deathPlace,random,0,0
+Numskull,Hometown,http://dbpedia.org/resource/Numskull,http://dbpedia.org/ontology/hometown,embedding,0,0
+Ilan Rubin,Associated Musical Artist,http://dbpedia.org/resource/Ilan_Rubin,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Retching Red,Country,http://dbpedia.org/resource/Retching_Red,http://dbpedia.org/ontology/country,embedding,1,1
+Palisades (band),Country,http://dbpedia.org/resource/Palisades_(band),http://dbpedia.org/ontology/country,embedding,1,1
+The Sisterhood (gothic Rock Band),Birth Place,http://dbpedia.org/resource/The_Sisterhood_(gothic_rock_band),http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Kungs,Artist,http://dbpedia.org/resource/Kungs,http://dbpedia.org/ontology/artist,embedding,1,1
+The Virgins,Band Member,http://dbpedia.org/resource/The_Virgins,http://dbpedia.org/ontology/bandMember,query,1,1
+Playboy Special Edition,Producer,http://dbpedia.org/resource/Playboy_Special_Edition,http://dbpedia.org/ontology/producer,compatible,0,0
+Michael Gray (D J),Record Label,http://dbpedia.org/resource/Michael_Gray_(DJ),http://dbpedia.org/ontology/recordLabel,query,1,1
+Maxim Gaudette,Death Place,http://dbpedia.org/resource/Maxim_Gaudette,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Alan Geldard,Record Label,http://dbpedia.org/resource/Alan_Geldard,http://dbpedia.org/ontology/recordLabel,random,1,0
+Breakbeat Culture,Birth Place,http://dbpedia.org/resource/Breakbeat_Culture,http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Bertram Carris,Nationality,http://dbpedia.org/resource/Bertram_Carris,http://dbpedia.org/ontology/nationality,compatible,1,1
+Calma Carmona,Alma Mater,http://dbpedia.org/resource/Calma_Carmona,http://dbpedia.org/ontology/almaMater,compatible,1,1
+Laliny,Associated Band,http://dbpedia.org/resource/Laliny,http://dbpedia.org/ontology/associatedBand,embedding,0,0
+Cloves (singer),Producer,http://dbpedia.org/resource/Cloves_(singer),http://dbpedia.org/ontology/producer,embedding,0,0
+John Ward (actor),Spoken In,http://dbpedia.org/resource/John_Ward_(actor),http://dbpedia.org/ontology/spokenIn,random,0,0
+Sevastopolskaya (rural Locality),Located In Area,http://dbpedia.org/resource/Sevastopolskaya_(rural_locality),http://dbpedia.org/ontology/locatedInArea,compatible,1,0
+Anna Francolini,Location,http://dbpedia.org/resource/Anna_Francolini,http://dbpedia.org/ontology/location,random,0,0
+Yerba Buena Center For The Arts,Located In Area,http://dbpedia.org/resource/Yerba_Buena_Center_for_the_Arts,http://dbpedia.org/ontology/locatedInArea,random,1,1
+Groovy Times,Record Label,http://dbpedia.org/resource/Groovy_Times,http://dbpedia.org/ontology/recordLabel,embedding,1,1
+Purple Heart Recording Company,Death Place,http://dbpedia.org/resource/Purple_Heart_Recording_Company,http://dbpedia.org/ontology/deathPlace,embedding,0,0
+Sam Cooke,Associated Musical Artist,http://dbpedia.org/resource/Sam_Cooke,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Andrea Lowe,Country,http://dbpedia.org/resource/Andrea_Lowe,http://dbpedia.org/ontology/country,embedding,0,0
+Anthrax (U K Band),Hometown,http://dbpedia.org/resource/Anthrax_(UK_band),http://dbpedia.org/ontology/hometown,query,0,0
+Kam (rapper),Located In Area,http://dbpedia.org/resource/Kam_(rapper),http://dbpedia.org/ontology/locatedInArea,embedding,0,0
+John Collins (Canadian Musician),Alma Mater,http://dbpedia.org/resource/John_Collins_(Canadian_musician),http://dbpedia.org/ontology/almaMater,compatible,1,1
+Teun Jacob,Birth Place,http://dbpedia.org/resource/Teun_Jacob,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Marian Stafford,Nationality,http://dbpedia.org/resource/Marian_Stafford,http://dbpedia.org/ontology/nationality,compatible,1,1
+John Ruscoe,Country,http://dbpedia.org/resource/John_Ruscoe,http://dbpedia.org/ontology/country,embedding,0,0
+Crediton,State,http://dbpedia.org/resource/Crediton,http://dbpedia.org/ontology/state,random,1,1
+Kenneth Ormsby,Birth Place,http://dbpedia.org/resource/Kenneth_Ormsby,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Dendemann,Producer,http://dbpedia.org/resource/Dendemann,http://dbpedia.org/ontology/producer,random,1,1
+Death Discography,Genre,http://dbpedia.org/resource/Death_discography,http://dbpedia.org/ontology/genre,embedding,1,1
+I Still Remember,Birth Place,http://dbpedia.org/resource/I_Still_Remember,http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Parkfield High School,Location,http://dbpedia.org/resource/Parkfield_High_School,http://dbpedia.org/ontology/location,random,1,1
+Kelly Jean Van Dyke,Birth Place,http://dbpedia.org/resource/Kelly_Jean_Van_Dyke,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Pulsedriver,Hometown,http://dbpedia.org/resource/Pulsedriver,http://dbpedia.org/ontology/hometown,query,1,1
+Roc Raida,Birth Place,http://dbpedia.org/resource/Roc_Raida,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Connor O' Toole,Death Place,http://dbpedia.org/resource/Connor_O'Toole,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Puscifer,Record Label,http://dbpedia.org/resource/Puscifer,http://dbpedia.org/ontology/recordLabel,query,1,1
+Salt Lake Tabernacle Organ,Country,http://dbpedia.org/resource/Salt_Lake_Tabernacle_organ,http://dbpedia.org/ontology/country,embedding,1,1
+Tears For Fears,Associated Musical Artist,http://dbpedia.org/resource/Tears_for_Fears,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Drink Up Buttercup,Country,http://dbpedia.org/resource/Drink_Up_Buttercup,http://dbpedia.org/ontology/country,random,1,1
+Puig D' Ombriaga,Genre,http://dbpedia.org/resource/Puig_d'Ombriaga,http://dbpedia.org/ontology/genre,random,0,0
+Robert Middlemiss,Nationality,http://dbpedia.org/resource/Robert_Middlemiss,http://dbpedia.org/ontology/nationality,compatible,1,1
+Dhoom Dhoom,Artist,http://dbpedia.org/resource/Dhoom_Dhoom,http://dbpedia.org/ontology/artist,embedding,1,1
+Dutch Republic,Occupation,http://dbpedia.org/resource/Dutch_Republic,http://dbpedia.org/ontology/occupation,random,0,0
+The Sunday Roast,Associated Band,http://dbpedia.org/resource/The_Sunday_Roast,http://dbpedia.org/ontology/associatedBand,embedding,1,0
+Namida Kirari Tobase,Ground,http://dbpedia.org/resource/Namida_Kirari_Tobase,http://dbpedia.org/ontology/ground,random,0,0
+Minerva Press,Associated Band,http://dbpedia.org/resource/Minerva_Press,http://dbpedia.org/ontology/associatedBand,embedding,0,0
+Charles West (physician),Nationality,http://dbpedia.org/resource/Charles_West_(physician),http://dbpedia.org/ontology/nationality,compatible,1,1
+The Magnetic Fields,Associated Musical Artist,http://dbpedia.org/resource/The_Magnetic_Fields,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Steve Fitzgerald,Country,http://dbpedia.org/resource/Steve_Fitzgerald,http://dbpedia.org/ontology/country,random,0,0
+Niclas Fasth,Alma Mater,http://dbpedia.org/resource/Niclas_Fasth,http://dbpedia.org/ontology/almaMater,compatible,1,1
+Stryper,Band Member,http://dbpedia.org/resource/Stryper,http://dbpedia.org/ontology/bandMember,query,1,1
+Gus Dapperton,Associated Band,http://dbpedia.org/resource/Gus_Dapperton,http://dbpedia.org/ontology/associatedBand,embedding,1,1
+Celtic Thunder,Associated Band,http://dbpedia.org/resource/Celtic_Thunder,http://dbpedia.org/ontology/associatedBand,embedding,1,1
+Jeff Mullins (politician),Alma Mater,http://dbpedia.org/resource/Jeff_Mullins_(politician),http://dbpedia.org/ontology/almaMater,compatible,1,1
+Al Di Meola,Associated Band,http://dbpedia.org/resource/Al_Di_Meola,http://dbpedia.org/ontology/associatedBand,query,1,1
+Peter C. Fishburn,Death Place,http://dbpedia.org/resource/Peter_C._Fishburn,http://dbpedia.org/ontology/deathPlace,compatible,1,1
+Rory Culkin,Death Place,http://dbpedia.org/resource/Rory_Culkin,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Derek Weddle,Nationality,http://dbpedia.org/resource/Derek_Weddle,http://dbpedia.org/ontology/nationality,compatible,1,1
+Mine (Taproot Song),Birth Place,http://dbpedia.org/resource/Mine_(Taproot_song),http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Malla Reddy,Location,http://dbpedia.org/resource/Malla_Reddy,http://dbpedia.org/ontology/location,random,0,0
+Eddie Arning,Nationality,http://dbpedia.org/resource/Eddie_Arning,http://dbpedia.org/ontology/nationality,compatible,1,1
+Gidi Gov,Birth Place,http://dbpedia.org/resource/Gidi_Gov,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Crooklyn Dodgers,Birth Place,http://dbpedia.org/resource/Crooklyn_Dodgers,http://dbpedia.org/ontology/birthPlace,embedding,1,1
+Niezwojowice,Genre,http://dbpedia.org/resource/Niezwojowice,http://dbpedia.org/ontology/genre,random,0,0
+Fred Beardsley,Country,http://dbpedia.org/resource/Fred_Beardsley,http://dbpedia.org/ontology/country,random,0,0
+Melvin La Thomas Brimm,Associated Musical Artist,http://dbpedia.org/resource/Melvin_LaThomas_Brimm,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+The Who,Associated Musical Artist,http://dbpedia.org/resource/The_Who,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Gorgoroth,Genre,http://dbpedia.org/resource/Gorgoroth,http://dbpedia.org/ontology/genre,query,1,1
+Maarcos,Birth Place,http://dbpedia.org/resource/Maarcos,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Ellen Allien,Associated Musical Artist,http://dbpedia.org/resource/Ellen_Allien,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Paul Thek,Death Place,http://dbpedia.org/resource/Paul_Thek,http://dbpedia.org/ontology/deathPlace,compatible,1,1
+Casey Neill,Associated Musical Artist,http://dbpedia.org/resource/Casey_Neill,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Denyo,Nationality,http://dbpedia.org/resource/Denyo,http://dbpedia.org/ontology/nationality,compatible,1,1
+Sophisti-pop,Location,http://dbpedia.org/resource/Sophisti-pop,http://dbpedia.org/ontology/location,embedding,0,0
+Julian Perretta,Associated Musical Artist,http://dbpedia.org/resource/Julian_Perretta,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Jazz-Funk,Location,http://dbpedia.org/resource/Jazz-Funk,http://dbpedia.org/ontology/location,embedding,0,0
+The Inbetweenies,Artist,http://dbpedia.org/resource/The_Inbetweenies,http://dbpedia.org/ontology/artist,embedding,1,1
+Jerry Cantrell,Associated Band,http://dbpedia.org/resource/Jerry_Cantrell,http://dbpedia.org/ontology/associatedBand,query,1,1
+Symphonic Metal,Genre,http://dbpedia.org/resource/Symphonic_metal,http://dbpedia.org/ontology/genre,query,1,1
+Dan Druff (musician),Associated Band,http://dbpedia.org/resource/Dan_Druff_(musician),http://dbpedia.org/ontology/associatedBand,query,1,1
+Jack Johnson (musician),Hometown,http://dbpedia.org/resource/Jack_Johnson_(musician),http://dbpedia.org/ontology/hometown,query,1,1
+Matt Hyde (British Producer),Associated Band,http://dbpedia.org/resource/Matt_Hyde_(British_producer),http://dbpedia.org/ontology/associatedBand,query,1,1
+Mary Bunting,Death Place,http://dbpedia.org/resource/Mary_Bunting,http://dbpedia.org/ontology/deathPlace,compatible,1,1
+Let's Ride (Game Song),Death Place,http://dbpedia.org/resource/Let's_Ride_(Game_song),http://dbpedia.org/ontology/deathPlace,embedding,0,0
+Oracle (band),Death Place,http://dbpedia.org/resource/Oracle_(band),http://dbpedia.org/ontology/deathPlace,embedding,0,0
+Blues,Birth Place,http://dbpedia.org/resource/Blues,http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Pravesh Rana,Associated Band,http://dbpedia.org/resource/Pravesh_Rana,http://dbpedia.org/ontology/associatedBand,embedding,1,0
+A Question Of Time,Band Member,http://dbpedia.org/resource/A_Question_of_Time,http://dbpedia.org/ontology/bandMember,embedding,0,0
+Jang Hyuk,Death Place,http://dbpedia.org/resource/Jang_Hyuk,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Jason Isbell,Associated Band,http://dbpedia.org/resource/Jason_Isbell,http://dbpedia.org/ontology/associatedBand,query,1,1
+Santiago Dobles,Country,http://dbpedia.org/resource/Santiago_Dobles,http://dbpedia.org/ontology/country,embedding,0,0
+Trifekta,Record Label,http://dbpedia.org/resource/Trifekta,http://dbpedia.org/ontology/recordLabel,query,1,1
+Hanin Elias,Birth Place,http://dbpedia.org/resource/Hanin_Elias,http://dbpedia.org/ontology/birthPlace,embedding,1,1
+Ornette Coleman,Hometown,http://dbpedia.org/resource/Ornette_Coleman,http://dbpedia.org/ontology/hometown,query,1,1
+Humberto Clayber,Nationality,http://dbpedia.org/resource/Humberto_Clayber,http://dbpedia.org/ontology/nationality,compatible,1,1
+George Fraska,Location,http://dbpedia.org/resource/George_Fraska,http://dbpedia.org/ontology/location,random,0,0
+Franky Perez,Birth Place,http://dbpedia.org/resource/Franky_Perez,http://dbpedia.org/ontology/birthPlace,embedding,1,1
+Primus (band),Associated Band,http://dbpedia.org/resource/Primus_(band),http://dbpedia.org/ontology/associatedBand,query,1,1
+People Have The Power,Band Member,http://dbpedia.org/resource/People_Have_the_Power,http://dbpedia.org/ontology/bandMember,embedding,0,0
+Formula One Teams Association,Death Place,http://dbpedia.org/resource/Formula_One_Teams_Association,http://dbpedia.org/ontology/deathPlace,random,0,0
+Hatebreed Discography,Genre,http://dbpedia.org/resource/Hatebreed_discography,http://dbpedia.org/ontology/genre,embedding,1,1
+Korona Kielce,Occupation,http://dbpedia.org/resource/Korona_Kielce,http://dbpedia.org/ontology/occupation,random,0,0
+Shiva (actor),Country,http://dbpedia.org/resource/Shiva_(actor),http://dbpedia.org/ontology/country,embedding,0,0
+Patrick Joseph,Death Place,http://dbpedia.org/resource/Patrick_Joseph,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Be. A,Birth Place,http://dbpedia.org/resource/Be.A,http://dbpedia.org/ontology/birthPlace,random,0,0
+Infamous Syndicate,Location,http://dbpedia.org/resource/Infamous_Syndicate,http://dbpedia.org/ontology/location,random,0,0
+Huckabuck,Birth Place,http://dbpedia.org/resource/Huckabuck,http://dbpedia.org/ontology/birthPlace,random,0,0
+Simcoe East (provincial Electoral District),Band Member,http://dbpedia.org/resource/Simcoe_East_(provincial_electoral_district),http://dbpedia.org/ontology/bandMember,embedding,0,0
+"Curbridge, Oxfordshire",Associated Band,"http://dbpedia.org/resource/Curbridge,_Oxfordshire",http://dbpedia.org/ontology/associatedBand,embedding,0,0
+Fools Garden,Associated Musical Artist,http://dbpedia.org/resource/Fools_Garden,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Donn Pohren,Country,http://dbpedia.org/resource/Donn_Pohren,http://dbpedia.org/ontology/country,embedding,0,0
+John Blust,Associated Musical Artist,http://dbpedia.org/resource/John_Blust,http://dbpedia.org/ontology/associatedMusicalArtist,embedding,1,0
+Job For A Cowboy,Associated Musical Artist,http://dbpedia.org/resource/Job_For_A_Cowboy,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Eichenau,Hometown,http://dbpedia.org/resource/Eichenau,http://dbpedia.org/ontology/hometown,query,1,0
+Gates Of Eden (song),Associated Band,http://dbpedia.org/resource/Gates_of_Eden_(song),http://dbpedia.org/ontology/associatedBand,embedding,0,0
+Jack Hardy (singer-songwriter),Artist,http://dbpedia.org/resource/Jack_Hardy_(singer-songwriter),http://dbpedia.org/ontology/artist,random,1,0
+Slum Village,Associated Musical Artist,http://dbpedia.org/resource/Slum_Village,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Butyrsky District,Associated Band,http://dbpedia.org/resource/Butyrsky_District,http://dbpedia.org/ontology/associatedBand,embedding,0,0
+Frankie Adams,Birth Place,http://dbpedia.org/resource/Frankie_Adams,http://dbpedia.org/ontology/birthPlace,random,1,1
+K M F D M,Associated Musical Artist,http://dbpedia.org/resource/KMFDM,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Elisabeth Lennartz,Birth Place,http://dbpedia.org/resource/Elisabeth_Lennartz,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Eric Lu,Death Place,http://dbpedia.org/resource/Eric_Lu,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+"St John The Baptist's Church, Longbridge",Birth Place,"http://dbpedia.org/resource/St_John_the_Baptist's_Church,_Longbridge",http://dbpedia.org/ontology/birthPlace,random,0,0
+Josh Ramsay,Associated Band,http://dbpedia.org/resource/Josh_Ramsay,http://dbpedia.org/ontology/associatedBand,query,1,1
+Swiss Cottage Tube Station,Associated Musical Artist,http://dbpedia.org/resource/Swiss_Cottage_tube_station,http://dbpedia.org/ontology/associatedMusicalArtist,embedding,0,0
+A T B,Genre,http://dbpedia.org/resource/ATB,http://dbpedia.org/ontology/genre,query,1,1
+Hayden Quinn,Genre,http://dbpedia.org/resource/Hayden_Quinn,http://dbpedia.org/ontology/genre,random,1,0
+Steel Attack,Band Member,http://dbpedia.org/resource/Steel_Attack,http://dbpedia.org/ontology/bandMember,query,1,1
+G Z R,Associated Band,http://dbpedia.org/resource/GZR,http://dbpedia.org/ontology/associatedBand,query,1,1
+She & Him,Associated Musical Artist,http://dbpedia.org/resource/She_&_Him,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Santana (band),Associated Musical Artist,http://dbpedia.org/resource/Santana_(band),http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Yves Langlois,Country,http://dbpedia.org/resource/Yves_Langlois,http://dbpedia.org/ontology/country,random,0,0
+Georg Thomas,Nationality,http://dbpedia.org/resource/Georg_Thomas,http://dbpedia.org/ontology/nationality,compatible,1,1
+B. Vinod Kumar,Birth Place,http://dbpedia.org/resource/B._Vinod_Kumar,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+The Knife,Associated Band,http://dbpedia.org/resource/The_Knife,http://dbpedia.org/ontology/associatedBand,query,1,1
+Object Of My Desire,Located In Area,http://dbpedia.org/resource/Object_of_My_Desire,http://dbpedia.org/ontology/locatedInArea,embedding,0,0
+Virginia Mason Medical Center,Writer,http://dbpedia.org/resource/Virginia_Mason_Medical_Center,http://dbpedia.org/ontology/writer,random,0,0
+Do Ya (The Move Song),Nationality,http://dbpedia.org/resource/Do_Ya_(The_Move_song),http://dbpedia.org/ontology/nationality,embedding,0,0
+The Crystal Method,Associated Band,http://dbpedia.org/resource/The_Crystal_Method,http://dbpedia.org/ontology/associatedBand,query,1,1
+Brian Murray (politician),Death Place,http://dbpedia.org/resource/Brian_Murray_(politician),http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Coco Rosie,Associated Band,http://dbpedia.org/resource/CocoRosie,http://dbpedia.org/ontology/associatedBand,query,1,1
+Darcy Lever,Birth Place,http://dbpedia.org/resource/Darcy_Lever,http://dbpedia.org/ontology/birthPlace,random,1,1
+Miharu Koshi,Country,http://dbpedia.org/resource/Miharu_Koshi,http://dbpedia.org/ontology/country,embedding,0,0
+Eivind Stenersen Engelstad,Artist,http://dbpedia.org/resource/Eivind_Stenersen_Engelstad,http://dbpedia.org/ontology/artist,random,1,0
+I Love I Hate,Artist,http://dbpedia.org/resource/I_Love_I_Hate,http://dbpedia.org/ontology/artist,compatible,1,1
+Philip Glass,Hometown,http://dbpedia.org/resource/Philip_Glass,http://dbpedia.org/ontology/hometown,query,1,1
+Fritz Zwicky,Birth Place,http://dbpedia.org/resource/Fritz_Zwicky,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Jack Sheldon,Team,http://dbpedia.org/resource/Jack_Sheldon,http://dbpedia.org/ontology/team,embedding,1,0
+Pulstate,Associated Band,http://dbpedia.org/resource/Pulstate,http://dbpedia.org/ontology/associatedBand,embedding,1,1
+Karlie Samuelson,Nationality,http://dbpedia.org/resource/Karlie_Samuelson,http://dbpedia.org/ontology/nationality,compatible,1,1
+Marion Winik,Artist,http://dbpedia.org/resource/Marion_Winik,http://dbpedia.org/ontology/artist,random,1,0
+Keith Stegall,Associated Band,http://dbpedia.org/resource/Keith_Stegall,http://dbpedia.org/ontology/associatedBand,embedding,1,1
+Dormston,Associated Band,http://dbpedia.org/resource/Dormston,http://dbpedia.org/ontology/associatedBand,embedding,0,0
+Allyson Swaby,Record Label,http://dbpedia.org/resource/Allyson_Swaby,http://dbpedia.org/ontology/recordLabel,random,1,1
+Kobylin-Kuleszki,Located In Area,http://dbpedia.org/resource/Kobylin-Kuleszki,http://dbpedia.org/ontology/locatedInArea,compatible,1,0
+The Spinners (U. S. Band),Artist,http://dbpedia.org/resource/The_Spinners_(U.S._band),http://dbpedia.org/ontology/artist,embedding,1,1
+Grant Maloy Smith,Associated Musical Artist,http://dbpedia.org/resource/Grant_Maloy_Smith,http://dbpedia.org/ontology/associatedMusicalArtist,embedding,1,1
+Olympia (musician),Death Place,http://dbpedia.org/resource/Olympia_(musician),http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Bartholomew De Sancto Laurentio,Location,http://dbpedia.org/resource/Bartholomew_de_Sancto_Laurentio,http://dbpedia.org/ontology/location,random,0,0
+Louise O' Brien,Country,http://dbpedia.org/resource/Louise_O'Brien,http://dbpedia.org/ontology/country,random,0,0
+The Heartbreaks,Nationality,http://dbpedia.org/resource/The_Heartbreaks,http://dbpedia.org/ontology/nationality,random,0,0
+Barry Watson (actor),Country,http://dbpedia.org/resource/Barry_Watson_(actor),http://dbpedia.org/ontology/country,random,0,0
+"Central Park, Wisconsin",Located In Area,"http://dbpedia.org/resource/Central_Park,_Wisconsin",http://dbpedia.org/ontology/locatedInArea,compatible,1,0
+James Bachman,Country,http://dbpedia.org/resource/James_Bachman,http://dbpedia.org/ontology/country,embedding,0,0
+"Cowman, Milk Your Cow",Nationality,"http://dbpedia.org/resource/Cowman,_Milk_Your_Cow",http://dbpedia.org/ontology/nationality,embedding,0,0
+Nick Barker (priest),Associated Musical Artist,http://dbpedia.org/resource/Nick_Barker_(priest),http://dbpedia.org/ontology/associatedMusicalArtist,embedding,1,0
+Reginald Hazeltine Bassett,Genre,http://dbpedia.org/resource/Reginald_Hazeltine_Bassett,http://dbpedia.org/ontology/genre,random,1,1
+Chris Ramsey (footballer),Country,http://dbpedia.org/resource/Chris_Ramsey_(footballer),http://dbpedia.org/ontology/country,random,0,0
+Messy Goes To Okido,Producer,http://dbpedia.org/resource/Messy_Goes_to_Okido,http://dbpedia.org/ontology/producer,compatible,1,1
+Nathalie (singer),Death Place,http://dbpedia.org/resource/Nathalie_(singer),http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Josh Ritter,Located In Area,http://dbpedia.org/resource/Josh_Ritter,http://dbpedia.org/ontology/locatedInArea,embedding,0,0
+Hazen High School (North Dakota),Location,http://dbpedia.org/resource/Hazen_High_School_(North_Dakota),http://dbpedia.org/ontology/location,random,1,1
+Academy Of Urban Planning,Nationality,http://dbpedia.org/resource/Academy_of_Urban_Planning,http://dbpedia.org/ontology/nationality,random,0,0
+Song Ju-hee,Nationality,http://dbpedia.org/resource/Song_Ju-hee,http://dbpedia.org/ontology/nationality,compatible,1,1
+Aparde,Country,http://dbpedia.org/resource/Aparde,http://dbpedia.org/ontology/country,embedding,0,0
+"Ashley County, Arkansas",Location,"http://dbpedia.org/resource/Ashley_County,_Arkansas",http://dbpedia.org/ontology/location,random,1,0
+Bill Sharpe (musician),City,http://dbpedia.org/resource/Bill_Sharpe_(musician),http://dbpedia.org/ontology/city,random,0,0
+Milo Calhoun,Headquarter,http://dbpedia.org/resource/Milo_Calhoun,http://dbpedia.org/ontology/headquarter,random,0,0
+Phil Manzanera,Associated Band,http://dbpedia.org/resource/Phil_Manzanera,http://dbpedia.org/ontology/associatedBand,query,1,1
+Air Canada Tango,Death Place,http://dbpedia.org/resource/Air_Canada_Tango,http://dbpedia.org/ontology/deathPlace,random,0,0
+James Edward Keeler,Birth Place,http://dbpedia.org/resource/James_Edward_Keeler,http://dbpedia.org/ontology/birthPlace,random,1,1
+Double Bass,Writer,http://dbpedia.org/resource/Double_bass,http://dbpedia.org/ontology/writer,embedding,0,0
+Aleksandrs Kublinskis,Death Place,http://dbpedia.org/resource/Aleksandrs_Kublinskis,http://dbpedia.org/ontology/deathPlace,random,1,1
+Irish Olympic Handball Association,Nationality,http://dbpedia.org/resource/Irish_Olympic_Handball_Association,http://dbpedia.org/ontology/nationality,random,0,0
+Century Media,Record Label,http://dbpedia.org/resource/Century_Media,http://dbpedia.org/ontology/recordLabel,query,1,0
+Jimmy Eat World,Record Label,http://dbpedia.org/resource/Jimmy_Eat_World,http://dbpedia.org/ontology/recordLabel,query,1,1
+Uh Huh Her (band),Location,http://dbpedia.org/resource/Uh_Huh_Her_(band),http://dbpedia.org/ontology/location,embedding,0,0
+Taroona Rugby Club,Country,http://dbpedia.org/resource/Taroona_Rugby_Club,http://dbpedia.org/ontology/country,random,1,1
+John Hartley (tennis),City,http://dbpedia.org/resource/John_Hartley_(tennis),http://dbpedia.org/ontology/city,random,0,0
+Richard Cleaver,Genre,http://dbpedia.org/resource/Richard_Cleaver,http://dbpedia.org/ontology/genre,random,1,0
+Mono (Japanese Band),Hometown,http://dbpedia.org/resource/Mono_(Japanese_band),http://dbpedia.org/ontology/hometown,query,0,0
+Jack Johnson (musician),Record Label,http://dbpedia.org/resource/Jack_Johnson_(musician),http://dbpedia.org/ontology/recordLabel,query,1,1
+Ghost Dance (band),Associated Musical Artist,http://dbpedia.org/resource/Ghost_Dance_(band),http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Decoder (artist),Occupation,http://dbpedia.org/resource/Decoder_(artist),http://dbpedia.org/ontology/occupation,embedding,1,1
+Finish Line (Yasmin Song),Nationality,http://dbpedia.org/resource/Finish_Line_(Yasmin_song),http://dbpedia.org/ontology/nationality,embedding,0,0
+Mediashopping,Birth Place,http://dbpedia.org/resource/Mediashopping,http://dbpedia.org/ontology/birthPlace,random,0,0
+Eli Radish Band,Associated Musical Artist,http://dbpedia.org/resource/Eli_Radish_Band,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Woobinda (Animal Doctor),City,http://dbpedia.org/resource/Woobinda_(Animal_Doctor),http://dbpedia.org/ontology/city,random,0,0
+Goldmine (George Fox Song),Nationality,http://dbpedia.org/resource/Goldmine_(George_Fox_song),http://dbpedia.org/ontology/nationality,random,0,0
+Michael Pestronk,Birth Place,http://dbpedia.org/resource/Michael_Pestronk,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Paul Doumer,Genre,http://dbpedia.org/resource/Paul_Doumer,http://dbpedia.org/ontology/genre,random,1,0
+Azad Bonni,Birth Place,http://dbpedia.org/resource/Azad_Bonni,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+National Federation Of Fish Friers,Country,http://dbpedia.org/resource/National_Federation_of_Fish_Friers,http://dbpedia.org/ontology/country,embedding,1,1
+Heart Of Stone (Bucks Fizz Song),Headquarter,http://dbpedia.org/resource/Heart_of_Stone_(Bucks_Fizz_song),http://dbpedia.org/ontology/headquarter,random,0,0
+Nothing Left (As I Lay Dying Song),Birth Place,http://dbpedia.org/resource/Nothing_Left_(As_I_Lay_Dying_song),http://dbpedia.org/ontology/birthPlace,random,0,0
+Lewis Machin,Birth Place,http://dbpedia.org/resource/Lewis_Machin,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Bucks Lake Game Reserve,Birth Place,http://dbpedia.org/resource/Bucks_Lake_Game_Reserve,http://dbpedia.org/ontology/birthPlace,random,1,0
+"Upper Turkeyfoot Township, Somerset County, Pennsylvania",Associated Band,"http://dbpedia.org/resource/Upper_Turkeyfoot_Township,_Somerset_County,_Pennsylvania",http://dbpedia.org/ontology/associatedBand,embedding,0,0
+Chris Clavin,Country,http://dbpedia.org/resource/Chris_Clavin,http://dbpedia.org/ontology/country,embedding,0,0
+Lindsay Farris,Country,http://dbpedia.org/resource/Lindsay_Farris,http://dbpedia.org/ontology/country,embedding,0,0
+Psyclon Nine,Genre,http://dbpedia.org/resource/Psyclon_Nine,http://dbpedia.org/ontology/genre,query,1,1
+Mindi Abair,Death Place,http://dbpedia.org/resource/Mindi_Abair,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Jessie J,Record Label,http://dbpedia.org/resource/Jessie_J,http://dbpedia.org/ontology/recordLabel,query,1,1
+Bryan Foy,Death Place,http://dbpedia.org/resource/Bryan_Foy,http://dbpedia.org/ontology/deathPlace,compatible,1,1
+Vivian Arend,Birth Place,http://dbpedia.org/resource/Vivian_Arend,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Iron And Steel Trades Confederation,Headquarter,http://dbpedia.org/resource/Iron_and_Steel_Trades_Confederation,http://dbpedia.org/ontology/headquarter,random,1,1
+Barbara Alred,Country,http://dbpedia.org/resource/Barbara_Alred,http://dbpedia.org/ontology/country,random,0,0
+Ollie Olsen,Nationality,http://dbpedia.org/resource/Ollie_Olsen,http://dbpedia.org/ontology/nationality,compatible,1,1
+Renato Anselmi,Death Place,http://dbpedia.org/resource/Renato_Anselmi,http://dbpedia.org/ontology/deathPlace,compatible,1,1
+Sherry Blakley,Location,http://dbpedia.org/resource/Sherry_Blakley,http://dbpedia.org/ontology/location,random,0,0
+Muddy Waters,Band Member,http://dbpedia.org/resource/Muddy_Waters,http://dbpedia.org/ontology/bandMember,query,1,1
+Black Sun Empire,Death Place,http://dbpedia.org/resource/Black_Sun_Empire,http://dbpedia.org/ontology/deathPlace,random,0,0
+Rob Gordon (curler),Nationality,http://dbpedia.org/resource/Rob_Gordon_(curler),http://dbpedia.org/ontology/nationality,compatible,1,1
+"Church Of All Saints, Yekaterinburg",Hometown,"http://dbpedia.org/resource/Church_of_All_Saints,_Yekaterinburg",http://dbpedia.org/ontology/hometown,random,0,0
+Backbone,Location,http://dbpedia.org/resource/At_the_End_of_the_Day_/_Backbone,http://dbpedia.org/ontology/location,embedding,0,0
+Sam Glaser,Country,http://dbpedia.org/resource/Sam_Glaser,http://dbpedia.org/ontology/country,embedding,0,0
+Frank Ferrer,Band Member,http://dbpedia.org/resource/Frank_Ferrer,http://dbpedia.org/ontology/bandMember,query,1,1
+Luc M. Lacroix,Birth Place,http://dbpedia.org/resource/Luc_M._Lacroix,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Gabriel Teodros,Death Place,http://dbpedia.org/resource/Gabriel_Teodros,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Laura Fine,Birth Place,http://dbpedia.org/resource/Laura_Fine,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Yui (singer),Genre,http://dbpedia.org/resource/Yui_(singer),http://dbpedia.org/ontology/genre,query,1,1
+Viktor Mazin,Location,http://dbpedia.org/resource/Viktor_Mazin,http://dbpedia.org/ontology/location,random,0,0
+X T C,Record Label,http://dbpedia.org/resource/XTC,http://dbpedia.org/ontology/recordLabel,query,1,1
+Antonio Rey,Country,http://dbpedia.org/resource/Antonio_Rey,http://dbpedia.org/ontology/country,embedding,0,0
+Dionne Warwick,Associated Band,http://dbpedia.org/resource/Dionne_Warwick,http://dbpedia.org/ontology/associatedBand,query,1,1
+"Minamitane, Kagoshima",Capital,"http://dbpedia.org/resource/Minamitane,_Kagoshima",http://dbpedia.org/ontology/capital,compatible,1,0
+Stay Bent Krunk-a-Delic,Associated Band,http://dbpedia.org/resource/StayBent_Krunk-a-Delic,http://dbpedia.org/ontology/associatedBand,query,1,1
+Thanos Kalliris,Nationality,http://dbpedia.org/resource/Thanos_Kalliris,http://dbpedia.org/ontology/nationality,embedding,1,1
+Edgardo Bauza,Death Place,http://dbpedia.org/resource/Edgardo_Bauza,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Isis (horn-rock Band),Record Label,http://dbpedia.org/resource/Isis_(horn-rock_band),http://dbpedia.org/ontology/recordLabel,query,1,1
+Thuingaleng Muivah,Associated Musical Artist,http://dbpedia.org/resource/Thuingaleng_Muivah,http://dbpedia.org/ontology/associatedMusicalArtist,random,1,0
+Street Life (Roxy Music Song),Birth Place,http://dbpedia.org/resource/Street_Life_(Roxy_Music_song),http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Mehmet Ali Avci,Genre,http://dbpedia.org/resource/Mehmet_Ali_Avci,http://dbpedia.org/ontology/genre,random,1,1
+Enterasys Networks,Hometown,http://dbpedia.org/resource/Enterasys_Networks,http://dbpedia.org/ontology/hometown,compatible,0,0
+Ruste Juxx,Nationality,http://dbpedia.org/resource/Ruste_Juxx,http://dbpedia.org/ontology/nationality,compatible,1,1
+Gerry Alvarez,Band Member,http://dbpedia.org/resource/Gerry_Alvarez,http://dbpedia.org/ontology/bandMember,query,1,1
+"Crosby, Merseyside",Associated Band,"http://dbpedia.org/resource/Crosby,_Merseyside",http://dbpedia.org/ontology/associatedBand,embedding,0,0
+Richard C. Watts,Associated Band,http://dbpedia.org/resource/Richard_C._Watts,http://dbpedia.org/ontology/associatedBand,embedding,1,0
+Valtorres,Headquarter,http://dbpedia.org/resource/Valtorres,http://dbpedia.org/ontology/headquarter,random,0,0
+Giovanni D' Onofrio,Nationality,http://dbpedia.org/resource/Giovanni_D'Onofrio,http://dbpedia.org/ontology/nationality,compatible,1,1
+Steril (band),Birth Place,http://dbpedia.org/resource/Steril_(band),http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Ariel Zilber,Nationality,http://dbpedia.org/resource/Ariel_Zilber,http://dbpedia.org/ontology/nationality,compatible,1,1
+Isabella Cannon,Location,http://dbpedia.org/resource/Isabella_Cannon,http://dbpedia.org/ontology/location,random,0,0
+Band Of Heathens,Nationality,http://dbpedia.org/resource/Band_of_Heathens,http://dbpedia.org/ontology/nationality,embedding,0,0
+Annette Groth (journalist),Birth Place,http://dbpedia.org/resource/Annette_Groth_(journalist),http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Meridian Dawn,Hometown,http://dbpedia.org/resource/Meridian_Dawn,http://dbpedia.org/ontology/hometown,compatible,1,1
+Pulsedriver,Record Label,http://dbpedia.org/resource/Pulsedriver,http://dbpedia.org/ontology/recordLabel,query,1,1
+Bill Wendt,Death Place,http://dbpedia.org/resource/Bill_Wendt,http://dbpedia.org/ontology/deathPlace,compatible,1,1
+Enter Shikari,Hometown,http://dbpedia.org/resource/Enter_Shikari,http://dbpedia.org/ontology/hometown,query,0,0
+Burgundy Records,Birth Place,http://dbpedia.org/resource/Burgundy_Records,http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Excessive Force,Birth Place,http://dbpedia.org/resource/Excessive_Force,http://dbpedia.org/ontology/birthPlace,embedding,0,0
+George Fisher (footballer),Nationality,http://dbpedia.org/resource/George_Fisher_(footballer),http://dbpedia.org/ontology/nationality,compatible,1,1
+All Of My Love,Writer,http://dbpedia.org/resource/All_of_My_Love,http://dbpedia.org/ontology/writer,compatible,1,1
+Rainbow Chasers,Associated Musical Artist,http://dbpedia.org/resource/Rainbow_Chasers,http://dbpedia.org/ontology/associatedMusicalArtist,embedding,1,1
+Owen Husney,Country,http://dbpedia.org/resource/Owen_Husney,http://dbpedia.org/ontology/country,embedding,0,0
+Kanye West,Associated Band,http://dbpedia.org/resource/Kanye_West,http://dbpedia.org/ontology/associatedBand,query,1,1
+Sola (Francesca Michielin Song),Country,http://dbpedia.org/resource/Sola_(Francesca_Michielin_song),http://dbpedia.org/ontology/country,embedding,1,1
+Judith Arnold,Ideology,http://dbpedia.org/resource/Judith_Arnold,http://dbpedia.org/ontology/ideology,random,1,1
+Something Anything,Country,http://dbpedia.org/resource/Something_Anything,http://dbpedia.org/ontology/country,embedding,1,1
+Trumpet,Instrument,http://dbpedia.org/resource/Trumpet,http://dbpedia.org/ontology/instrument,query,1,0
+Ciao Darwin,Death Place,http://dbpedia.org/resource/Ciao_Darwin,http://dbpedia.org/ontology/deathPlace,random,0,0
+Fatimid Conquest Of Egypt,Genre,http://dbpedia.org/resource/Fatimid_conquest_of_Egypt,http://dbpedia.org/ontology/genre,random,0,0
+Steve Ashley,Birth Place,http://dbpedia.org/resource/Steve_Ashley,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Kent Karlsen,Country,http://dbpedia.org/resource/Kent_Karlsen,http://dbpedia.org/ontology/country,random,0,0
+Jag Panzer,Genre,http://dbpedia.org/resource/Jag_Panzer,http://dbpedia.org/ontology/genre,query,1,1
+Rilo Kiley,Associated Musical Artist,http://dbpedia.org/resource/Rilo_Kiley,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Axenstar,Record Label,http://dbpedia.org/resource/Axenstar,http://dbpedia.org/ontology/recordLabel,query,1,1
+"Trawniki, Silesian Voivodeship",Genre,"http://dbpedia.org/resource/Trawniki,_Silesian_Voivodeship",http://dbpedia.org/ontology/genre,random,0,0
+Souls Of We,Death Place,http://dbpedia.org/resource/Souls_of_We,http://dbpedia.org/ontology/deathPlace,embedding,0,0
+Mark Juddery,Associated Band,http://dbpedia.org/resource/Mark_Juddery,http://dbpedia.org/ontology/associatedBand,random,1,0
+Holy Smoke (song),Record Label,http://dbpedia.org/resource/Holy_Smoke_(song),http://dbpedia.org/ontology/recordLabel,embedding,1,1
+John Duus (sport Shooter),Genre,http://dbpedia.org/resource/John_Duus_(sport_shooter),http://dbpedia.org/ontology/genre,random,1,0
+Him & I,Birth Place,http://dbpedia.org/resource/Him_&_I,http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Dirty (song),Producer,http://dbpedia.org/resource/Dirty_(song),http://dbpedia.org/ontology/producer,embedding,1,1
+Llannerch-y-medd,Genre,http://dbpedia.org/resource/Llannerch-y-medd,http://dbpedia.org/ontology/genre,random,0,0
+Kryzhopil,Genre,http://dbpedia.org/resource/Kryzhopil,http://dbpedia.org/ontology/genre,random,0,0
+Flower Travellin' Band,Birth Place,http://dbpedia.org/resource/Flower_Travellin'_Band,http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Shropham,Located In Area,http://dbpedia.org/resource/Shropham,http://dbpedia.org/ontology/locatedInArea,compatible,1,1
+Shin Mi-sung,Alma Mater,http://dbpedia.org/resource/Shin_Mi-sung,http://dbpedia.org/ontology/almaMater,compatible,1,1
+Hawthorne Heights,Genre,http://dbpedia.org/resource/Hawthorne_Heights,http://dbpedia.org/ontology/genre,query,1,1
+Chemical Probes Portal,Headquarter,http://dbpedia.org/resource/Chemical_Probes_Portal,http://dbpedia.org/ontology/headquarter,embedding,1,1
+Robert Pollok,Associated Band,http://dbpedia.org/resource/Robert_Pollok,http://dbpedia.org/ontology/associatedBand,embedding,1,0
+Detroit Diesel (band),Nationality,http://dbpedia.org/resource/Detroit_Diesel_(band),http://dbpedia.org/ontology/nationality,embedding,0,0
+Crimen Sollicitationis (song),Associated Band,http://dbpedia.org/resource/Crimen_sollicitationis_(song),http://dbpedia.org/ontology/associatedBand,embedding,0,0
+Zoe Rahman,Nationality,http://dbpedia.org/resource/Zoe_Rahman,http://dbpedia.org/ontology/nationality,compatible,1,1
+Inside That I Cried,Country,http://dbpedia.org/resource/Inside_That_I_Cried,http://dbpedia.org/ontology/country,embedding,1,1
+William F. Hamilton (professor),Death Place,http://dbpedia.org/resource/William_F._Hamilton_(professor),http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Spirit (band),Band Member,http://dbpedia.org/resource/Spirit_(band),http://dbpedia.org/ontology/bandMember,query,1,1
+Tommy Toms,Country,http://dbpedia.org/resource/Tommy_Toms,http://dbpedia.org/ontology/country,random,0,0
+Marie Serneholt,Associated Musical Artist,http://dbpedia.org/resource/Marie_Serneholt,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Alissa Moreno,Birth Place,http://dbpedia.org/resource/Alissa_Moreno,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Conwy Suspension Bridge,Crosses,http://dbpedia.org/resource/Conwy_Suspension_Bridge,http://dbpedia.org/ontology/crosses,query,1,1
+Richard Ashcroft,Associated Musical Artist,http://dbpedia.org/resource/Richard_Ashcroft,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Paolo Meneguzzi,Band Member,http://dbpedia.org/resource/Paolo_Meneguzzi,http://dbpedia.org/ontology/bandMember,query,1,1
+Aaron Carter,Record Label,http://dbpedia.org/resource/Aaron_Carter,http://dbpedia.org/ontology/recordLabel,query,1,1
+Louis Le Bel,Location,http://dbpedia.org/resource/Louis_LeBel,http://dbpedia.org/ontology/location,random,0,0
+Dark Angel (band),Associated Musical Artist,http://dbpedia.org/resource/Dark_Angel_(band),http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Richard Wang (chess Player),Nationality,http://dbpedia.org/resource/Richard_Wang_(chess_player),http://dbpedia.org/ontology/nationality,compatible,1,1
+Yyrkoon (band),Birth Place,http://dbpedia.org/resource/Yyrkoon_(band),http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Tina May,City,http://dbpedia.org/resource/Tina_May,http://dbpedia.org/ontology/city,random,0,0
+Headscan,Associated Band,http://dbpedia.org/resource/Headscan,http://dbpedia.org/ontology/associatedBand,query,1,1
+Howard Thomas Markey,Death Place,http://dbpedia.org/resource/Howard_Thomas_Markey,http://dbpedia.org/ontology/deathPlace,compatible,1,1
+Benimeli,Located In Area,http://dbpedia.org/resource/Benimeli,http://dbpedia.org/ontology/locatedInArea,compatible,1,0
+Ciudad Real Central Airport,Record Label,http://dbpedia.org/resource/Ciudad_Real_Central_Airport,http://dbpedia.org/ontology/recordLabel,random,0,0
+Tommy Tolles,Country,http://dbpedia.org/resource/Tommy_Tolles,http://dbpedia.org/ontology/country,random,0,0
+Biysky District,Associated Band,http://dbpedia.org/resource/Biysky_District,http://dbpedia.org/ontology/associatedBand,embedding,0,0
+Recover (song),Associated Band,http://dbpedia.org/resource/Recover_(song),http://dbpedia.org/ontology/associatedBand,embedding,0,0
+"Oakland County, Michigan",Record Label,"http://dbpedia.org/resource/Oakland_County,_Michigan",http://dbpedia.org/ontology/recordLabel,random,0,0
+Yumi Natta,City,http://dbpedia.org/resource/Yumi_Natta,http://dbpedia.org/ontology/city,random,0,0
+Brandon Mychal Smith,Associated Band,http://dbpedia.org/resource/Brandon_Mychal_Smith,http://dbpedia.org/ontology/associatedBand,random,1,1
+Jacques Brel,Record Label,http://dbpedia.org/resource/Jacques_Brel,http://dbpedia.org/ontology/recordLabel,query,1,1
+Stanley C. Soderland,Birth Place,http://dbpedia.org/resource/Stanley_C._Soderland,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+"Fleet Marine Force, Pacific",Location,"http://dbpedia.org/resource/Fleet_Marine_Force,_Pacific",http://dbpedia.org/ontology/location,random,1,0
+Whack Records,Associated Band,http://dbpedia.org/resource/Whack_Records,http://dbpedia.org/ontology/associatedBand,embedding,1,1
+Frank Sinatra,Associated Musical Artist,http://dbpedia.org/resource/Frank_Sinatra,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Jiro Kamata,Death Place,http://dbpedia.org/resource/Jiro_Kamata,http://dbpedia.org/ontology/deathPlace,random,0,0
+North Knox Career And Technical Education Center,Hometown,http://dbpedia.org/resource/North_Knox_Career_and_Technical_Education_Center,http://dbpedia.org/ontology/hometown,compatible,0,0
+Volker Danner,Birth Place,http://dbpedia.org/resource/Volker_Danner,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Jurgen Ceder,Birth Place,http://dbpedia.org/resource/Jurgen_Ceder,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Paint It Black (Bi S H Song),Country,http://dbpedia.org/resource/Paint_It_Black_(BiSH_song),http://dbpedia.org/ontology/country,random,1,1
+U S S Panama,Associated Band,http://dbpedia.org/resource/USS_Panama,http://dbpedia.org/ontology/associatedBand,embedding,0,0
+The Scotsman Hotel,Birth Place,http://dbpedia.org/resource/The_Scotsman_Hotel,http://dbpedia.org/ontology/birthPlace,random,0,0
+King Coleman,Birth Place,http://dbpedia.org/resource/King_Coleman,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Starsailor (band),Hometown,http://dbpedia.org/resource/Starsailor_(band),http://dbpedia.org/ontology/hometown,query,0,0
+Sidestepper,Associated Band,http://dbpedia.org/resource/Sidestepper,http://dbpedia.org/ontology/associatedBand,embedding,1,1
+La Tocha Scott,Location,http://dbpedia.org/resource/LaTocha_Scott,http://dbpedia.org/ontology/location,embedding,0,0
+Little Royal And The Swingmasters,Instrument,http://dbpedia.org/resource/Little_Royal_and_The_Swingmasters,http://dbpedia.org/ontology/instrument,compatible,1,1
+Heavy In Your Arms,Associated Band,http://dbpedia.org/resource/Heavy_in_Your_Arms,http://dbpedia.org/ontology/associatedBand,embedding,0,0
+Mick Jones (The Clash Guitarist),Associated Musical Artist,http://dbpedia.org/resource/Mick_Jones_(The_Clash_guitarist),http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Ashley Tisdale,Country,http://dbpedia.org/resource/Ashley_Tisdale,http://dbpedia.org/ontology/country,embedding,0,0
+Punk Rock,Genre,http://dbpedia.org/resource/Punk_rock,http://dbpedia.org/ontology/genre,query,1,1
+Fearless (Taylor Swift Song),Writer,http://dbpedia.org/resource/Fearless_(Taylor_Swift_song),http://dbpedia.org/ontology/writer,compatible,1,1
+Warren Fitzgerald,Associated Band,http://dbpedia.org/resource/Warren_Fitzgerald,http://dbpedia.org/ontology/associatedBand,query,1,1
+Max Gomez (musician),Death Place,http://dbpedia.org/resource/Max_Gomez_(musician),http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Eddie Turner,Country,http://dbpedia.org/resource/Eddie_Turner,http://dbpedia.org/ontology/country,embedding,0,0
+Jane Vasey,Birth Place,http://dbpedia.org/resource/Jane_Vasey,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+"Izbiska, Podkarpackie Voivodeship",Genre,"http://dbpedia.org/resource/Izbiska,_Podkarpackie_Voivodeship",http://dbpedia.org/ontology/genre,random,0,0
+Finnknevatnet,Location,http://dbpedia.org/resource/Finnknevatnet,http://dbpedia.org/ontology/location,random,1,1
+Momento Mori U K,Country,http://dbpedia.org/resource/Momento_Mori_UK,http://dbpedia.org/ontology/country,embedding,1,1
+Big Time Sensuality,Associated Musical Artist,http://dbpedia.org/resource/Big_Time_Sensuality,http://dbpedia.org/ontology/associatedMusicalArtist,embedding,0,0
+J Records,Record Label,http://dbpedia.org/resource/J_Records,http://dbpedia.org/ontology/recordLabel,query,1,0
+Pizzicato Five,Associated Band,http://dbpedia.org/resource/Pizzicato_Five,http://dbpedia.org/ontology/associatedBand,query,1,1
+Sparklehorse,Genre,http://dbpedia.org/resource/Sparklehorse,http://dbpedia.org/ontology/genre,query,1,1
+A S A P (band),Nationality,http://dbpedia.org/resource/ASAP_(band),http://dbpedia.org/ontology/nationality,embedding,0,0
+What Ya Wanna Do,Location,http://dbpedia.org/resource/What_Ya_Wanna_Do,http://dbpedia.org/ontology/location,random,0,0
+Won James Won,Country,http://dbpedia.org/resource/Won_James_Won,http://dbpedia.org/ontology/country,embedding,1,1
+Wand Records,Country,http://dbpedia.org/resource/Wand_Records,http://dbpedia.org/ontology/country,embedding,1,1
+Doug Deming & The Jewel Tones,Birth Place,http://dbpedia.org/resource/Doug_Deming_&_the_Jewel_Tones,http://dbpedia.org/ontology/birthPlace,compatible,0,0
+Doug Wimbish,Associated Band,http://dbpedia.org/resource/Doug_Wimbish,http://dbpedia.org/ontology/associatedBand,query,1,1
+The Burgate School And Sixth Form,Death Place,http://dbpedia.org/resource/The_Burgate_School_and_Sixth_Form,http://dbpedia.org/ontology/deathPlace,random,0,0
+Polina Kostiukovich,Birth Place,http://dbpedia.org/resource/Polina_Kostiukovich,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Tintern Abbey (band),Birth Place,http://dbpedia.org/resource/Tintern_Abbey_(band),http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Scott Lloyd,Nationality,http://dbpedia.org/resource/Scott_Lloyd,http://dbpedia.org/ontology/nationality,compatible,1,1
+Bobby Worth (musician),Instrument,http://dbpedia.org/resource/Bobby_Worth_(musician),http://dbpedia.org/ontology/instrument,compatible,1,1
+James Lofton (baseball),Artist,http://dbpedia.org/resource/James_Lofton_(baseball),http://dbpedia.org/ontology/artist,random,1,0
+Round Foundry,Record Label,http://dbpedia.org/resource/Round_Foundry,http://dbpedia.org/ontology/recordLabel,random,0,0
+Don Costello,Country,http://dbpedia.org/resource/Don_Costello,http://dbpedia.org/ontology/country,embedding,0,0
+Edward Cox (Australian Politician),Birth Place,http://dbpedia.org/resource/Edward_Cox_(Australian_politician),http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Michael M. Berger,Record Label,http://dbpedia.org/resource/Michael_M._Berger,http://dbpedia.org/ontology/recordLabel,random,1,0
+Sacred Oath,Death Place,http://dbpedia.org/resource/Sacred_Oath,http://dbpedia.org/ontology/deathPlace,embedding,0,0
+S P K (band),Associated Musical Artist,http://dbpedia.org/resource/SPK_(band),http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+D J Skee,Artist,http://dbpedia.org/resource/DJ_Skee,http://dbpedia.org/ontology/artist,embedding,1,1
+Stephen Oliver (composer),Genre,http://dbpedia.org/resource/Stephen_Oliver_(composer),http://dbpedia.org/ontology/genre,random,1,1
+Anna De Weert,Birth Place,http://dbpedia.org/resource/Anna_De_Weert,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+James Henry (poet),Death Place,http://dbpedia.org/resource/James_Henry_(poet),http://dbpedia.org/ontology/deathPlace,compatible,1,1
+Newton-X,Nationality,http://dbpedia.org/resource/Newton-X,http://dbpedia.org/ontology/nationality,random,0,0
+Dependent (record Label),Record Label,http://dbpedia.org/resource/Dependent_(record_label),http://dbpedia.org/ontology/recordLabel,query,1,0
+Evandro Guerra,Genre,http://dbpedia.org/resource/Evandro_Guerra,http://dbpedia.org/ontology/genre,random,1,0
+Kings Place,Associated Musical Artist,http://dbpedia.org/resource/Kings_Place,http://dbpedia.org/ontology/associatedMusicalArtist,random,0,0
+Lake Lashaway,Nationality,http://dbpedia.org/resource/Lake_Lashaway,http://dbpedia.org/ontology/nationality,random,0,0
+Damion Reid,Nationality,http://dbpedia.org/resource/Damion_Reid,http://dbpedia.org/ontology/nationality,compatible,1,1
+Carbonized,Birth Place,http://dbpedia.org/resource/Carbonized,http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Bram De Ly,Nationality,http://dbpedia.org/resource/Bram_De_Ly,http://dbpedia.org/ontology/nationality,random,1,1
+Warren Wiebe,Associated Musical Artist,http://dbpedia.org/resource/Warren_Wiebe,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Theo Keating,Associated Musical Artist,http://dbpedia.org/resource/Theo_Keating,http://dbpedia.org/ontology/associatedMusicalArtist,embedding,1,1
+"Disraeli, Quebec (parish)",Birth Place,"http://dbpedia.org/resource/Disraeli,_Quebec_(parish)",http://dbpedia.org/ontology/birthPlace,random,1,0
+Do It Again (The Chemical Brothers Song),Birth Place,http://dbpedia.org/resource/Do_It_Again_(The_Chemical_Brothers_song),http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Toshimitsu Kai,Death Place,http://dbpedia.org/resource/Toshimitsu_Kai,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Glitterball (song),Associated Band,http://dbpedia.org/resource/Glitterball_(song),http://dbpedia.org/ontology/associatedBand,embedding,0,0
+Yuri Kayurov,Birth Place,http://dbpedia.org/resource/Yuri_Kayurov,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Terry Reid,Associated Musical Artist,http://dbpedia.org/resource/Terry_Reid,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Siouxsie And The Banshees,Associated Musical Artist,http://dbpedia.org/resource/Siouxsie_and_the_Banshees,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Philip Beresford,Hometown,http://dbpedia.org/resource/Philip_Beresford,http://dbpedia.org/ontology/hometown,random,1,1
+Dodie Stevens,Nationality,http://dbpedia.org/resource/Dodie_Stevens,http://dbpedia.org/ontology/nationality,compatible,1,1
+Boris Ignatovich,Birth Place,http://dbpedia.org/resource/Boris_Ignatovich,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Olive Ann Alcorn,Genre,http://dbpedia.org/resource/Olive_Ann_Alcorn,http://dbpedia.org/ontology/genre,random,1,1
+Marius Jampolskis,Death Place,http://dbpedia.org/resource/Marius_Jampolskis,http://dbpedia.org/ontology/deathPlace,random,0,0
+Raekwon,Genre,http://dbpedia.org/resource/Raekwon,http://dbpedia.org/ontology/genre,query,1,1
+"Mc Kernan, Edmonton",Located In Area,"http://dbpedia.org/resource/McKernan,_Edmonton",http://dbpedia.org/ontology/locatedInArea,compatible,1,0
+Capital Inicial,Associated Band,http://dbpedia.org/resource/Capital_Inicial,http://dbpedia.org/ontology/associatedBand,query,1,1
+Henry Douglas Robinson,Associated Band,http://dbpedia.org/resource/Henry_Douglas_Robinson,http://dbpedia.org/ontology/associatedBand,embedding,1,0
+Diablo Swing Orchestra,Record Label,http://dbpedia.org/resource/Diablo_Swing_Orchestra,http://dbpedia.org/ontology/recordLabel,query,1,1
+Jack L. Warner,Birth Place,http://dbpedia.org/resource/Jack_L._Warner,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Preston Smith (governor),Nationality,http://dbpedia.org/resource/Preston_Smith_(governor),http://dbpedia.org/ontology/nationality,compatible,1,1
+Sorochye,Ground,http://dbpedia.org/resource/Sorochye,http://dbpedia.org/ontology/ground,random,0,0
+Moby,Record Label,http://dbpedia.org/resource/Moby,http://dbpedia.org/ontology/recordLabel,query,1,1
+Theo Francken,Birth Place,http://dbpedia.org/resource/Theo_Francken,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Sarah Lancashire,Location,http://dbpedia.org/resource/Sarah_Lancashire,http://dbpedia.org/ontology/location,random,0,0
+Sannosuke Ueshima,Nationality,http://dbpedia.org/resource/Sannosuke_Ueshima,http://dbpedia.org/ontology/nationality,compatible,1,1
+Chico Buarque,Band Member,http://dbpedia.org/resource/Chico_Buarque,http://dbpedia.org/ontology/bandMember,query,1,1
+"Sing, Sing, Sing (With A Swing)",Band Member,"http://dbpedia.org/resource/Sing,_Sing,_Sing_(With_a_Swing)",http://dbpedia.org/ontology/bandMember,embedding,0,0
+Mis-Teeq,Record Label,http://dbpedia.org/resource/Mis-Teeq,http://dbpedia.org/ontology/recordLabel,query,1,1
+Banc-y-Warren,Birth Place,http://dbpedia.org/resource/Banc-y-Warren,http://dbpedia.org/ontology/birthPlace,random,0,0
+Lee Mendelson Films,Country,http://dbpedia.org/resource/Lee_Mendelson_Films,http://dbpedia.org/ontology/country,random,1,1
+Gigi Radics,Birth Place,http://dbpedia.org/resource/Gigi_Radics,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+The Demise,Death Place,http://dbpedia.org/resource/The_Demise,http://dbpedia.org/ontology/deathPlace,random,0,0
+Always You (Jennifer Paige Song),Artist,http://dbpedia.org/resource/Always_You_(Jennifer_Paige_song),http://dbpedia.org/ontology/artist,embedding,1,1
+Thom Yorke,Associated Band,http://dbpedia.org/resource/Thom_Yorke,http://dbpedia.org/ontology/associatedBand,query,1,1
+Moonglow And Theme From Picnic,Country,http://dbpedia.org/resource/Moonglow_and_Theme_from_Picnic,http://dbpedia.org/ontology/country,random,1,1
+A Perfect Circle,Hometown,http://dbpedia.org/resource/A_Perfect_Circle,http://dbpedia.org/ontology/hometown,query,0,0
+Dmitri Mendeleev,Author,http://dbpedia.org/resource/Dmitri_Mendeleev,http://dbpedia.org/ontology/author,query,1,1
+John Lennon,Record Label,http://dbpedia.org/resource/John_Lennon,http://dbpedia.org/ontology/recordLabel,query,1,1
+Gloria (Bulgarian Singer),Band Member,http://dbpedia.org/resource/Gloria_(Bulgarian_singer),http://dbpedia.org/ontology/bandMember,query,1,1
+Cradle Of Filth,Genre,http://dbpedia.org/resource/Cradle_of_Filth,http://dbpedia.org/ontology/genre,query,1,1
+Anatoli Georgievich Vitushkin,Location,http://dbpedia.org/resource/Anatoli_Georgievich_Vitushkin,http://dbpedia.org/ontology/location,random,0,0
+Bob Mayo,Country,http://dbpedia.org/resource/Bob_Mayo,http://dbpedia.org/ontology/country,embedding,1,1
+Robert Carothers,Birth Place,http://dbpedia.org/resource/Robert_Carothers,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Andrew Huang (hacker),Birth Place,http://dbpedia.org/resource/Andrew_Huang_(hacker),http://dbpedia.org/ontology/birthPlace,compatible,1,1
+New Payments Platform,Death Place,http://dbpedia.org/resource/New_Payments_Platform,http://dbpedia.org/ontology/deathPlace,random,0,0
+Elizabeth Learning Center,Hometown,http://dbpedia.org/resource/Elizabeth_Learning_Center,http://dbpedia.org/ontology/hometown,compatible,0,0
+Kiss And Tell (Bryan Ferry Song),Ground,http://dbpedia.org/resource/Kiss_and_Tell_(Bryan_Ferry_song),http://dbpedia.org/ontology/ground,embedding,0,0
+Just Ace,Associated Band,http://dbpedia.org/resource/Just_Ace,http://dbpedia.org/ontology/associatedBand,random,0,0
+Slam Dunk Records,Record Label,http://dbpedia.org/resource/Slam_Dunk_Records,http://dbpedia.org/ontology/recordLabel,query,1,0
+Stereophonics,Associated Band,http://dbpedia.org/resource/Stereophonics,http://dbpedia.org/ontology/associatedBand,query,1,1
+Freak Folk,Genre,http://dbpedia.org/resource/Freak_folk,http://dbpedia.org/ontology/genre,query,1,1
+Mazo Beach,Located In Area,http://dbpedia.org/resource/Mazo_Beach,http://dbpedia.org/ontology/locatedInArea,compatible,1,0
+Rachel De Montmorency,Birth Place,http://dbpedia.org/resource/Rachel_de_Montmorency,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+"Stanbridge, New South Wales",Located In Area,"http://dbpedia.org/resource/Stanbridge,_New_South_Wales",http://dbpedia.org/ontology/locatedInArea,compatible,1,0
+Ti A,Genre,http://dbpedia.org/resource/TiA,http://dbpedia.org/ontology/genre,query,1,1
+Seeker Lover Keeper,Headquarter,http://dbpedia.org/resource/Seeker_Lover_Keeper,http://dbpedia.org/ontology/headquarter,embedding,0,0
+I Love It When We Do,Birth Place,http://dbpedia.org/resource/I_Love_It_When_We_Do,http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Twiztid,Location,http://dbpedia.org/resource/Twiztid,http://dbpedia.org/ontology/location,embedding,0,0
+S M S (band),Band Member,http://dbpedia.org/resource/SMS_(band),http://dbpedia.org/ontology/bandMember,query,1,1
+"Barneveld, Wisconsin",Headquarter,"http://dbpedia.org/resource/Barneveld,_Wisconsin",http://dbpedia.org/ontology/headquarter,random,0,0
+Debra Byrd,Location,http://dbpedia.org/resource/Debra_Byrd,http://dbpedia.org/ontology/location,embedding,0,0
+Kemi,Hometown,http://dbpedia.org/resource/Kemi,http://dbpedia.org/ontology/hometown,query,1,0
+Mendo De Benavides,Death Place,http://dbpedia.org/resource/Mendo_de_Benavides,http://dbpedia.org/ontology/deathPlace,compatible,1,1
+Lifehouse (band),Record Label,http://dbpedia.org/resource/Lifehouse_(band),http://dbpedia.org/ontology/recordLabel,query,1,1
+Kruibeke,Nationality,http://dbpedia.org/resource/Kruibeke,http://dbpedia.org/ontology/nationality,random,0,0
+Mexico City Blues,Record Label,http://dbpedia.org/resource/Mexico_City_Blues,http://dbpedia.org/ontology/recordLabel,random,0,0
+Breaking (song),Country,http://dbpedia.org/resource/Breaking_(song),http://dbpedia.org/ontology/country,random,1,1
+Columbia University,Profession,http://dbpedia.org/resource/Columbia_University,http://dbpedia.org/ontology/profession,query,0,0
+Oosterbierum,Located In Area,http://dbpedia.org/resource/Oosterbierum,http://dbpedia.org/ontology/locatedInArea,compatible,1,0
+Beastie Boys,Genre,http://dbpedia.org/resource/Beastie_Boys,http://dbpedia.org/ontology/genre,query,1,1
+Simon Baron-Cohen,Headquarter,http://dbpedia.org/resource/Simon_Baron-Cohen,http://dbpedia.org/ontology/headquarter,random,0,0
+Edgar Garibay,Death Place,http://dbpedia.org/resource/Edgar_Garibay,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+The Hives,Associated Musical Artist,http://dbpedia.org/resource/The_Hives,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Ecuador (song),Country,http://dbpedia.org/resource/Ecuador_(song),http://dbpedia.org/ontology/country,embedding,1,1
+Greenville Technical Charter High School,Hometown,http://dbpedia.org/resource/Greenville_Technical_Charter_High_School,http://dbpedia.org/ontology/hometown,compatible,0,0
+Galestian,Death Place,http://dbpedia.org/resource/Galestian,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Aira Mitsuki,Associated Band,http://dbpedia.org/resource/Aira_Mitsuki,http://dbpedia.org/ontology/associatedBand,query,1,1
+Barb Jungr,Death Place,http://dbpedia.org/resource/Barb_Jungr,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Hugh Delahunty,Nationality,http://dbpedia.org/resource/Hugh_Delahunty,http://dbpedia.org/ontology/nationality,compatible,1,1
+Venkatesh Shankar,Death Place,http://dbpedia.org/resource/Venkatesh_Shankar,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Hooverphonic,Associated Musical Artist,http://dbpedia.org/resource/Hooverphonic,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Ringworm (band),Associated Musical Artist,http://dbpedia.org/resource/Ringworm_(band),http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+"Gradec, Litija",Location,"http://dbpedia.org/resource/Gradec,_Litija",http://dbpedia.org/ontology/location,random,1,0
+Brandon Forsyth,Birth Place,http://dbpedia.org/resource/Brandon_Forsyth,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Alexandra Burke,Record Label,http://dbpedia.org/resource/Alexandra_Burke,http://dbpedia.org/ontology/recordLabel,query,1,1
+Rich File,Birth Place,http://dbpedia.org/resource/Rich_File,http://dbpedia.org/ontology/birthPlace,embedding,1,1
+Ashes Divide,Associated Band,http://dbpedia.org/resource/Ashes_Divide,http://dbpedia.org/ontology/associatedBand,query,1,1
+Geri Halliwell,Death Place,http://dbpedia.org/resource/Geri_Halliwell,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Rohina Malik,Nationality,http://dbpedia.org/resource/Rohina_Malik,http://dbpedia.org/ontology/nationality,compatible,1,1
+Boris (singer),Artist,http://dbpedia.org/resource/Boris_(singer),http://dbpedia.org/ontology/artist,embedding,1,1
+Don Ross (guitarist),Associated Musical Artist,http://dbpedia.org/resource/Don_Ross_(guitarist),http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Genesis (band),Band Member,http://dbpedia.org/resource/Genesis_(band),http://dbpedia.org/ontology/bandMember,query,1,1
+George Montaigne,Birth Place,http://dbpedia.org/resource/George_Montaigne,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Kerstin Wohlbold,Record Label,http://dbpedia.org/resource/Kerstin_Wohlbold,http://dbpedia.org/ontology/recordLabel,random,1,0
+Sampha,Associated Band,http://dbpedia.org/resource/Sampha,http://dbpedia.org/ontology/associatedBand,query,1,1
+Montegiordano,Location,http://dbpedia.org/resource/Montegiordano,http://dbpedia.org/ontology/location,random,1,1
+Emily Nonnen,Location,http://dbpedia.org/resource/Emily_Nonnen,http://dbpedia.org/ontology/location,random,0,0
+Gloria Estefan,Genre,http://dbpedia.org/resource/Gloria_Estefan,http://dbpedia.org/ontology/genre,query,1,1
+John Sitgreaves,Artist,http://dbpedia.org/resource/John_Sitgreaves,http://dbpedia.org/ontology/artist,random,1,0
+Pippa Malmgren,Associated Band,http://dbpedia.org/resource/Pippa_Malmgren,http://dbpedia.org/ontology/associatedBand,embedding,1,0
+Monexus,Birth Place,http://dbpedia.org/resource/Monexus,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Mark Featherstone-Witty,Country,http://dbpedia.org/resource/Mark_Featherstone-Witty,http://dbpedia.org/ontology/country,random,0,0
+June Anderson,Headquarter,http://dbpedia.org/resource/June_Anderson,http://dbpedia.org/ontology/headquarter,random,0,0
+Miran Edgar Thompson,Headquarter,http://dbpedia.org/resource/Miran_Edgar_Thompson,http://dbpedia.org/ontology/headquarter,random,0,0
+Porcupine Tree,Associated Band,http://dbpedia.org/resource/Porcupine_Tree,http://dbpedia.org/ontology/associatedBand,query,1,1
+Jacek Tascher,Birth Place,http://dbpedia.org/resource/Jacek_Tascher,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Min Woo Lee,Birth Place,http://dbpedia.org/resource/Min_Woo_Lee,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Joppolo,Associated Band,http://dbpedia.org/resource/Joppolo,http://dbpedia.org/ontology/associatedBand,embedding,0,0
+"Yellabinna, South Australia",Nationality,"http://dbpedia.org/resource/Yellabinna,_South_Australia",http://dbpedia.org/ontology/nationality,random,0,0
+Mindless Self Indulgence,Associated Musical Artist,http://dbpedia.org/resource/Mindless_Self_Indulgence,http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+John Mc Kenzie (musician),Birth Place,http://dbpedia.org/resource/John_McKenzie_(musician),http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Joe Morris (drummer),Country,http://dbpedia.org/resource/Joe_Morris_(drummer),http://dbpedia.org/ontology/country,random,0,0
+Kelly Clarkson,Associated Band,http://dbpedia.org/resource/Kelly_Clarkson,http://dbpedia.org/ontology/associatedBand,query,1,1
+The Wolverines (rock Band),Birth Place,http://dbpedia.org/resource/The_Wolverines_(rock_band),http://dbpedia.org/ontology/birthPlace,random,0,0
+Cleaner (band),Associated Musical Artist,http://dbpedia.org/resource/Cleaner_(band),http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+"Albany Creek, Queensland",Hometown,"http://dbpedia.org/resource/Albany_Creek,_Queensland",http://dbpedia.org/ontology/hometown,query,1,0
+West Essex High School,Ground,http://dbpedia.org/resource/West_Essex_High_School,http://dbpedia.org/ontology/ground,random,1,1
+The Greenhornes,Death Place,http://dbpedia.org/resource/The_Greenhornes,http://dbpedia.org/ontology/deathPlace,embedding,0,0
+Nik Dodani,Birth Place,http://dbpedia.org/resource/Nik_Dodani,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+"Bishop Carroll High School (Calgary, Alberta)",Nationality,"http://dbpedia.org/resource/Bishop_Carroll_High_School_(Calgary,_Alberta)",http://dbpedia.org/ontology/nationality,random,0,0
+Christopher Powell (musician),Nationality,http://dbpedia.org/resource/Christopher_Powell_(musician),http://dbpedia.org/ontology/nationality,random,1,1
+Heskestad Church,Genre,http://dbpedia.org/resource/Heskestad_Church,http://dbpedia.org/ontology/genre,random,0,0
+Valerie's Home Cooking,Located In Area,http://dbpedia.org/resource/Valerie's_Home_Cooking,http://dbpedia.org/ontology/locatedInArea,random,0,0
+Canyon View Preparatory Academy,Headquarter,http://dbpedia.org/resource/Canyon_View_Preparatory_Academy,http://dbpedia.org/ontology/headquarter,compatible,0,0
+Post Regiment,Location,http://dbpedia.org/resource/Post_Regiment,http://dbpedia.org/ontology/location,embedding,0,0
+John Eales (Conservative Politician),Spouse,http://dbpedia.org/resource/John_Eales_(Conservative_politician),http://dbpedia.org/ontology/spouse,random,1,1
+Laibach (band),Band Member,http://dbpedia.org/resource/Laibach_(band),http://dbpedia.org/ontology/bandMember,query,1,1
+Paul Kauvar,Birth Place,http://dbpedia.org/resource/Paul_Kauvar,http://dbpedia.org/ontology/birthPlace,random,1,1
+Arthur Tyler (politician),Ground,http://dbpedia.org/resource/Arthur_Tyler_(politician),http://dbpedia.org/ontology/ground,random,0,0
+"Morphetts Flat, South Australia",Genre,"http://dbpedia.org/resource/Morphetts_Flat,_South_Australia",http://dbpedia.org/ontology/genre,random,0,0
+Reba Mc Entire,Band Member,http://dbpedia.org/resource/Reba_McEntire,http://dbpedia.org/ontology/bandMember,query,1,1
+"Trinity Episcopal Cathedral (San Jose, California)",Associated Musical Artist,"http://dbpedia.org/resource/Trinity_Episcopal_Cathedral_(San_Jose,_California)",http://dbpedia.org/ontology/associatedMusicalArtist,embedding,0,0
+Roy Caton,Nationality,http://dbpedia.org/resource/Roy_Caton,http://dbpedia.org/ontology/nationality,embedding,1,1
+Gloria Trevi,Band Member,http://dbpedia.org/resource/Gloria_Trevi,http://dbpedia.org/ontology/bandMember,query,1,1
+Armata Universal Combat Platform,Birth Place,http://dbpedia.org/resource/Armata_Universal_Combat_Platform,http://dbpedia.org/ontology/birthPlace,random,0,0
+Kolonia Trzepnica,Band Member,http://dbpedia.org/resource/Kolonia_Trzepnica,http://dbpedia.org/ontology/bandMember,embedding,0,0
+Robert Hay Drummond,Death Place,http://dbpedia.org/resource/Robert_Hay_Drummond,http://dbpedia.org/ontology/deathPlace,embedding,1,1
+William Alfred Merchant,Birth Place,http://dbpedia.org/resource/William_Alfred_Merchant,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Isaak Mazepa,Birth Place,http://dbpedia.org/resource/Isaak_Mazepa,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Dan Redfern,Genre,http://dbpedia.org/resource/Dan_Redfern,http://dbpedia.org/ontology/genre,random,1,0
+Mike Scalzi,Death Place,http://dbpedia.org/resource/Mike_Scalzi,http://dbpedia.org/ontology/deathPlace,compatible,0,0
+Robert L. Henry Jr.,Birth Place,http://dbpedia.org/resource/Robert_L._Henry_Jr.,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Courtney Rogers,Birth Place,http://dbpedia.org/resource/Courtney_Rogers,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Claut,Associated Musical Artist,http://dbpedia.org/resource/Claut,http://dbpedia.org/ontology/associatedMusicalArtist,embedding,1,0
+Becontree Heath,Birth Place,http://dbpedia.org/resource/Becontree_Heath,http://dbpedia.org/ontology/birthPlace,random,0,0
+Adam Zolotin,Headquarter,http://dbpedia.org/resource/Adam_Zolotin,http://dbpedia.org/ontology/headquarter,random,0,0
+Ya Chang,Birth Place,http://dbpedia.org/resource/Ya_Chang,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Stress (pop Rock Band),Associated Band,http://dbpedia.org/resource/Stress_(pop_rock_band),http://dbpedia.org/ontology/associatedBand,embedding,1,1
+Something More (Train Song),Artist,http://dbpedia.org/resource/Something_More_(Train_song),http://dbpedia.org/ontology/artist,embedding,1,1
+Teen Pop,Birth Place,http://dbpedia.org/resource/Teen_pop,http://dbpedia.org/ontology/birthPlace,embedding,0,0
+Rich As Fuck,Associated Band,http://dbpedia.org/resource/Rich_As_Fuck,http://dbpedia.org/ontology/associatedBand,embedding,0,0
+Roger Mason (musician),Associated Musical Artist,http://dbpedia.org/resource/Roger_Mason_(musician),http://dbpedia.org/ontology/associatedMusicalArtist,query,1,1
+Valerie Collective,Team,http://dbpedia.org/resource/Valerie_Collective,http://dbpedia.org/ontology/team,random,0,0
+Blondie (band),Record Label,http://dbpedia.org/resource/Blondie_(band),http://dbpedia.org/ontology/recordLabel,query,1,1
+Wally Halsall,Nationality,http://dbpedia.org/resource/Wally_Halsall,http://dbpedia.org/ontology/nationality,compatible,1,1
+"Young, Fresh N' New",Location,"http://dbpedia.org/resource/Young,_Fresh_n'_New",http://dbpedia.org/ontology/location,embedding,0,0
+Tupac Shakur,Record Label,http://dbpedia.org/resource/Tupac_Shakur,http://dbpedia.org/ontology/recordLabel,query,1,1
+Balkan Beat Box,Associated Band,http://dbpedia.org/resource/Balkan_Beat_Box,http://dbpedia.org/ontology/associatedBand,query,1,1
+Leslie A. Lyons,Birth Place,http://dbpedia.org/resource/Leslie_A._Lyons,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+R. H. Gordon,Birth Place,http://dbpedia.org/resource/R._H._Gordon,http://dbpedia.org/ontology/birthPlace,random,1,1
+Eden (Australian Band),Headquarter,http://dbpedia.org/resource/Eden_(Australian_band),http://dbpedia.org/ontology/headquarter,compatible,0,0
+Frances Claudia Wright,Birth Place,http://dbpedia.org/resource/Frances_Claudia_Wright,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Feel Good Hit Of The Summer,Death Place,http://dbpedia.org/resource/Feel_Good_Hit_of_the_Summer,http://dbpedia.org/ontology/deathPlace,embedding,0,0
+Wakarowo,Located In Area,http://dbpedia.org/resource/Wakarowo,http://dbpedia.org/ontology/locatedInArea,compatible,1,0
+Kirby Mack,Nationality,http://dbpedia.org/resource/Kirby_Mack,http://dbpedia.org/ontology/nationality,compatible,1,1
+Hard To Say,Country,http://dbpedia.org/resource/Hard_to_Say,http://dbpedia.org/ontology/country,random,1,1
+Kane Gang,Country,http://dbpedia.org/resource/Kane_Gang,http://dbpedia.org/ontology/country,random,1,1
+Shavone Charles,Headquarter,http://dbpedia.org/resource/Shavone_Charles,http://dbpedia.org/ontology/headquarter,random,0,0
+Mambo! (Helena Paparizou Song),Artist,http://dbpedia.org/resource/Mambo!_(Helena_Paparizou_song),http://dbpedia.org/ontology/artist,compatible,1,1
+New River Shasta Language,Birth Place,http://dbpedia.org/resource/New_River_Shasta_language,http://dbpedia.org/ontology/birthPlace,random,0,0
+Zaccaria Cometti,Birth Place,http://dbpedia.org/resource/Zaccaria_Cometti,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Quasimoto,Band Member,http://dbpedia.org/resource/Quasimoto,http://dbpedia.org/ontology/bandMember,query,1,1
+Suzanna Choffel,Birth Place,http://dbpedia.org/resource/Suzanna_Choffel,http://dbpedia.org/ontology/birthPlace,compatible,1,1
+Woman Lake,Birth Place,http://dbpedia.org/resource/Woman_Lake,http://dbpedia.org/ontology/birthPlace,random,0,0
+Charles L. Mc Nary,Nationality,http://dbpedia.org/resource/Charles_L._McNary,http://dbpedia.org/ontology/nationality,compatible,1,1

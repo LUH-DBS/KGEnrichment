@@ -1,0 +1,801 @@
+﻿Entity,Predicate,Entity URI,Relation URI,Identifier,Correct,Relevant
+Chaudhry Pervaiz Elahi,Member Of,http://yago-knowledge.org/resource/Chaudhry_Pervaiz_Elahi,http://schema.org/memberOf,query,1,0
+Worldstar Headquarters,In Language,http://yago-knowledge.org/resource/Worldstar_Headquarters,http://schema.org/inLanguage,compatible,1,1
+Leucozonia Tuberculata,Parent Taxon,http://yago-knowledge.org/resource/Leucozonia_tuberculata,http://bioschemas.org/parentTaxon,compatible,1,1
+X M L Schema#any U R I,Taxon Rank,ttp://www.amt-probstei.de/Stein.699.0.html^^<http://www.w3.org/2001/XMLSchema#anyURI,http://bioschemas.org/taxonRank,random,0,0
+Wang Zongyue,Has Occupation,http://yago-knowledge.org/resource/Wang_Zongyue,http://schema.org/hasOccupation,compatible,1,1
+Zhou Ji (Tang Dynasty),Taxon Rank,http://yago-knowledge.org/resource/Zhou_Ji_(Tang_dynasty),http://bioschemas.org/taxonRank,embedding,0,0
+"Oh, God! (film)",Author,"http://yago-knowledge.org/resource/Oh,_God!_(film)",http://schema.org/author,compatible,0,0
+Take Me To The River (2014 Film),Publisher,http://yago-knowledge.org/resource/Take_Me_to_the_River_(2014_film),http://schema.org/publisher,compatible,1,1
+"The Grove (Jefferson, Texas)",Taxon Rank,"http://yago-knowledge.org/resource/The_Grove_(Jefferson,_Texas)",http://bioschemas.org/taxonRank,random,0,0
+Sant Ildefons (Barcelona Metro),Image,http://yago-knowledge.org/resource/Sant_Ildefons_(Barcelona_Metro),http://schema.org/image,compatible,1,1
+Karl Krenauer,Contained In Place,http://yago-knowledge.org/resource/Karl_Krenauer,http://schema.org/containedInPlace,embedding,0,0
+Cady Noland,Genre,http://yago-knowledge.org/resource/Cady_Noland,http://schema.org/genre,random,1,1
+Bannu Airport,Contained In Place,http://yago-knowledge.org/resource/Bannu_Airport,http://schema.org/containedInPlace,compatible,1,0
+Hannes Holm,Location,http://yago-knowledge.org/resource/Hannes_Holm,http://schema.org/location,embedding,0,0
+Strephonota Tephraeus,Taxon Rank,http://yago-knowledge.org/resource/Strephonota_tephraeus,http://bioschemas.org/taxonRank,query,1,1
+Ligonier Valley High School,Founding Date,http://yago-knowledge.org/resource/Ligonier_Valley_High_School,http://schema.org/foundingDate,query,1,1
+W A K B,Geo,http://yago-knowledge.org/resource/WAKB,http://schema.org/geo,query,1,0
+"Geo:59.400000000000475,-128.21694444444546",Genre,"geo:59.400000000000475,-128.21694444444546",http://schema.org/genre,random,0,0
+St. Clare Of Assisi's Church (Bronx),Country Of Origin,http://yago-knowledge.org/resource/St._Clare_of_Assisi's_Church_(Bronx),http://schema.org/countryOfOrigin,random,0,0
+Mountain State University,Location,http://yago-knowledge.org/resource/Mountain_State_University,http://schema.org/location,query,1,1
+"Kobylniki, Sieradz County",Geo,"http://yago-knowledge.org/resource/Kobylniki,_Sieradz_County",http://schema.org/geo,compatible,1,1
+Michael Collins (film),Birth Place,http://yago-knowledge.org/resource/Michael_Collins_(film),http://schema.org/birthPlace,embedding,0,0
+Potamotrygon Tatianae,Has Occupation,http://yago-knowledge.org/resource/Potamotrygon_tatianae,http://schema.org/hasOccupation,random,0,0
+Orange Route,Given Name,http://yago-knowledge.org/resource/Orange_Route,http://schema.org/givenName,embedding,0,0
+Crassula Exserta,Birth Place,http://yago-knowledge.org/resource/Crassula_exserta,http://schema.org/birthPlace,random,0,0
+Allan Donaldson,Birth Date,http://yago-knowledge.org/resource/Allan_Donaldson,http://schema.org/birthDate,embedding,1,1
+"Geo:46.04880000003684,14.51878055556717",Nationality,"geo:46.04880000003684,14.51878055556717",http://schema.org/nationality,embedding,0,0
+Gavin Blyth,Alumni Of,http://yago-knowledge.org/resource/Gavin_Blyth,http://schema.org/alumniOf,embedding,1,1
+"Geo:49.66333333333373,2.4922222222222423",Member Of,"geo:49.66333333333373,2.4922222222222423",http://schema.org/memberOf,embedding,0,0
+Al-Zaura,Publisher,http://yago-knowledge.org/resource/Al-Zaura,http://schema.org/publisher,compatible,1,1
+Angel Of Evil,Nationality,http://yago-knowledge.org/resource/Angel_of_Evil,http://schema.org/nationality,embedding,0,0
+Doris Keane,Member Of,http://yago-knowledge.org/resource/Doris_Keane,http://schema.org/memberOf,embedding,1,1
+My Band,Genre,http://yago-knowledge.org/resource/My_Band,http://schema.org/genre,query,1,1
+Camillo Caccia Dominioni,Contained In Place,http://yago-knowledge.org/resource/Camillo_Caccia_Dominioni,http://schema.org/containedInPlace,random,1,1
+Vacherauville,Given Name,http://yago-knowledge.org/resource/Vacherauville,http://schema.org/givenName,random,0,0
+The Heart Of The Valley,Creator,http://yago-knowledge.org/resource/The_Heart_of_the_Valley,http://schema.org/creator,compatible,0,0
+Gran Hotel (film),Content Location,http://yago-knowledge.org/resource/Gran_Hotel_(film),http://schema.org/contentLocation,compatible,1,1
+Robert Mulligan,Director,http://yago-knowledge.org/resource/Robert_Mulligan,http://schema.org/director,query,1,1
+"Teti, Sardinia",Birth Place,"http://yago-knowledge.org/resource/Teti,_Sardinia",http://schema.org/birthPlace,query,1,0
+Biure,Contained In Place,http://yago-knowledge.org/resource/Biure,http://schema.org/containedInPlace,compatible,1,1
+X M L Schema#date,Alumni Of,963-02-10^^<http://www.w3.org/2001/XMLSchema#date,http://schema.org/alumniOf,embedding,0,0
+Country House Rescue,Contained In Place,http://yago-knowledge.org/resource/Country_House_Rescue,http://schema.org/containedInPlace,random,0,0
+Neu-Anspach,Founding Date,http://yago-knowledge.org/resource/Neu-Anspach,http://schema.org/foundingDate,query,1,1
+Stars And Gods,Content Location,http://yago-knowledge.org/resource/Stars_and_Gods,http://schema.org/contentLocation,compatible,1,1
+Abraham Mendis Gunasekera,Location,http://yago-knowledge.org/resource/Abraham_Mendis_Gunasekera,http://schema.org/location,embedding,0,0
+X M L Schema#date,Contained In Place,993-02-15^^<http://www.w3.org/2001/XMLSchema#date,http://schema.org/containedInPlace,embedding,0,0
+Captain Underpants And The Perilous Plot Of Professor Poopypants,Producer,http://yago-knowledge.org/resource/Captain_Underpants_and_the_Perilous_Plot_of_Professor_Poopypants,http://schema.org/producer,compatible,0,0
+Maiquinique,Image,http://yago-knowledge.org/resource/Maiquinique,http://schema.org/image,query,1,1
+Mary Barra,Has Occupation,http://yago-knowledge.org/resource/Mary_Barra,http://schema.org/hasOccupation,query,1,1
+Tao Yang,Contained In Place,http://yago-knowledge.org/resource/Tao_Yang,http://schema.org/containedInPlace,embedding,0,0
+W X E M,Sub Organization,http://yago-knowledge.org/resource/WXEM,http://schema.org/subOrganization,compatible,1,1
+New Albany-Floyd County Consolidated School Corporation,Given Name,http://yago-knowledge.org/resource/New_Albany-Floyd_County_Consolidated_School_Corporation,http://schema.org/givenName,embedding,0,0
+Marco Polo (miniseries),Member Of,http://yago-knowledge.org/resource/Marco_Polo_(miniseries),http://schema.org/memberOf,embedding,1,1
+Chloroclystis Delosticha,Image,http://yago-knowledge.org/resource/Chloroclystis_delosticha,http://schema.org/image,compatible,1,1
+Jean Rigaux,Birth Place,http://yago-knowledge.org/resource/Jean_Rigaux,http://schema.org/birthPlace,query,1,1
+"Mother, Mother, Mother Pin A Rose On Me",Date Published,"http://yago-knowledge.org/resource/Mother,_Mother,_Mother_Pin_a_Rose_on_Me",http://schema.org/datePublished,compatible,1,1
+Promyrmekiaphila Winnemem,Parent Taxon,http://yago-knowledge.org/resource/Promyrmekiaphila_winnemem,http://bioschemas.org/parentTaxon,compatible,1,1
+Clinton Welander,Given Name,http://yago-knowledge.org/resource/Clinton_Welander,http://schema.org/givenName,random,1,1
+Bo Engdahl,Gender,http://yago-knowledge.org/resource/Bo_Engdahl,http://schema.org/gender,query,1,1
+Gemmula Rotatilis,Given Name,http://yago-knowledge.org/resource/Gemmula_rotatilis,http://schema.org/givenName,random,0,0
+Pasadena Jewish Temple And Center,Location,http://yago-knowledge.org/resource/Pasadena_Jewish_Temple_and_Center,http://schema.org/location,random,1,1
+Malus Yunnanensis,Image,http://yago-knowledge.org/resource/Malus_yunnanensis,http://schema.org/image,compatible,1,1
+Gmina Grabica,Contained In Place,http://yago-knowledge.org/resource/Gmina_Grabica,http://schema.org/containedInPlace,query,1,0
+The Chinese Orange Mystery,Award,http://yago-knowledge.org/resource/The_Chinese_Orange_Mystery,http://schema.org/award,embedding,1,1
+Heier's Hotel,Image,http://yago-knowledge.org/resource/Heier's_Hotel,http://schema.org/image,query,1,1
+Watching America,Producer,http://yago-knowledge.org/resource/Watching_America,http://schema.org/producer,compatible,1,1
+"Geo:53.74222222222265,110.22944444444532",Contained In Place,"geo:53.74222222222265,110.22944444444532",http://schema.org/containedInPlace,random,1,0
+Matt Barnes,Geo,http://yago-knowledge.org/resource/Matt_Barnes,http://schema.org/geo,random,0,0
+Iris De Freitas Brazao,Family Name,http://yago-knowledge.org/resource/Iris_de_Freitas_Brazao,http://schema.org/familyName,random,1,1
+Trans T V,Taxon Rank,http://yago-knowledge.org/resource/Trans_TV,http://bioschemas.org/taxonRank,random,0,0
+Dmitri Lyskov,Birth Date,http://yago-knowledge.org/resource/Dmitri_Lyskov,http://schema.org/birthDate,query,1,1
+Agrostis Microphylla,Taxon Rank,http://yago-knowledge.org/resource/Agrostis_microphylla,http://bioschemas.org/taxonRank,query,1,1
+Sacred Heart Cathedral Preparatory,Alumni Of,http://yago-knowledge.org/resource/Sacred_Heart_Cathedral_Preparatory,http://schema.org/alumniOf,query,1,0
+Bunessan,Knows Language,http://yago-knowledge.org/resource/Bunessan,http://schema.org/knowsLanguage,random,0,0
+I Wanna Be Loved By You,Death Date,http://yago-knowledge.org/resource/I_Wanna_Be_Loved_by_You,http://schema.org/deathDate,random,0,0
+Thomas D. Howie,Alumni Of,http://yago-knowledge.org/resource/Thomas_D._Howie,http://schema.org/alumniOf,embedding,1,1
+Seeking Gaddafi,Family Name,http://yago-knowledge.org/resource/Seeking_Gaddafi,http://schema.org/familyName,random,0,0
+X M L Schema#any U R I,Has Occupation,ttp://www.kclu.org/^^<http://www.w3.org/2001/XMLSchema#anyURI,http://schema.org/hasOccupation,random,0,0
+Rye Harbour,Award,http://yago-knowledge.org/resource/Rye_Harbour,http://schema.org/award,random,0,0
+"Landquart, Switzerland",Birth Place,"http://yago-knowledge.org/resource/Landquart,_Switzerland",http://schema.org/birthPlace,query,1,0
+Four!,Content Location,http://yago-knowledge.org/resource/Four!,http://schema.org/contentLocation,compatible,1,0
+Aparallactus Guentheri,Nationality,http://yago-knowledge.org/resource/Aparallactus_guentheri,http://schema.org/nationality,random,0,0
+"Kilburn, Derbyshire",Birth Place,"http://yago-knowledge.org/resource/Kilburn,_Derbyshire",http://schema.org/birthPlace,query,1,0
+Adieu Gary,Genre,http://yago-knowledge.org/resource/Adieu_Gary,http://schema.org/genre,query,1,1
+"Embassy Of Sweden, Mexico City",Contains Place,"http://yago-knowledge.org/resource/Embassy_of_Sweden,_Mexico_City",http://schema.org/containsPlace,compatible,1,1
+New Oxford American Dictionary,Date Created,http://yago-knowledge.org/resource/New_Oxford_American_Dictionary,http://schema.org/dateCreated,compatible,1,1
+Edwin Sutermeister,Genre,http://yago-knowledge.org/resource/Edwin_Sutermeister,http://schema.org/genre,embedding,1,0
+The Gates Of Heaven,Image,http://yago-knowledge.org/resource/The_Gates_of_Heaven,http://schema.org/image,compatible,1,1
+"Bojanice, Gniezno County",Geo,"http://yago-knowledge.org/resource/Bojanice,_Gniezno_County",http://schema.org/geo,compatible,1,0
+David Foster (film Producer),Birth Place,http://yago-knowledge.org/resource/David_Foster_(film_producer),http://schema.org/birthPlace,query,1,1
+Richard Fitch,Has Occupation,http://yago-knowledge.org/resource/Richard_Fitch,http://schema.org/hasOccupation,random,1,1
+Carl Holty,Contained In Place,http://yago-knowledge.org/resource/Carl_Holty,http://schema.org/containedInPlace,random,0,0
+Drama (2018 Film),Location,http://yago-knowledge.org/resource/Drama_(2018_film),http://schema.org/location,random,0,0
+"Geo:35.604722222222506,60.66916666666715",Contained In Place,"geo:35.604722222222506,60.66916666666715",http://schema.org/containedInPlace,embedding,1,0
+Paolo Emilio Morgari,Contained In Place,http://yago-knowledge.org/resource/Paolo_Emilio_Morgari,http://schema.org/containedInPlace,embedding,0,0
+Tameside General Hospital,Contains Place,http://yago-knowledge.org/resource/Tameside_General_Hospital,http://schema.org/containsPlace,compatible,1,0
+Laurent Robert,Image,http://yago-knowledge.org/resource/Laurent_Robert,http://schema.org/image,query,1,1
+X M L Schema#any U R I,Member Of,ttp://uk.emrgroup.com/^^<http://www.w3.org/2001/XMLSchema#anyURI,http://schema.org/memberOf,random,0,0
+Vancouver South,Image,http://yago-knowledge.org/resource/Vancouver_South,http://schema.org/image,compatible,1,1
+Nebria Tatrica Fatrensis,Parent Taxon,http://yago-knowledge.org/resource/Nebria_tatrica_fatrensis,http://bioschemas.org/parentTaxon,compatible,1,1
+Sput Rolla,Geo,http://yago-knowledge.org/resource/Sput_Rolla,http://schema.org/geo,compatible,1,1
+Isham Randolph,Given Name,http://yago-knowledge.org/resource/Isham_Randolph,http://schema.org/givenName,embedding,1,1
+Charlotte Aubin,Contained In Place,http://yago-knowledge.org/resource/Charlotte_Aubin,http://schema.org/containedInPlace,embedding,0,0
+"Geo:38.1772,-77.18610000000001",Contained In Place,"geo:38.1772,-77.18610000000001",http://schema.org/containedInPlace,random,1,0
+Carolyn Peck,Alumni Of,http://yago-knowledge.org/resource/Carolyn_Peck,http://schema.org/alumniOf,random,1,1
+Gunnar Nygaard (broadcaster),Knows Language,http://yago-knowledge.org/resource/Gunnar_Nygaard_(broadcaster),http://schema.org/knowsLanguage,random,1,1
+X M L Schema#date,Has Occupation,949-04-20^^<http://www.w3.org/2001/XMLSchema#date,http://schema.org/hasOccupation,embedding,0,0
+Another Page,Content Location,http://yago-knowledge.org/resource/Another_Page,http://schema.org/contentLocation,compatible,1,0
+Perverso,Actor,http://yago-knowledge.org/resource/Perverso,http://schema.org/actor,embedding,0,0
+Her Private Hell,In Language,http://yago-knowledge.org/resource/Her_Private_Hell,http://schema.org/inLanguage,compatible,1,1
+Pano Lefkara,Geo,http://yago-knowledge.org/resource/Pano_Lefkara,http://schema.org/geo,compatible,1,1
+"Springbrook, Wisconsin",Contained In Place,"http://yago-knowledge.org/resource/Springbrook,_Wisconsin",http://schema.org/containedInPlace,query,1,0
+Yuelu Academy,Geo,http://yago-knowledge.org/resource/Yuelu_Academy,http://schema.org/geo,compatible,1,0
+Irene Tobar,Birth Place,http://yago-knowledge.org/resource/Irene_Tobar,http://schema.org/birthPlace,query,1,1
+J. C. Trewin,Alumni Of,http://yago-knowledge.org/resource/J._C._Trewin,http://schema.org/alumniOf,query,1,1
+Jimmy Leadbetter,Birth Date,http://yago-knowledge.org/resource/Jimmy_Leadbetter,http://schema.org/birthDate,query,1,1
+Ikawadani Station,Image,http://yago-knowledge.org/resource/Ikawadani_Station,http://schema.org/image,compatible,1,1
+Hopewell Avenue Public School,Parent Organization,http://yago-knowledge.org/resource/Hopewell_Avenue_Public_School,http://schema.org/parentOrganization,compatible,1,1
+University Of Virginia's College At Wise,Birth Place,http://yago-knowledge.org/resource/University_of_Virginia's_College_at_Wise,http://schema.org/birthPlace,embedding,0,0
+George Bishop's Observatory,Geo,http://yago-knowledge.org/resource/George_Bishop's_Observatory,http://schema.org/geo,query,1,1
+W X Z X,Contained In Place,http://yago-knowledge.org/resource/WXZX,http://schema.org/containedInPlace,compatible,0,0
+"Pomona, Kansas",Geo,"http://yago-knowledge.org/resource/Pomona,_Kansas",http://schema.org/geo,query,1,1
+"Stephen Hughes (footballer, Born 1976)",Image,"http://yago-knowledge.org/resource/Stephen_Hughes_(footballer,_born_1976)",http://schema.org/image,query,1,1
+Sonia (name),Member Of,http://yago-knowledge.org/resource/Sonia_(name),http://schema.org/memberOf,embedding,0,0
+X M L Schema#date,Family Name,943-09-05^^<http://www.w3.org/2001/XMLSchema#date,http://schema.org/familyName,embedding,0,0
+Robin Sebastian,Contained In Place,http://yago-knowledge.org/resource/Robin_Sebastian,http://schema.org/containedInPlace,embedding,0,0
+Luang Por Dhammajayo,Alumni Of,http://yago-knowledge.org/resource/Luang_Por_Dhammajayo,http://schema.org/alumniOf,query,1,1
+The Meaning Of Night (painting),Date Created,http://yago-knowledge.org/resource/The_Meaning_of_Night_(painting),http://schema.org/dateCreated,compatible,1,1
+Joseph Ward (tenor),Family Name,http://yago-knowledge.org/resource/Joseph_Ward_(tenor),http://schema.org/familyName,query,1,1
+Metanema Determinata,Image,http://yago-knowledge.org/resource/Metanema_determinata,http://schema.org/image,compatible,1,1
+El Inmigrante,In Language,http://yago-knowledge.org/resource/El_Inmigrante,http://schema.org/inLanguage,random,1,1
+Bleu Noir,Has Occupation,http://yago-knowledge.org/resource/Bleu_noir,http://schema.org/hasOccupation,embedding,0,0
+"Geo:41.649,-70.291",Parent,"geo:41.649,-70.291",http://schema.org/parent,random,0,0
+"Geo:23.470000000000187,93.12444444444519",Knows Language,"geo:23.470000000000187,93.12444444444519",http://schema.org/knowsLanguage,random,0,0
+C H J J-F M,Geo,http://yago-knowledge.org/resource/CHJJ-FM,http://schema.org/geo,compatible,1,0
+Kit Hollerbach,Spouse,http://yago-knowledge.org/resource/Kit_Hollerbach,http://schema.org/spouse,query,1,1
+Thryallis Ocellatus,Image,http://yago-knowledge.org/resource/Thryallis_ocellatus,http://schema.org/image,compatible,1,1
+Dark Heaven,Nationality,http://yago-knowledge.org/resource/Dark_Heaven,http://schema.org/nationality,embedding,0,0
+Eger District,Has Occupation,http://yago-knowledge.org/resource/Eger_District,http://schema.org/hasOccupation,random,0,0
+Cavalier Aircraft,Founding Date,http://yago-knowledge.org/resource/Cavalier_Aircraft,http://schema.org/foundingDate,query,1,1
+Ronald Hines,In Language,http://yago-knowledge.org/resource/Ronald_Hines,http://schema.org/inLanguage,embedding,0,0
+Howlock Mountain,Geo,http://yago-knowledge.org/resource/Howlock_Mountain,http://schema.org/geo,compatible,1,1
+Marian Suski,In Language,http://yago-knowledge.org/resource/Marian_Suski,http://schema.org/inLanguage,embedding,0,0
+Esquipulas,Location,http://yago-knowledge.org/resource/Esquipulas,http://schema.org/location,query,1,0
+"Highland Holiday, Ohio",Geo,"http://yago-knowledge.org/resource/Highland_Holiday,_Ohio",http://schema.org/geo,compatible,1,1
+"Geo:48.197777777778164,6.7911111111111655",Has Occupation,"geo:48.197777777778164,6.7911111111111655",http://schema.org/hasOccupation,random,0,0
+Northeast Mississippi Daily Journal,Date Created,http://yago-knowledge.org/resource/Northeast_Mississippi_Daily_Journal,http://schema.org/dateCreated,query,1,1
+Vahan Artsruni,Given Name,http://yago-knowledge.org/resource/Vahan_Artsruni,http://schema.org/givenName,query,1,1
+Delia Vallejos,Sport,http://yago-knowledge.org/resource/Delia_Vallejos,http://schema.org/sport,embedding,1,0
+"Geo:19.133611111111264,72.91527777777836",Location,"geo:19.133611111111264,72.91527777777836",http://schema.org/location,embedding,0,0
+Tillandsia Schusteri,Image,http://yago-knowledge.org/resource/Tillandsia_schusteri,http://schema.org/image,compatible,1,1
+Bolo Dugga Maiki,Date Published,http://yago-knowledge.org/resource/Bolo_Dugga_Maiki,http://schema.org/datePublished,compatible,1,1
+Technical College Of The Lowcountry,Image,http://yago-knowledge.org/resource/Technical_College_of_the_Lowcountry,http://schema.org/image,compatible,1,1
+Josep Pla,Given Name,http://yago-knowledge.org/resource/Josep_Pla,http://schema.org/givenName,query,1,1
+Mumbai Tennis Masters,Nationality,http://yago-knowledge.org/resource/Mumbai_Tennis_Masters,http://schema.org/nationality,embedding,0,0
+Strueth,Contains Place,http://yago-knowledge.org/resource/Strueth,http://schema.org/containsPlace,query,1,1
+Pierre Brice,Contained In Place,http://yago-knowledge.org/resource/Pierre_Brice,http://schema.org/containedInPlace,embedding,0,0
+Amadio,Spouse,http://yago-knowledge.org/resource/Amadio,http://schema.org/spouse,random,1,1
+"Geo:29.90722025743382,-93.9393456804011",Contained In Place,"geo:29.90722025743382,-93.9393456804011",http://schema.org/containedInPlace,embedding,1,0
+Tapiola Metro Station,Image,http://yago-knowledge.org/resource/Tapiola_metro_station,http://schema.org/image,compatible,1,1
+Upper Thracian Plain,Geo,http://yago-knowledge.org/resource/Upper_Thracian_Plain,http://schema.org/geo,query,1,1
+William Pote,Has Occupation,http://yago-knowledge.org/resource/William_Pote,http://schema.org/hasOccupation,random,1,1
+Seticosta Punctum,Member Of,http://yago-knowledge.org/resource/Seticosta_punctum,http://schema.org/memberOf,random,0,0
+Murid Betaherpesvirus 8,Image,http://yago-knowledge.org/resource/Murid_betaherpesvirus_8,http://schema.org/image,compatible,1,1
+The Sum Of All Fears (album),Creator,http://yago-knowledge.org/resource/The_Sum_of_All_Fears_(album),http://schema.org/creator,compatible,1,1
+Vi Er Cir. Cuz,Image,http://yago-knowledge.org/resource/Vi_Er_Cir.Cuz,http://schema.org/image,compatible,1,1
+Cottbus-Neuhausen Airport,Location,http://yago-knowledge.org/resource/Cottbus-Neuhausen_Airport,http://schema.org/location,query,1,1
+Phaeosolenia,Alumni Of,http://yago-knowledge.org/resource/Phaeosolenia,http://schema.org/alumniOf,random,0,0
+"Geo:54.6166666666671,9.766666666666746",Nationality,"geo:54.6166666666671,9.766666666666746",http://schema.org/nationality,embedding,0,0
+Workamajig,Death Date,http://yago-knowledge.org/resource/Workamajig,http://schema.org/deathDate,random,0,0
+Simon Norfolk,Contained In Place,http://yago-knowledge.org/resource/Simon_Norfolk,http://schema.org/containedInPlace,embedding,0,0
+Kittur,Geo,http://yago-knowledge.org/resource/Kittur,http://schema.org/geo,compatible,1,1
+Lenard Chroen,Birth Date,http://yago-knowledge.org/resource/Lenard_Chroen,http://schema.org/birthDate,random,1,1
+"Geo:42.352777777778115,-97.78722222222301",Nationality,"geo:42.352777777778115,-97.78722222222301",http://schema.org/nationality,embedding,0,0
+Abel Matutes,Knows Language,http://yago-knowledge.org/resource/Abel_Matutes,http://schema.org/knowsLanguage,query,1,1
+Que El Ritmo No Pare,Publisher,http://yago-knowledge.org/resource/Que_El_Ritmo_No_Pare,http://schema.org/publisher,compatible,1,1
+Clayton Lopez,Nationality,http://yago-knowledge.org/resource/Clayton_Lopez,http://schema.org/nationality,embedding,1,1
+The Last Message,In Language,http://yago-knowledge.org/resource/The_Last_Message,http://schema.org/inLanguage,random,1,1
+Malabar Black-backed Barb,Sport,http://yago-knowledge.org/resource/Malabar_black-backed_barb,http://schema.org/sport,random,0,0
+Stanz Bei Landeck,Birth Place,http://yago-knowledge.org/resource/Stanz_bei_Landeck,http://schema.org/birthPlace,query,1,0
+Calculator (comics),Content Location,http://yago-knowledge.org/resource/Calculator_(comics),http://schema.org/contentLocation,compatible,1,1
+"Geo:52.71833,6.848610000000001",Has Occupation,"geo:52.71833,6.848610000000001",http://schema.org/hasOccupation,random,0,0
+Hideaki Kase,Has Occupation,http://yago-knowledge.org/resource/Hideaki_Kase,http://schema.org/hasOccupation,query,1,1
+Daniel K. Isaac,In Language,http://yago-knowledge.org/resource/Daniel_K._Isaac,http://schema.org/inLanguage,random,0,0
+Irish Eyes Are Smiling,In Language,http://yago-knowledge.org/resource/Irish_Eyes_Are_Smiling,http://schema.org/inLanguage,compatible,1,1
+Tofik Dibi,Member Of,http://yago-knowledge.org/resource/Tofik_Dibi,http://schema.org/memberOf,query,1,1
+Vaughn Frick,Nationality,http://yago-knowledge.org/resource/Vaughn_Frick,http://schema.org/nationality,random,1,1
+Fargher Airport,Contains Place,http://yago-knowledge.org/resource/Fargher_Airport,http://schema.org/containsPlace,compatible,1,0
+Bryotropha Parapurpurella,Geo,http://yago-knowledge.org/resource/Bryotropha_parapurpurella,http://schema.org/geo,random,0,0
+Chelsea Pitman,Contains Place,http://yago-knowledge.org/resource/Chelsea_Pitman,http://schema.org/containsPlace,random,0,0
+Pedro Regueiro,Nationality,http://yago-knowledge.org/resource/Pedro_Regueiro,http://schema.org/nationality,query,1,1
+Robert A. Taft,Death Date,http://yago-knowledge.org/resource/Robert_A._Taft,http://schema.org/deathDate,query,1,1
+"Haskins, Ohio",Has Occupation,"http://yago-knowledge.org/resource/Haskins,_Ohio",http://schema.org/hasOccupation,random,0,0
+Aakasha Ganga,Image,http://yago-knowledge.org/resource/Aakasha_Ganga,http://schema.org/image,compatible,1,1
+A Tale Of Two Cities,Has Occupation,http://yago-knowledge.org/resource/A_Tale_of_Two_Cities,http://schema.org/hasOccupation,embedding,0,0
+G H S S Rajakkad,Location,http://yago-knowledge.org/resource/GHSS_Rajakkad,http://schema.org/location,query,1,1
+Music For Nitrous Oxide,Genre,http://yago-knowledge.org/resource/Music_for_Nitrous_Oxide,http://schema.org/genre,query,1,1
+Circus (Eraserheads Album),Author,http://yago-knowledge.org/resource/Circus_(Eraserheads_album),http://schema.org/author,compatible,0,0
+Wilfrid Scawen Blunt,Nationality,http://yago-knowledge.org/resource/Wilfrid_Scawen_Blunt,http://schema.org/nationality,query,1,1
+Panjshir Offensives,Member Of,http://yago-knowledge.org/resource/Panjshir_offensives,http://schema.org/memberOf,embedding,0,0
+X M L Schema#any U R I,Sport,ttp://www.seminole-oklahoma.net/^^<http://www.w3.org/2001/XMLSchema#anyURI,http://schema.org/sport,random,0,0
+"Pruitt City, Oklahoma",Elevation,"http://yago-knowledge.org/resource/Pruitt_City,_Oklahoma",http://schema.org/elevation,compatible,1,1
+The Winter Wake,Producer,http://yago-knowledge.org/resource/The_Winter_Wake,http://schema.org/producer,compatible,1,1
+Pasaje,Geo,http://yago-knowledge.org/resource/Pasaje,http://schema.org/geo,compatible,1,1
+Purple Heart Diary,Publisher,http://yago-knowledge.org/resource/Purple_Heart_Diary,http://schema.org/publisher,compatible,1,1
+Choosi Choodangaane,Date Published,http://yago-knowledge.org/resource/Choosi_Choodangaane,http://schema.org/datePublished,compatible,1,1
+Scott D. Anderson,Children,http://yago-knowledge.org/resource/Scott_D._Anderson,http://schema.org/children,embedding,1,1
+"Iwakura, Aichi",Location,"http://yago-knowledge.org/resource/Iwakura,_Aichi",http://schema.org/location,query,1,0
+This Is Your Life (New Zealand T V Series),Producer,http://yago-knowledge.org/resource/This_Is_Your_Life_(New_Zealand_TV_series),http://schema.org/producer,compatible,1,1
+Barbie: Groom And Glam Pups,Birth Place,http://yago-knowledge.org/resource/Barbie:_Groom_and_Glam_Pups,http://schema.org/birthPlace,embedding,0,0
+Edison State Community College,Member Of,http://yago-knowledge.org/resource/Edison_State_Community_College,http://schema.org/memberOf,embedding,1,0
+Grand Duchy Of Finland,Genre,http://yago-knowledge.org/resource/Grand_Duchy_of_Finland,http://schema.org/genre,embedding,0,0
+Panagiotis Kone,Nationality,http://yago-knowledge.org/resource/Panagiotis_Kone,http://schema.org/nationality,query,1,1
+Scoparia Ejuncida,Given Name,http://yago-knowledge.org/resource/Scoparia_ejuncida,http://schema.org/givenName,random,0,0
+Arashi No Naka O Tsuppashire,In Language,http://yago-knowledge.org/resource/Arashi_no_naka_o_tsuppashire,http://schema.org/inLanguage,compatible,1,1
+Clipse,Nationality,http://yago-knowledge.org/resource/Clipse,http://schema.org/nationality,embedding,0,0
+William Anderson Handley,Taxon Rank,http://yago-knowledge.org/resource/William_Anderson_Handley,http://bioschemas.org/taxonRank,embedding,0,0
+Seggiano,Elevation,http://yago-knowledge.org/resource/Seggiano,http://schema.org/elevation,query,1,1
+"Mary Arabella Stewart, Countess Of Galloway",Founding Location,"http://yago-knowledge.org/resource/Mary_Arabella_Stewart,_Countess_of_Galloway",http://schema.org/foundingLocation,random,1,0
+Emmanuel Milingo,Birth Place,http://yago-knowledge.org/resource/Emmanuel_Milingo,http://schema.org/birthPlace,query,1,1
+Dream Of Love,Music By,http://yago-knowledge.org/resource/Dream_of_Love,http://schema.org/musicBy,query,1,1
+And Hope To Die,In Language,http://yago-knowledge.org/resource/And_Hope_to_Die,http://schema.org/inLanguage,compatible,1,1
+Ana Vilma De Escobar,Founding Location,http://yago-knowledge.org/resource/Ana_Vilma_de_Escobar,http://schema.org/foundingLocation,random,0,0
+Ruth Ann Palumbo,Member Of,http://yago-knowledge.org/resource/Ruth_Ann_Palumbo,http://schema.org/memberOf,embedding,1,1
+Government Canyon State Natural Area,Image,http://yago-knowledge.org/resource/Government_Canyon_State_Natural_Area,http://schema.org/image,compatible,1,1
+Lo Bello Y Lo Prohibido,Is Part Of,http://yago-knowledge.org/resource/Lo_Bello_y_lo_Prohibido,http://schema.org/isPartOf,query,1,1
+Hoplistocerus Refulgens,Parent Taxon,http://yago-knowledge.org/resource/Hoplistocerus_refulgens,http://bioschemas.org/parentTaxon,compatible,1,1
+Naomi Kusumi,Given Name,http://yago-knowledge.org/resource/Naomi_Kusumi,http://schema.org/givenName,query,1,1
+Wiley Piatt,Image,http://yago-knowledge.org/resource/Wiley_Piatt,http://schema.org/image,query,1,1
+Sthenopis Roseus,Taxon Rank,http://yago-knowledge.org/resource/Sthenopis_roseus,http://bioschemas.org/taxonRank,compatible,1,1
+Albert Champoudry,Alumni Of,http://yago-knowledge.org/resource/Albert_Champoudry,http://schema.org/alumniOf,embedding,1,1
+Dolly Parton's Christmas Of Many Colors: Circle Of Love,Producer,http://yago-knowledge.org/resource/Dolly_Parton's_Christmas_of_Many_Colors:_Circle_of_Love,http://schema.org/producer,compatible,1,1
+"Geo:35.34048728756976,-82.20049769847948",Family Name,"geo:35.34048728756976,-82.20049769847948",http://schema.org/familyName,random,0,0
+Guillaume Katz,Image,http://yago-knowledge.org/resource/Guillaume_Katz,http://schema.org/image,query,1,1
+Norma Kitson,Given Name,http://yago-knowledge.org/resource/Norma_Kitson,http://schema.org/givenName,query,1,1
+Mani Bhavan,Contains Place,http://yago-knowledge.org/resource/Mani_Bhavan,http://schema.org/containsPlace,compatible,1,1
+Tomopleura Oscitans,Parent Taxon,http://yago-knowledge.org/resource/Tomopleura_oscitans,http://bioschemas.org/parentTaxon,compatible,1,1
+W V N Z (A M),Actor,http://yago-knowledge.org/resource/WVNZ_(AM),http://schema.org/actor,embedding,0,0
+Peggy Thompson (screenwriter),Contains Place,http://yago-knowledge.org/resource/Peggy_Thompson_(screenwriter),http://schema.org/containsPlace,random,0,0
+"Belden, Mississippi",Geo,"http://yago-knowledge.org/resource/Belden,_Mississippi",http://schema.org/geo,compatible,1,1
+Wilbert Keon,Has Occupation,http://yago-knowledge.org/resource/Wilbert_Keon,http://schema.org/hasOccupation,random,1,1
+1983 Los Angeles Film Critics Association Awards,Has Occupation,http://yago-knowledge.org/resource/1983_Los_Angeles_Film_Critics_Association_Awards,http://schema.org/hasOccupation,random,0,0
+Francis M. Lyman,In Language,http://yago-knowledge.org/resource/Francis_M._Lyman,http://schema.org/inLanguage,random,0,0
+E. E. Blake,Location,http://yago-knowledge.org/resource/E.E._Blake,http://schema.org/location,embedding,0,0
+Carolyn Creedon,Taxon Rank,http://yago-knowledge.org/resource/Carolyn_Creedon,http://bioschemas.org/taxonRank,random,0,0
+Emilianos Zacharopoulos,Nationality,http://yago-knowledge.org/resource/Emilianos_Zacharopoulos,http://schema.org/nationality,query,1,1
+Pseudicius,Taxon Rank,http://yago-knowledge.org/resource/Pseudicius,http://bioschemas.org/taxonRank,query,1,1
+"Geo:51.64546060419603,-56.70165954446697",Has Occupation,"geo:51.64546060419603,-56.70165954446697",http://schema.org/hasOccupation,random,0,0
+Raphicerus,Parent Taxon,http://yago-knowledge.org/resource/Raphicerus,http://bioschemas.org/parentTaxon,query,1,1
+Gavin Ward (musician),Contained In Place,http://yago-knowledge.org/resource/Gavin_Ward_(musician),http://schema.org/containedInPlace,embedding,0,0
+My Chief And My Regiment,Alumni Of,http://yago-knowledge.org/resource/My_Chief_and_My_Regiment,http://schema.org/alumniOf,embedding,0,0
+The Last Horror Film,Genre,http://yago-knowledge.org/resource/The_Last_Horror_Film,http://schema.org/genre,query,1,1
+Viktor Kurnatovsky,Birth Place,http://yago-knowledge.org/resource/Viktor_Kurnatovsky,http://schema.org/birthPlace,query,1,1
+Noctueliopsis Puertalis,Parent Taxon,http://yago-knowledge.org/resource/Noctueliopsis_puertalis,http://bioschemas.org/parentTaxon,compatible,1,1
+Jeremiah Reeves House And Carriage House,Geo,http://yago-knowledge.org/resource/Jeremiah_Reeves_House_and_Carriage_House,http://schema.org/geo,compatible,1,0
+Ernie Abbott,Nationality,http://yago-knowledge.org/resource/Ernie_Abbott,http://schema.org/nationality,embedding,1,1
+Ferhat Kaplan,Given Name,http://yago-knowledge.org/resource/Ferhat_Kaplan,http://schema.org/givenName,random,1,1
+Vernon Dobtcheff,Given Name,http://yago-knowledge.org/resource/Vernon_Dobtcheff,http://schema.org/givenName,embedding,1,1
+Jeff Allam,Gender,http://yago-knowledge.org/resource/Jeff_Allam,http://schema.org/gender,query,1,1
+"Whorlton, North Yorkshire",Nationality,"http://yago-knowledge.org/resource/Whorlton,_North_Yorkshire",http://schema.org/nationality,random,0,0
+The New Woman,Given Name,http://yago-knowledge.org/resource/The_New_Woman,http://schema.org/givenName,embedding,0,0
+Methacton School District,Nationality,http://yago-knowledge.org/resource/Methacton_School_District,http://schema.org/nationality,embedding,0,0
+Audition (2005 Film),Birth Place,http://yago-knowledge.org/resource/Audition_(2005_film),http://schema.org/birthPlace,random,0,0
+Tonghai County,Given Name,http://yago-knowledge.org/resource/Tonghai_County,http://schema.org/givenName,random,0,0
+Dave Noble,Family Name,http://yago-knowledge.org/resource/Dave_Noble,http://schema.org/familyName,query,1,1
+Gene Wilder,Death Place,http://yago-knowledge.org/resource/Gene_Wilder,http://schema.org/deathPlace,query,1,1
+Boom Dot Bust,In Language,http://yago-knowledge.org/resource/Boom_Dot_Bust,http://schema.org/inLanguage,compatible,1,1
+X M L Schema#any U R I,Knows Language,ttp://www.figliedelsacrocuoredigesu.it/^^<http://www.w3.org/2001/XMLSchema#anyURI,http://schema.org/knowsLanguage,random,0,0
+Idhuvum Kadandhu Pogum,Knows Language,http://yago-knowledge.org/resource/Idhuvum_Kadandhu_Pogum,http://schema.org/knowsLanguage,random,0,0
+Osvaldo Cacciatore,Country Of Origin,http://yago-knowledge.org/resource/Osvaldo_Cacciatore,http://schema.org/countryOfOrigin,embedding,0,0
+War Photographer,Nationality,http://yago-knowledge.org/resource/War_Photographer,http://schema.org/nationality,embedding,0,0
+"Eitel Friedrich I I, Count Of Hohenzollern",Knows Language,"http://yago-knowledge.org/resource/Eitel_Friedrich_II,_Count_of_Hohenzollern",http://schema.org/knowsLanguage,embedding,1,1
+Robin Quaison,Nationality,http://yago-knowledge.org/resource/Robin_Quaison,http://schema.org/nationality,query,1,1
+Sitalcina Borregoensis,Image,http://yago-knowledge.org/resource/Sitalcina_borregoensis,http://schema.org/image,compatible,1,1
+"Geo:49.02027777777817,-0.6319444444444495",Member Of,"geo:49.02027777777817,-0.6319444444444495",http://schema.org/memberOf,random,0,0
+Kyiv National University Of Technologies And Design,Genre,http://yago-knowledge.org/resource/Kyiv_National_University_of_Technologies_and_Design,http://schema.org/genre,embedding,0,0
+Yvon Neptune,Member Of,http://yago-knowledge.org/resource/Yvon_Neptune,http://schema.org/memberOf,query,1,1
+"Calvi, Campania",Location,"http://yago-knowledge.org/resource/Calvi,_Campania",http://schema.org/location,query,1,0
+Ray White,Family Name,http://yago-knowledge.org/resource/Ray_White,http://schema.org/familyName,query,1,1
+Jane Stephens (actress),Contained In Place,http://yago-knowledge.org/resource/Jane_Stephens_(actress),http://schema.org/containedInPlace,embedding,0,0
+Bill Pickel,Birth Date,http://yago-knowledge.org/resource/Bill_Pickel,http://schema.org/birthDate,query,1,1
+"Morrisonville, New York",Has Occupation,"http://yago-knowledge.org/resource/Morrisonville,_New_York",http://schema.org/hasOccupation,random,0,0
+Beverly Hills Film Festival,Member Of,http://yago-knowledge.org/resource/Beverly_Hills_Film_Festival,http://schema.org/memberOf,random,1,1
+Otter Creek Wilderness,Image,http://yago-knowledge.org/resource/Otter_Creek_Wilderness,http://schema.org/image,compatible,1,1
+Knurr Log House,Geo,http://yago-knowledge.org/resource/Knurr_Log_House,http://schema.org/geo,compatible,1,0
+Joe Birch,Family Name,http://yago-knowledge.org/resource/Joe_Birch,http://schema.org/familyName,query,1,1
+Permanent Court Of International Justice,Actor,http://yago-knowledge.org/resource/Permanent_Court_of_International_Justice,http://schema.org/actor,embedding,0,0
+Keith Mc Keller,Birth Date,http://yago-knowledge.org/resource/Keith_McKeller,http://schema.org/birthDate,query,1,1
+"Germantown (town), New York",Lei Code,"http://yago-knowledge.org/resource/Germantown_(town),_New_York",http://schema.org/leiCode,compatible,0,0
+Alticus Simplicirrus,Parent Taxon,http://yago-knowledge.org/resource/Alticus_simplicirrus,http://bioschemas.org/parentTaxon,query,1,1
+Palfuria Retusa,Taxon Rank,http://yago-knowledge.org/resource/Palfuria_retusa,http://bioschemas.org/taxonRank,query,1,1
+Kega Station,Geo,http://yago-knowledge.org/resource/Kega_Station,http://schema.org/geo,compatible,1,0
+X M L Schema#date,Country Of Origin,993-09-21^^<http://www.w3.org/2001/XMLSchema#date,http://schema.org/countryOfOrigin,embedding,0,0
+Community Of Universities And Higher Education Institutions Of Aquitaine,Member Of,http://yago-knowledge.org/resource/Community_of_universities_and_higher_education_institutions_of_Aquitaine,http://schema.org/memberOf,embedding,1,1
+Norodom Suramarit,Geo,http://yago-knowledge.org/resource/Norodom_Suramarit,http://schema.org/geo,embedding,0,0
+Abyssochrysidae,Alumni Of,http://yago-knowledge.org/resource/Abyssochrysidae,http://schema.org/alumniOf,random,0,0
+"Geo:38.916666666667446,59.00000000000118",Content Location,"geo:38.916666666667446,59.00000000000118",http://schema.org/contentLocation,embedding,1,0
+Godfrey Baring,Death Date,http://yago-knowledge.org/resource/Godfrey_Baring,http://schema.org/deathDate,query,1,1
+Great Fosters,Contained In Place,http://yago-knowledge.org/resource/Great_Fosters,http://schema.org/containedInPlace,compatible,1,1
+"Geo:25.522500000000203,93.68027777777853",Birth Place,"geo:25.522500000000203,93.68027777777853",http://schema.org/birthPlace,random,1,0
+"Peter Carington, 6th Baron Carrington",Contained In Place,"http://yago-knowledge.org/resource/Peter_Carington,_6th_Baron_Carrington",http://schema.org/containedInPlace,embedding,1,0
+Kolej Universiti Islam Antarabangsa Selangor,Founding Date,http://yago-knowledge.org/resource/Kolej_Universiti_Islam_Antarabangsa_Selangor,http://schema.org/foundingDate,query,1,1
+Tiga Island,Member Of,http://yago-knowledge.org/resource/Tiga_Island,http://schema.org/memberOf,random,0,0
+Montparnasse Bienvenue (film),Has Part,http://yago-knowledge.org/resource/Montparnasse_Bienvenue_(film),http://schema.org/hasPart,compatible,0,0
+Siddewadi,Geo,http://yago-knowledge.org/resource/Siddewadi,http://schema.org/geo,compatible,1,1
+Monster Jam: Urban Assault,Alumni Of,http://yago-knowledge.org/resource/Monster_Jam:_Urban_Assault,http://schema.org/alumniOf,random,0,0
+Bohemian Rhapsody (That '70s Show Episode),Is Part Of,http://yago-knowledge.org/resource/Bohemian_Rhapsody_(That_'70s_Show_episode),http://schema.org/isPartOf,compatible,1,0
+Central Carolina Community College,Content Location,http://yago-knowledge.org/resource/Central_Carolina_Community_College,http://schema.org/contentLocation,embedding,1,0
+"Stewarts Creek Township, Surry County, North Carolina",Geo,"http://yago-knowledge.org/resource/Stewarts_Creek_Township,_Surry_County,_North_Carolina",http://schema.org/geo,compatible,1,1
+Harris-Chilton-Ruble House,Knows Language,http://yago-knowledge.org/resource/Harris-Chilton-Ruble_House,http://schema.org/knowsLanguage,random,0,0
+Smiltene,Image,http://yago-knowledge.org/resource/Smiltene,http://schema.org/image,query,1,1
+Bob Stone (golfer),Nationality,http://yago-knowledge.org/resource/Bob_Stone_(golfer),http://schema.org/nationality,random,1,1
+David Henry Mercer,Contained In Place,http://yago-knowledge.org/resource/David_Henry_Mercer,http://schema.org/containedInPlace,embedding,0,0
+Burgbernheim,Location,http://yago-knowledge.org/resource/Burgbernheim,http://schema.org/location,query,1,0
+"Geo:39.145000000000316,-84.50805555555623",Parent Taxon,"geo:39.145000000000316,-84.50805555555623",http://bioschemas.org/parentTaxon,random,0,0
+Diva (1981 Film),Publisher,http://yago-knowledge.org/resource/Diva_(1981_film),http://schema.org/publisher,compatible,1,1
+Velveeswarar Temple,Geo,http://yago-knowledge.org/resource/Velveeswarar_Temple,http://schema.org/geo,compatible,1,0
+Bangladesh Shipping Corporation,Alumni Of,http://yago-knowledge.org/resource/Bangladesh_Shipping_Corporation,http://schema.org/alumniOf,random,0,0
+Jean Nguza Karl-i-Bond,Taxon Rank,http://yago-knowledge.org/resource/Jean_Nguza_Karl-i-Bond,http://bioschemas.org/taxonRank,embedding,0,0
+Svetlana Khorkina,Birth Place,http://yago-knowledge.org/resource/Svetlana_Khorkina,http://schema.org/birthPlace,query,1,1
+"Weweantic, Massachusetts",Geo,"http://yago-knowledge.org/resource/Weweantic,_Massachusetts",http://schema.org/geo,compatible,1,1
+A Gentleman Friend,Date Created,http://yago-knowledge.org/resource/A_Gentleman_Friend,http://schema.org/dateCreated,compatible,1,1
+Robuzy,Geo,http://yago-knowledge.org/resource/Robuzy,http://schema.org/geo,compatible,1,1
+"St. Ann's Episcopal Church (Nashville, Tennessee)",Geo,"http://yago-knowledge.org/resource/St._Ann's_Episcopal_Church_(Nashville,_Tennessee)",http://schema.org/geo,compatible,1,0
+Orang Airport,Geo,http://yago-knowledge.org/resource/Orang_Airport,http://schema.org/geo,query,1,0
+Wesley Fletcher Orr,Contained In Place,http://yago-knowledge.org/resource/Wesley_Fletcher_Orr,http://schema.org/containedInPlace,embedding,0,0
+Love Me Deadly,Image,http://yago-knowledge.org/resource/Love_Me_Deadly,http://schema.org/image,compatible,1,1
+Ridgedale High School,Contained In Place,http://yago-knowledge.org/resource/Ridgedale_High_School,http://schema.org/containedInPlace,query,1,1
+Vincent Price,Nationality,http://yago-knowledge.org/resource/Vincent_Price,http://schema.org/nationality,query,1,1
+Adoni,Contained In Place,http://yago-knowledge.org/resource/Adoni,http://schema.org/containedInPlace,compatible,1,1
+X M L Schema#date,Given Name,912-01-01^^<http://www.w3.org/2001/XMLSchema#date,http://schema.org/givenName,embedding,0,0
+Riedberger Horn,Geo,http://yago-knowledge.org/resource/Riedberger_Horn,http://schema.org/geo,compatible,1,1
+"Geo:61.2186111111116,-149.8911111111123",Nationality,"geo:61.2186111111116,-149.8911111111123",http://schema.org/nationality,random,0,0
+Thomas Leith,Birth Place,http://yago-knowledge.org/resource/Thomas_Leith,http://schema.org/birthPlace,embedding,1,1
+X M L Schema#any U R I,Given Name,ttp://movies.filmax.com/carolina/^^<http://www.w3.org/2001/XMLSchema#anyURI,http://schema.org/givenName,random,0,0
+Darren Glass,Member Of,http://yago-knowledge.org/resource/Darren_Glass,http://schema.org/memberOf,random,1,1
+George S. Patton,Parent,http://yago-knowledge.org/resource/George_S._Patton,http://schema.org/parent,query,1,1
+Nonna Bannister,Founding Location,http://yago-knowledge.org/resource/Nonna_Bannister,http://schema.org/foundingLocation,embedding,0,0
+Sol Niger Within,Content Location,http://yago-knowledge.org/resource/Sol_Niger_Within,http://schema.org/contentLocation,compatible,0,0
+United Nations Institute For Namibia,Actor,http://yago-knowledge.org/resource/United_Nations_Institute_for_Namibia,http://schema.org/actor,random,0,0
+Victor Olatunji,Contains Place,http://yago-knowledge.org/resource/Victor_Olatunji,http://schema.org/containsPlace,random,0,0
+Rock Creek Station,Contained In Place,http://yago-knowledge.org/resource/Rock_Creek_Station,http://schema.org/containedInPlace,query,1,1
+Platylepas Hexastylos,Location,http://yago-knowledge.org/resource/Platylepas_hexastylos,http://schema.org/location,random,0,0
+Marple Aqueduct,Nationality,http://yago-knowledge.org/resource/Marple_Aqueduct,http://schema.org/nationality,random,0,0
+Eskolaite,Image,http://yago-knowledge.org/resource/Eskolaite,http://schema.org/image,query,1,1
+Pat Collins,Alumni Of,http://yago-knowledge.org/resource/Pat_Collins,http://schema.org/alumniOf,random,1,1
+Two In A Taxi,In Language,http://yago-knowledge.org/resource/Two_in_a_Taxi,http://schema.org/inLanguage,compatible,1,1
+Gary Whittaker,Country Of Origin,http://yago-knowledge.org/resource/Gary_Whittaker,http://schema.org/countryOfOrigin,embedding,0,0
+Joan Barril,Contained In Place,http://yago-knowledge.org/resource/Joan_Barril,http://schema.org/containedInPlace,random,0,0
+Shorea Palosapis,Image,http://yago-knowledge.org/resource/Shorea_palosapis,http://schema.org/image,compatible,1,1
+Thunder In Guyana,Birth Place,http://yago-knowledge.org/resource/Thunder_in_Guyana,http://schema.org/birthPlace,embedding,0,0
+"Burbank, Santa Clara County, California",Geo,"http://yago-knowledge.org/resource/Burbank,_Santa_Clara_County,_California",http://schema.org/geo,query,1,1
+Kyranycha Fraudatrix,Image,http://yago-knowledge.org/resource/Kyranycha_fraudatrix,http://schema.org/image,compatible,1,1
+"St. Barnabas Episcopal Church (Troy, New York)",Geo,"http://yago-knowledge.org/resource/St._Barnabas_Episcopal_Church_(Troy,_New_York)",http://schema.org/geo,compatible,1,0
+Juan Enrique Segarra-Palmer,Family Name,http://yago-knowledge.org/resource/Juan_Enrique_Segarra-Palmer,http://schema.org/familyName,query,1,1
+Deva (moth),Image,http://yago-knowledge.org/resource/Deva_(moth),http://schema.org/image,compatible,1,1
+Washington Township Schools,Location,http://yago-knowledge.org/resource/Washington_Township_Schools,http://schema.org/location,query,1,1
+David Lefkowitz,Alumni Of,http://yago-knowledge.org/resource/David_Lefkowitz,http://schema.org/alumniOf,embedding,1,1
+Fung Kai Hong,Member Of,http://yago-knowledge.org/resource/Fung_Kai_Hong,http://schema.org/memberOf,query,1,1
+"Geo:18.851428413540855,73.48829747111445",Birth Place,"geo:18.851428413540855,73.48829747111445",http://schema.org/birthPlace,random,0,0
+"Geo:52.23789000000001,6.64536",Contained In Place,"geo:52.23789000000001,6.64536",http://schema.org/containedInPlace,random,1,0
+University Of Maryland St. Joseph Medical Center,Member Of,http://yago-knowledge.org/resource/University_of_Maryland_St._Joseph_Medical_Center,http://schema.org/memberOf,embedding,1,0
+"Geo:37.8239,-122.26",Geo,"geo:37.8239,-122.26",http://schema.org/geo,random,1,0
+Gerry Brady (sport Shooter),Given Name,http://yago-knowledge.org/resource/Gerry_Brady_(sport_shooter),http://schema.org/givenName,random,1,1
+A Funny Thing Happened On The Way To The Forum (film),Director,http://yago-knowledge.org/resource/A_Funny_Thing_Happened_on_the_Way_to_the_Forum_(film),http://schema.org/director,query,1,1
+Nederwetten En Eckart,Contains Place,http://yago-knowledge.org/resource/Nederwetten_en_Eckart,http://schema.org/containsPlace,compatible,1,0
+Carme Pigem,Birth Place,http://yago-knowledge.org/resource/Carme_Pigem,http://schema.org/birthPlace,embedding,1,1
+Ruth Weisberg,Birth Place,http://yago-knowledge.org/resource/Ruth_Weisberg,http://schema.org/birthPlace,query,1,1
+Harvey Bainbridge,Given Name,http://yago-knowledge.org/resource/Harvey_Bainbridge,http://schema.org/givenName,query,1,1
+Frederick William Rowe,In Language,http://yago-knowledge.org/resource/Frederick_William_Rowe,http://schema.org/inLanguage,embedding,0,0
+Hamlet (1990 Film),Actor,http://yago-knowledge.org/resource/Hamlet_(1990_film),http://schema.org/actor,query,1,1
+"Geo:41.292777777778106,1.6941666666666801",Has Occupation,"geo:41.292777777778106,1.6941666666666801",http://schema.org/hasOccupation,embedding,0,0
+Danish Health Authority,Contained In Place,http://yago-knowledge.org/resource/Danish_Health_Authority,http://schema.org/containedInPlace,compatible,1,0
+Bulbophyllum Phymatum,Nationality,http://yago-knowledge.org/resource/Bulbophyllum_phymatum,http://schema.org/nationality,random,0,0
+Charles A. Duelfer,Given Name,http://yago-knowledge.org/resource/Charles_A._Duelfer,http://schema.org/givenName,query,1,1
+George Eliava Institute,Geo,http://yago-knowledge.org/resource/George_Eliava_Institute,http://schema.org/geo,query,1,0
+"Geo:38.63111111111142,-82.21222222222288",Geo,"geo:38.63111111111142,-82.21222222222288",http://schema.org/geo,embedding,1,0
+Sybra Acuta,Member Of,http://yago-knowledge.org/resource/Sybra_acuta,http://schema.org/memberOf,random,0,0
+Ted Gioia,Has Occupation,http://yago-knowledge.org/resource/Ted_Gioia,http://schema.org/hasOccupation,query,1,1
+Dormitz,Geo,http://yago-knowledge.org/resource/Dormitz,http://schema.org/geo,query,1,1
+Unoke Station,Contains Place,http://yago-knowledge.org/resource/Unoke_Station,http://schema.org/containsPlace,compatible,0,0
+Circle Takes The Square,Image,http://yago-knowledge.org/resource/Circle_Takes_the_Square,http://schema.org/image,query,1,1
+Bull Run Mountains,In Language,http://yago-knowledge.org/resource/Bull_Run_Mountains,http://schema.org/inLanguage,random,0,0
+The Crown (album),In Language,http://yago-knowledge.org/resource/The_Crown_(album),http://schema.org/inLanguage,compatible,1,1
+X M L Schema#any U R I,Knows Language,ttp://www.liu.edu/CWPost/Academics/Research/Bios/Bob-Brier.aspx^^<http://www.w3.org/2001/XMLSchema#anyURI,http://schema.org/knowsLanguage,random,0,0
+Girona Cathedral,Image,http://yago-knowledge.org/resource/Girona_Cathedral,http://schema.org/image,query,1,1
+Appian Way Productions,Contained In Place,http://yago-knowledge.org/resource/Appian_Way_Productions,http://schema.org/containedInPlace,embedding,0,0
+Mike Farr,Member Of,http://yago-knowledge.org/resource/Mike_Farr,http://schema.org/memberOf,query,1,1
+X M L Schema#date,Home Location,952-03-17^^<http://www.w3.org/2001/XMLSchema#date,http://schema.org/homeLocation,embedding,0,0
+Dungeon Keeper,Nationality,http://yago-knowledge.org/resource/Dungeon_Keeper,http://schema.org/nationality,embedding,0,0
+"Geo:50.101600000000005,2.8546",Contains Place,"geo:50.101600000000005,2.8546",http://schema.org/containsPlace,random,0,0
+Span Developments,Founding Date,http://yago-knowledge.org/resource/Span_Developments,http://schema.org/foundingDate,query,1,1
+Perry Local School District (Stark County),Nationality,http://yago-knowledge.org/resource/Perry_Local_School_District_(Stark_County),http://schema.org/nationality,random,0,0
+Holzape,Geo,http://yago-knowledge.org/resource/Holzape,http://schema.org/geo,compatible,1,1
+Khajuria Ramdas,Contained In Place,http://yago-knowledge.org/resource/Khajuria_Ramdas,http://schema.org/containedInPlace,query,1,0
+Linna R C,Founding Date,http://yago-knowledge.org/resource/Linna_RC,http://schema.org/foundingDate,compatible,1,1
+Bob Moses (rugby League),Member Of,http://yago-knowledge.org/resource/Bob_Moses_(rugby_league),http://schema.org/memberOf,embedding,1,1
+The Club Of Aristocrats,Author,http://yago-knowledge.org/resource/The_Club_of_Aristocrats,http://schema.org/author,compatible,0,0
+Donald A. Mc Donald,Parent Taxon,http://yago-knowledge.org/resource/Donald_A._McDonald,http://bioschemas.org/parentTaxon,random,0,0
+International Academy Of Astronautics,Birth Place,http://yago-knowledge.org/resource/International_Academy_of_Astronautics,http://schema.org/birthPlace,embedding,0,0
+Polydream,By Artist,http://yago-knowledge.org/resource/Polydream,http://schema.org/byArtist,query,1,1
+Cadalen,Geo,http://yago-knowledge.org/resource/Cadalen,http://schema.org/geo,query,1,1
+"Alexander And The Terrible, Horrible, No Good, Very Bad Day (film)",Genre,"http://yago-knowledge.org/resource/Alexander_and_the_Terrible,_Horrible,_No_Good,_Very_Bad_Day_(film)",http://schema.org/genre,query,1,1
+Om Allah,In Language,http://yago-knowledge.org/resource/Om_Allah,http://schema.org/inLanguage,compatible,1,1
+Ved Verdens Ende,Nationality,http://yago-knowledge.org/resource/Ved_verdens_ende,http://schema.org/nationality,embedding,0,0
+Sem Vermeersch,Nationality,http://yago-knowledge.org/resource/Sem_Vermeersch,http://schema.org/nationality,random,1,1
+The Student Boarder,Has Occupation,http://yago-knowledge.org/resource/The_Student_Boarder,http://schema.org/hasOccupation,embedding,0,0
+Kento Umeki,Knows Language,http://yago-knowledge.org/resource/Kento_Umeki,http://schema.org/knowsLanguage,random,1,1
+George South (solicitor),Birth Place,http://yago-knowledge.org/resource/George_South_(solicitor),http://schema.org/birthPlace,random,1,1
+The Phillips Collection,Member Of,http://yago-knowledge.org/resource/The_Phillips_Collection,http://schema.org/memberOf,embedding,0,0
+Feels Like The First Time,Award,http://yago-knowledge.org/resource/Feels_Like_the_First_Time,http://schema.org/award,embedding,1,1
+Jack Burke Jr.,Gender,http://yago-knowledge.org/resource/Jack_Burke_Jr.,http://schema.org/gender,query,0,0
+"Geo:31.33488702622444,54.04742258885692",Genre,"geo:31.33488702622444,54.04742258885692",http://schema.org/genre,random,0,0
+Rauhkofel,Image,http://yago-knowledge.org/resource/Rauhkofel,http://schema.org/image,compatible,1,1
+"Langley School, Loddon",Geo,"http://yago-knowledge.org/resource/Langley_School,_Loddon",http://schema.org/geo,query,1,0
+Osun Babes F. C.,Location,http://yago-knowledge.org/resource/Osun_Babes_F.C.,http://schema.org/location,query,1,1
+Saga Airport,Image,http://yago-knowledge.org/resource/Saga_Airport,http://schema.org/image,compatible,1,1
+Commonwealth Of Nations,Taxon Rank,http://yago-knowledge.org/resource/Commonwealth_of_Nations,http://bioschemas.org/taxonRank,embedding,0,0
+"Geo:54.841944444444884,9.026388888888961",Given Name,"geo:54.841944444444884,9.026388888888961",http://schema.org/givenName,random,0,0
+Prison Break: The Final Break,Country Of Origin,http://yago-knowledge.org/resource/Prison_Break:_The_Final_Break,http://schema.org/countryOfOrigin,embedding,1,1
+Scythris Najaoides,Has Occupation,http://yago-knowledge.org/resource/Scythris_najaoides,http://schema.org/hasOccupation,random,0,0
+Longinus Of Selinus,Nationality,http://yago-knowledge.org/resource/Longinus_of_Selinus,http://schema.org/nationality,random,1,1
+Max Morlock,Has Occupation,http://yago-knowledge.org/resource/Max_Morlock,http://schema.org/hasOccupation,query,1,1
+X M L Schema#g Year,Contained In Place,815^^<http://www.w3.org/2001/XMLSchema#gYear,http://schema.org/containedInPlace,embedding,0,0
+Bounty Hunters (American T V Series),Nationality,http://yago-knowledge.org/resource/Bounty_Hunters_(American_TV_series),http://schema.org/nationality,embedding,0,0
+House (1986 Film),Image,http://yago-knowledge.org/resource/House_(1986_film),http://schema.org/image,compatible,1,1
+Litoria Chrisdahli,Birth Date,http://yago-knowledge.org/resource/Litoria_chrisdahli,http://schema.org/birthDate,random,1,1
+Adam Harasiewicz,Birth Place,http://yago-knowledge.org/resource/Adam_Harasiewicz,http://schema.org/birthPlace,query,1,1
+Ueda High School,Family Name,http://yago-knowledge.org/resource/Ueda_High_School,http://schema.org/familyName,embedding,0,0
+"First United Methodist Church (Jasper, Alabama)",Geo,"http://yago-knowledge.org/resource/First_United_Methodist_Church_(Jasper,_Alabama)",http://schema.org/geo,compatible,1,0
+"Ostrowica, West Pomeranian Voivodeship",Geo,"http://yago-knowledge.org/resource/Ostrowica,_West_Pomeranian_Voivodeship",http://schema.org/geo,compatible,1,1
+Lucius Tarquinius Collatinus,Alumni Of,http://yago-knowledge.org/resource/Lucius_Tarquinius_Collatinus,http://schema.org/alumniOf,compatible,1,1
+Marvin Phillips,Has Occupation,http://yago-knowledge.org/resource/Marvin_Phillips,http://schema.org/hasOccupation,query,1,1
+Olaf Lubaszenko,Location,http://yago-knowledge.org/resource/Olaf_Lubaszenko,http://schema.org/location,embedding,0,0
+Butler Parker,In Language,http://yago-knowledge.org/resource/Butler_Parker,http://schema.org/inLanguage,compatible,1,1
+X M L Schema#date,Has Occupation,901-03-18^^<http://www.w3.org/2001/XMLSchema#date,http://schema.org/hasOccupation,random,0,0
+Long Odds,Sport,http://yago-knowledge.org/resource/Long_Odds,http://schema.org/sport,random,0,0
+Denys Coop,Member Of,http://yago-knowledge.org/resource/Denys_Coop,http://schema.org/memberOf,embedding,1,1
+Santi Debriano,Contains Place,http://yago-knowledge.org/resource/Santi_Debriano,http://schema.org/containsPlace,embedding,0,0
+Andreas Hanssen,Contained In Place,http://yago-knowledge.org/resource/Andreas_Hanssen,http://schema.org/containedInPlace,embedding,0,0
+Damen I Svart,In Language,http://yago-knowledge.org/resource/Damen_i_svart,http://schema.org/inLanguage,compatible,1,1
+Pine Grove Rosenwald School,Image,http://yago-knowledge.org/resource/Pine_Grove_Rosenwald_School,http://schema.org/image,compatible,1,1
+Fatih Akin,Has Occupation,http://yago-knowledge.org/resource/Fatih_Akin,http://schema.org/hasOccupation,query,1,1
+Zuni Indian Reservation,Location,http://yago-knowledge.org/resource/Zuni_Indian_Reservation,http://schema.org/location,query,1,1
+Mark Paragua,Actor,http://yago-knowledge.org/resource/Mark_Paragua,http://schema.org/actor,random,1,0
+Frida Palmer,Member Of,http://yago-knowledge.org/resource/Frida_Palmer,http://schema.org/memberOf,embedding,1,1
+Charles James Fox Campbell,Gender,http://yago-knowledge.org/resource/Charles_James_Fox_Campbell,http://schema.org/gender,query,1,1
+Louis Marchand,Family Name,http://yago-knowledge.org/resource/Louis_Marchand,http://schema.org/familyName,query,1,1
+Ballyduff Upper G A A,Location,http://yago-knowledge.org/resource/Ballyduff_Upper_GAA,http://schema.org/location,query,1,1
+"Isabel De Clare, 4th Countess Of Pembroke",Sport,"http://yago-knowledge.org/resource/Isabel_de_Clare,_4th_Countess_of_Pembroke",http://schema.org/sport,random,0,0
+Foster Field,Geo,http://yago-knowledge.org/resource/Foster_Field,http://schema.org/geo,compatible,1,0
+"Arthur Tedder, 1st Baron Tedder",Taxon Rank,"http://yago-knowledge.org/resource/Arthur_Tedder,_1st_Baron_Tedder",http://bioschemas.org/taxonRank,embedding,0,0
+Miguel Olavide,Birth Place,http://yago-knowledge.org/resource/Miguel_Olavide,http://schema.org/birthPlace,query,1,1
+Maureen Hynes,Contained In Place,http://yago-knowledge.org/resource/Maureen_Hynes,http://schema.org/containedInPlace,embedding,0,0
+European University Of Bangladesh,Founding Date,http://yago-knowledge.org/resource/European_University_of_Bangladesh,http://schema.org/foundingDate,query,1,1
+Lojsta Church,Geo,http://yago-knowledge.org/resource/Lojsta_Church,http://schema.org/geo,compatible,1,0
+Droitwich Spa High School,Geo,http://yago-knowledge.org/resource/Droitwich_Spa_High_School,http://schema.org/geo,query,1,0
+Alba Zaluar,Birth Place,http://yago-knowledge.org/resource/Alba_Zaluar,http://schema.org/birthPlace,query,1,1
+Rudolf Zistler,Nationality,http://yago-knowledge.org/resource/Rudolf_Zistler,http://schema.org/nationality,embedding,1,1
+Sektor Gaza,Has Occupation,http://yago-knowledge.org/resource/Sektor_Gaza,http://schema.org/hasOccupation,embedding,0,0
+"Geo:26.030845264869743,84.10558822515658",Contained In Place,"geo:26.030845264869743,84.10558822515658",http://schema.org/containedInPlace,random,0,0
+Fanney Khan,Birth Place,http://yago-knowledge.org/resource/Fanney_Khan,http://schema.org/birthPlace,embedding,1,1
+Knut Faldbakken,Music By,http://yago-knowledge.org/resource/Knut_Faldbakken,http://schema.org/musicBy,embedding,1,0
+The Abdication,Knows Language,http://yago-knowledge.org/resource/The_Abdication,http://schema.org/knowsLanguage,embedding,0,0
+X M L Schema#date,Nationality,941-06-10^^<http://www.w3.org/2001/XMLSchema#date,http://schema.org/nationality,embedding,0,0
+"Mc Loud, Oklahoma",Contained In Place,"http://yago-knowledge.org/resource/McLoud,_Oklahoma",http://schema.org/containedInPlace,compatible,1,0
+Jack Atkin,Birth Place,http://yago-knowledge.org/resource/Jack_Atkin,http://schema.org/birthPlace,embedding,1,1
+Isabelle Rapin,Genre,http://yago-knowledge.org/resource/Isabelle_Rapin,http://schema.org/genre,embedding,1,0
+Theodor Gartner,Image,http://yago-knowledge.org/resource/Theodor_Gartner,http://schema.org/image,random,1,1
+Jess Hill,Death Place,http://yago-knowledge.org/resource/Jess_Hill,http://schema.org/deathPlace,query,1,1
+The Right To Romance,Image,http://yago-knowledge.org/resource/The_Right_to_Romance,http://schema.org/image,compatible,1,1
+Saroj Dubey,Birth Date,http://yago-knowledge.org/resource/Saroj_Dubey,http://schema.org/birthDate,query,1,1
+Kells United F. C.,Founding Date,http://yago-knowledge.org/resource/Kells_United_F.C.,http://schema.org/foundingDate,compatible,1,1
+Judy Tenuta,Elevation,http://yago-knowledge.org/resource/Judy_Tenuta,http://schema.org/elevation,embedding,0,0
+"St Ann's Church, H M N B Portsmouth",Image,"http://yago-knowledge.org/resource/St_Ann's_Church,_HMNB_Portsmouth",http://schema.org/image,compatible,1,1
+Lecithocera Deloma,Parent Taxon,http://yago-knowledge.org/resource/Lecithocera_deloma,http://bioschemas.org/parentTaxon,compatible,1,1
+Gertrud Seele,Contained In Place,http://yago-knowledge.org/resource/Gertrud_Seele,http://schema.org/containedInPlace,random,1,1
+The New World (2005 Film),Actor,http://yago-knowledge.org/resource/The_New_World_(2005_film),http://schema.org/actor,query,1,1
+Matthew Broderick,Birth Place,http://yago-knowledge.org/resource/Matthew_Broderick,http://schema.org/birthPlace,query,1,1
+Barney Bentall And The Legendary Hearts,Founding Date,http://yago-knowledge.org/resource/Barney_Bentall_and_the_Legendary_Hearts,http://schema.org/foundingDate,compatible,1,1
+Joakim Persson,Gender,http://yago-knowledge.org/resource/Joakim_Persson,http://schema.org/gender,query,1,1
+Hiram Palmer House,Geo,http://yago-knowledge.org/resource/Hiram_Palmer_House,http://schema.org/geo,compatible,1,0
+Parking (2008 Film),Producer,http://yago-knowledge.org/resource/Parking_(2008_film),http://schema.org/producer,compatible,1,1
+Una Atrevida Aventurita,In Language,http://yago-knowledge.org/resource/Una_Atrevida_aventurita,http://schema.org/inLanguage,compatible,1,1
+"Geo:-2.1582148237907886,37.59089676500814",Taxon Rank,"geo:-2.1582148237907886,37.59089676500814",http://bioschemas.org/taxonRank,random,0,0
+The Well-Spoken Thesaurus,Genre,http://yago-knowledge.org/resource/The_Well-Spoken_Thesaurus,http://schema.org/genre,embedding,1,1
+Francois Botha,Image,http://yago-knowledge.org/resource/Francois_Botha,http://schema.org/image,query,1,1
+Tropidacris Collaris,Image,http://yago-knowledge.org/resource/Tropidacris_collaris,http://schema.org/image,compatible,1,1
+Metro Health,Nationality,http://yago-knowledge.org/resource/MetroHealth,http://schema.org/nationality,embedding,0,0
+"Geo:35.79714516391757,139.47817111671222",Taxon Rank,"geo:35.79714516391757,139.47817111671222",http://bioschemas.org/taxonRank,random,0,0
+Elkie Chong,Genre,http://yago-knowledge.org/resource/Elkie_Chong,http://schema.org/genre,embedding,1,1
+"Geo:40.63000000000032,-119.68000000000096",Nationality,"geo:40.63000000000032,-119.68000000000096",http://schema.org/nationality,embedding,0,0
+The Laser Man,In Language,http://yago-knowledge.org/resource/The_Laser_Man,http://schema.org/inLanguage,compatible,1,1
+Porto Velho,Image,http://yago-knowledge.org/resource/Porto_Velho,http://schema.org/image,query,1,1
+"Geo:36.79070000002943,140.7458000001126",Genre,"geo:36.79070000002943,140.7458000001126",http://schema.org/genre,random,0,0
+Nat Fein,Genre,http://yago-knowledge.org/resource/Nat_Fein,http://schema.org/genre,embedding,1,1
+Criminal Minds (season 4),Contained In Place,http://yago-knowledge.org/resource/Criminal_Minds_(season_4),http://schema.org/containedInPlace,random,0,0
+Lilian Voudouri Music Library Of Greece,Contains Place,http://yago-knowledge.org/resource/Lilian_Voudouri_Music_Library_of_Greece,http://schema.org/containsPlace,compatible,1,0
+Prachov Rocks,Contains Place,http://yago-knowledge.org/resource/Prachov_Rocks,http://schema.org/containsPlace,compatible,1,1
+Kirill Naryshkin,Knows Language,http://yago-knowledge.org/resource/Kirill_Naryshkin,http://schema.org/knowsLanguage,random,1,1
+"Girardville, Quebec",Contained In Place,"http://yago-knowledge.org/resource/Girardville,_Quebec",http://schema.org/containedInPlace,query,1,1
+Dayyan Eng,Sport,http://yago-knowledge.org/resource/Dayyan_Eng,http://schema.org/sport,embedding,1,0
+Syagrus Sehranus,Image,http://yago-knowledge.org/resource/Syagrus_sehranus,http://schema.org/image,compatible,1,1
+Henry J. Stinger,Location,http://yago-knowledge.org/resource/Henry_J._Stinger,http://schema.org/location,embedding,0,0
+Sander Thoenes,Contained In Place,http://yago-knowledge.org/resource/Sander_Thoenes,http://schema.org/containedInPlace,embedding,0,0
+Lebak Regency,Image,http://yago-knowledge.org/resource/Lebak_Regency,http://schema.org/image,query,1,1
+Hawthorne (book),License,http://yago-knowledge.org/resource/Hawthorne_(book),http://schema.org/license,compatible,1,1
+Malcolm Mc Mahon,Founding Location,http://yago-knowledge.org/resource/Malcolm_McMahon,http://schema.org/foundingLocation,random,0,0
+Here (Teenage Fanclub Album),Content Location,http://yago-knowledge.org/resource/Here_(Teenage_Fanclub_album),http://schema.org/contentLocation,compatible,0,0
+Hawthorne Cottage,Geo,http://yago-knowledge.org/resource/Hawthorne_Cottage,http://schema.org/geo,compatible,1,0
+Anna Cowin,Contained In Place,http://yago-knowledge.org/resource/Anna_Cowin,http://schema.org/containedInPlace,random,0,0
+Michael Cassidy (actor),Family Name,http://yago-knowledge.org/resource/Michael_Cassidy_(actor),http://schema.org/familyName,query,1,1
+Ravi Agrawal,Death Place,http://yago-knowledge.org/resource/Ravi_Agrawal,http://schema.org/deathPlace,embedding,0,0
+Outre-Mer,In Language,http://yago-knowledge.org/resource/Outre-Mer,http://schema.org/inLanguage,compatible,1,1
+Where Were You Last Night,Sport,http://yago-knowledge.org/resource/Where_Were_You_Last_Night,http://schema.org/sport,embedding,0,0
+Rosi Braidotti,Death Place,http://yago-knowledge.org/resource/Rosi_Braidotti,http://schema.org/deathPlace,embedding,0,0
+Boris Van Der Ham,Death Place,http://yago-knowledge.org/resource/Boris_van_der_Ham,http://schema.org/deathPlace,embedding,0,0
+Molly Aunty Rocks!,Has Occupation,http://yago-knowledge.org/resource/Molly_Aunty_Rocks!,http://schema.org/hasOccupation,random,0,0
+Macbeth (1987 Film),Has Occupation,http://yago-knowledge.org/resource/Macbeth_(1987_film),http://schema.org/hasOccupation,embedding,0,0
+Alec Greven,Has Occupation,http://yago-knowledge.org/resource/Alec_Greven,http://schema.org/hasOccupation,query,1,1
+Bajuha Kalan,Contained In Place,http://yago-knowledge.org/resource/Bajuha_Kalan,http://schema.org/containedInPlace,compatible,1,1
+Ficus Aguaraguensis,Taxon Rank,http://yago-knowledge.org/resource/Ficus_aguaraguensis,http://bioschemas.org/taxonRank,compatible,1,1
+One Step Behind (novel),Location,http://yago-knowledge.org/resource/One_Step_Behind_(novel),http://schema.org/location,embedding,0,0
+X M L Schema#date,Alumni Of,908-04-08^^<http://www.w3.org/2001/XMLSchema#date,http://schema.org/alumniOf,random,0,0
+Devil's Pass,Image,http://yago-knowledge.org/resource/Devil's_Pass,http://schema.org/image,compatible,1,1
+Gran Hotel Montesol Ibiza,Contained In Place,http://yago-knowledge.org/resource/Gran_Hotel_Montesol_Ibiza,http://schema.org/containedInPlace,query,1,0
+Canaan (son Of Ham),Has Occupation,http://yago-knowledge.org/resource/Canaan_(son_of_Ham),http://schema.org/hasOccupation,compatible,1,1
+"Geo:51.84588517523831,-8.493126772044649",Geo,"geo:51.84588517523831,-8.493126772044649",http://schema.org/geo,embedding,1,0
+Benjamin Franklin High School (Philadelphia),Given Name,http://yago-knowledge.org/resource/Benjamin_Franklin_High_School_(Philadelphia),http://schema.org/givenName,embedding,0,0
+"Geo:54.665,-3.366",Has Occupation,"geo:54.665,-3.366",http://schema.org/hasOccupation,embedding,0,0
+Kammavanpet,Contains Place,http://yago-knowledge.org/resource/Kammavanpet,http://schema.org/containsPlace,compatible,1,1
+The Loco-Motion,Alumni Of,http://yago-knowledge.org/resource/The_Loco-Motion,http://schema.org/alumniOf,embedding,0,0
+"Geo:12.950779586539051,77.60328351535392",Nationality,"geo:12.950779586539051,77.60328351535392",http://schema.org/nationality,embedding,0,0
+Black Cadets At The United States Coast Guard Academy,Founding Date,http://yago-knowledge.org/resource/Black_cadets_at_the_United_States_Coast_Guard_Academy,http://schema.org/foundingDate,query,1,1
+Carry On (film),Producer,http://yago-knowledge.org/resource/Carry_On_(film),http://schema.org/producer,compatible,1,1
+John Esp,Death Place,http://yago-knowledge.org/resource/John_Esp,http://schema.org/deathPlace,random,0,0
+Saint Nicholas Peak (Canada),Geo,http://yago-knowledge.org/resource/Saint_Nicholas_Peak_(Canada),http://schema.org/geo,compatible,1,1
+Aure Church,Has Occupation,http://yago-knowledge.org/resource/Aure_Church,http://schema.org/hasOccupation,random,0,0
+Marc Julia,Alumni Of,http://yago-knowledge.org/resource/Marc_Julia,http://schema.org/alumniOf,query,1,1
+Pilot (Once Upon A Time),In Language,http://yago-knowledge.org/resource/Pilot_(Once_Upon_a_Time),http://schema.org/inLanguage,compatible,1,1
+Leopold Kohr,Home Location,http://yago-knowledge.org/resource/Leopold_Kohr,http://schema.org/homeLocation,embedding,1,1
+Andrei Mironov (painter),Birth Place,http://yago-knowledge.org/resource/Andrei_Mironov_(painter),http://schema.org/birthPlace,query,1,1
+Azadeh Ensha,Genre,http://yago-knowledge.org/resource/Azadeh_Ensha,http://schema.org/genre,embedding,1,1
+Boys' Ranch (film),Sport,http://yago-knowledge.org/resource/Boys'_Ranch_(film),http://schema.org/sport,embedding,0,0
+Yeshivah Of Flatbush,Knows Language,http://yago-knowledge.org/resource/Yeshivah_of_Flatbush,http://schema.org/knowsLanguage,embedding,0,0
+Association For The Conservation Of Energy,Birth Place,http://yago-knowledge.org/resource/Association_for_the_Conservation_of_Energy,http://schema.org/birthPlace,embedding,0,0
+X M L Schema#any U R I,Has Occupation,ttp://www.shopmyrtlebeachmall.com/^^<http://www.w3.org/2001/XMLSchema#anyURI,http://schema.org/hasOccupation,random,0,0
+X M L Schema#date,Birth Place,003-11-10^^<http://www.w3.org/2001/XMLSchema#date,http://schema.org/birthPlace,embedding,0,0
+Disciples Seminary Foundation,Member Of,http://yago-knowledge.org/resource/Disciples_Seminary_Foundation,http://schema.org/memberOf,random,1,0
+Lobos U P N F M,Lei Code,http://yago-knowledge.org/resource/Lobos_UPNFM,http://schema.org/leiCode,compatible,0,0
+Stabat Mater (Jenkins),In Language,http://yago-knowledge.org/resource/Stabat_Mater_(Jenkins),http://schema.org/inLanguage,compatible,1,1
+Mate Vatsadze,Image,http://yago-knowledge.org/resource/Mate_Vatsadze,http://schema.org/image,query,1,1
+Canton Of Saint-Esprit,Nationality,http://yago-knowledge.org/resource/Canton_of_Saint-Esprit,http://schema.org/nationality,random,0,0
+The Symbolic Species,Image,http://yago-knowledge.org/resource/The_Symbolic_Species,http://schema.org/image,compatible,1,1
+Dhoom 3,Contained In Place,http://yago-knowledge.org/resource/Dhoom_3,http://schema.org/containedInPlace,random,0,0
+The Chisholms,Part Of Series,http://yago-knowledge.org/resource/The_Chisholms,http://schema.org/partOfSeries,embedding,1,1
+Air Hostess (1980 Film),Content Location,http://yago-knowledge.org/resource/Air_Hostess_(1980_film),http://schema.org/contentLocation,compatible,1,0
+Dunhill Records,Home Location,http://yago-knowledge.org/resource/Dunhill_Records,http://schema.org/homeLocation,embedding,0,0
+The Man Behind The Curtain,In Language,http://yago-knowledge.org/resource/The_Man_Behind_the_Curtain,http://schema.org/inLanguage,compatible,1,1
+Former Augusta City Hall,Geo,http://yago-knowledge.org/resource/Former_Augusta_City_Hall,http://schema.org/geo,compatible,1,0
+Centre Furnace Mansion House,Image,http://yago-knowledge.org/resource/Centre_Furnace_Mansion_House,http://schema.org/image,compatible,1,1
+Maevia Inclemens,Nationality,http://yago-knowledge.org/resource/Maevia_inclemens,http://schema.org/nationality,random,1,1
+Theosophical Society Adyar,Image,http://yago-knowledge.org/resource/Theosophical_Society_Adyar,http://schema.org/image,compatible,1,1
+Plymouth South High School,Given Name,http://yago-knowledge.org/resource/Plymouth_South_High_School,http://schema.org/givenName,embedding,0,0
+Winnie Byanyima,Geo,http://yago-knowledge.org/resource/Winnie_Byanyima,http://schema.org/geo,embedding,0,0
+Testimony Live,Location,http://yago-knowledge.org/resource/Testimony_Live,http://schema.org/location,random,0,0
+Saint-Plantaire,Image,http://yago-knowledge.org/resource/Saint-Plantaire,http://schema.org/image,query,1,1
+Jeanne Goosen,Parent Taxon,http://yago-knowledge.org/resource/Jeanne_Goosen,http://bioschemas.org/parentTaxon,random,0,0
+Arnaud Gascon-Nadon,Family Name,http://yago-knowledge.org/resource/Arnaud_Gascon-Nadon,http://schema.org/familyName,random,1,1
+Pedro Pires,Birth Date,http://yago-knowledge.org/resource/Pedro_Pires,http://schema.org/birthDate,query,1,1
+Euvaldo Lodi Institute Of Rio De Janeiro,Location,http://yago-knowledge.org/resource/Euvaldo_Lodi_Institute_of_Rio_de_Janeiro,http://schema.org/location,query,1,1
+Yusuke Ishijima,Contains Place,http://yago-knowledge.org/resource/Yusuke_Ishijima,http://schema.org/containsPlace,embedding,0,0
+Sigfrit Steiner,Director,http://yago-knowledge.org/resource/Sigfrit_Steiner,http://schema.org/director,query,1,0
+The Lego Ninjago Movie,Has Occupation,http://yago-knowledge.org/resource/The_Lego_Ninjago_Movie,http://schema.org/hasOccupation,embedding,0,0
+Maria Alevizou,Country Of Origin,http://yago-knowledge.org/resource/Maria_Alevizou,http://schema.org/countryOfOrigin,random,0,0
+"Nagoya, Batam",Image,"http://yago-knowledge.org/resource/Nagoya,_Batam",http://schema.org/image,query,1,1
+Braunston And Willoughby Railway Station,Geo,http://yago-knowledge.org/resource/Braunston_and_Willoughby_railway_station,http://schema.org/geo,compatible,1,0
+K Z W B,Location,http://yago-knowledge.org/resource/KZWB,http://schema.org/location,query,1,1
+Sylvie Brunet (politician),Is Part Of,http://yago-knowledge.org/resource/Sylvie_Brunet_(politician),http://schema.org/isPartOf,embedding,0,0
+Newbury Manor School,Alumni Of,http://yago-knowledge.org/resource/Newbury_Manor_School,http://schema.org/alumniOf,random,1,0
+"Doc, Hands Of Steel",Contains Place,"http://yago-knowledge.org/resource/Doc,_Hands_of_Steel",http://schema.org/containsPlace,random,0,0
+The N L T Study Bible,Actor,http://yago-knowledge.org/resource/The_NLT_Study_Bible,http://schema.org/actor,random,0,0
+Pterolophia Parabaiensis,Parent Taxon,http://yago-knowledge.org/resource/Pterolophia_parabaiensis,http://bioschemas.org/parentTaxon,compatible,1,1
+E S A N University,Geo,http://yago-knowledge.org/resource/ESAN_University,http://schema.org/geo,query,1,0
+Yasuko Hashimoto,Family Name,http://yago-knowledge.org/resource/Yasuko_Hashimoto,http://schema.org/familyName,random,1,1
+X-C O M: Genesis,Country Of Origin,http://yago-knowledge.org/resource/X-COM:_Genesis,http://schema.org/countryOfOrigin,random,1,1
+Clearfield High School,Has Occupation,http://yago-knowledge.org/resource/Clearfield_High_School,http://schema.org/hasOccupation,embedding,0,0
+Pingami,Death Place,http://yago-knowledge.org/resource/Pingami,http://schema.org/deathPlace,random,0,0
+Ahney Her,Member Of,http://yago-knowledge.org/resource/Ahney_Her,http://schema.org/memberOf,embedding,1,1
+Sunshine Reggae In Ibiza,Country Of Origin,http://yago-knowledge.org/resource/Sunshine_Reggae_in_Ibiza,http://schema.org/countryOfOrigin,query,1,1
+Cowes Enterprise College,Contained In Place,http://yago-knowledge.org/resource/Cowes_Enterprise_College,http://schema.org/containedInPlace,query,1,0
+Chromatium,Image,http://yago-knowledge.org/resource/Chromatium,http://schema.org/image,query,1,1
+Victor J. Westerberg,Birth Place,http://yago-knowledge.org/resource/Victor_J._Westerberg,http://schema.org/birthPlace,query,1,1
+X M L Schema#date,Music By,893-06-27^^<http://www.w3.org/2001/XMLSchema#date,http://schema.org/musicBy,random,0,0
+Nacoleia Charesalis,Member Of,http://yago-knowledge.org/resource/Nacoleia_charesalis,http://schema.org/memberOf,random,0,0
+W K F V,Contained In Place,http://yago-knowledge.org/resource/WKFV,http://schema.org/containedInPlace,query,1,1
+Pac-Pix,In Language,http://yago-knowledge.org/resource/Pac-Pix,http://schema.org/inLanguage,compatible,1,1
+King Of The Hill (The Simpsons),Producer,http://yago-knowledge.org/resource/King_of_the_Hill_(The_Simpsons),http://schema.org/producer,compatible,1,1
+Men Are That Way,Duration,http://yago-knowledge.org/resource/Men_Are_That_Way,http://schema.org/duration,query,1,1
+"Geo:-11.416666666666758,-61.733333333333825",Contained In Place,"geo:-11.416666666666758,-61.733333333333825",http://schema.org/containedInPlace,random,1,0
+Yoraperla Nigrisoma,Death Date,http://yago-knowledge.org/resource/Yoraperla_nigrisoma,http://schema.org/deathDate,random,0,0
+X M L Schema#any U R I,Given Name,ttp://www.glorinha.rs.gov.br/^^<http://www.w3.org/2001/XMLSchema#anyURI,http://schema.org/givenName,random,0,0
+Keryn Jordan,Birth Place,http://yago-knowledge.org/resource/Keryn_Jordan,http://schema.org/birthPlace,embedding,1,1
+Nicola Renzi,Image,http://yago-knowledge.org/resource/Nicola_Renzi,http://schema.org/image,query,1,1
+X M L Schema#any U R I,Taxon Rank,ttp://alaskaconservation.org/^^<http://www.w3.org/2001/XMLSchema#anyURI,http://bioschemas.org/taxonRank,random,0,0
+James Pittillo,Given Name,http://yago-knowledge.org/resource/James_Pittillo,http://schema.org/givenName,query,1,1
+Bartenstein (mountain),Geo,http://yago-knowledge.org/resource/Bartenstein_(mountain),http://schema.org/geo,compatible,1,1
+Meet Me In The Bathroom,Author,http://yago-knowledge.org/resource/Meet_Me_in_the_Bathroom,http://schema.org/author,compatible,1,1
+"Geo:46.17638888888926,7.862777777777841",Knows Language,"geo:46.17638888888926,7.862777777777841",http://schema.org/knowsLanguage,random,0,0
+"Geo:48.89416666666706,12.373888888888988",Birth Place,"geo:48.89416666666706,12.373888888888988",http://schema.org/birthPlace,random,1,0
+Ed Atkins,Death Date,http://yago-knowledge.org/resource/Ed_Atkins,http://schema.org/deathDate,embedding,0,0
+"Geo:53.25500000000043,-7.893611111111174",Taxon Rank,"geo:53.25500000000043,-7.893611111111174",http://bioschemas.org/taxonRank,random,0,0
+Alex Bain,Birth Place,http://yago-knowledge.org/resource/Alex_Bain,http://schema.org/birthPlace,query,1,1
+Iris Japonica,Parent Taxon,http://yago-knowledge.org/resource/Iris_japonica,http://bioschemas.org/parentTaxon,query,1,1
+James Nicholas Joubert,Contains Place,http://yago-knowledge.org/resource/James_Nicholas_Joubert,http://schema.org/containsPlace,embedding,0,0
+Omar Sharif,Birth Place,http://yago-knowledge.org/resource/Omar_Sharif,http://schema.org/birthPlace,query,1,1
+Mary Thom,Given Name,http://yago-knowledge.org/resource/Mary_Thom,http://schema.org/givenName,query,1,1
+"Geo:33.42055555555582,47.96250000000038",Has Occupation,"geo:33.42055555555582,47.96250000000038",http://schema.org/hasOccupation,random,0,0
+Rapana Bulbosa,Nationality,http://yago-knowledge.org/resource/Rapana_bulbosa,http://schema.org/nationality,random,1,1
+Philodendron Hastatum,Image,http://yago-knowledge.org/resource/Philodendron_hastatum,http://schema.org/image,compatible,1,1
+Arthur Haulot,Gender,http://yago-knowledge.org/resource/Arthur_Haulot,http://schema.org/gender,query,1,1
+"Geo:52.170300000000005,4.4533000000000005",Country Of Origin,"geo:52.170300000000005,4.4533000000000005",http://schema.org/countryOfOrigin,embedding,0,0
+Nord's 11th Constituency,Geo,http://yago-knowledge.org/resource/Nord's_11th_constituency,http://schema.org/geo,compatible,1,1
+"Geo:32.274722,-111.960833",Contained In Place,"geo:32.274722,-111.960833",http://schema.org/containedInPlace,embedding,1,0
+National Security Authority (Czech Republic),Founding Date,http://yago-knowledge.org/resource/National_Security_Authority_(Czech_Republic),http://schema.org/foundingDate,query,1,1
+Cao Teng,Contained In Place,http://yago-knowledge.org/resource/Cao_Teng,http://schema.org/containedInPlace,embedding,0,0
+Beth Holloway,Contained In Place,http://yago-knowledge.org/resource/Beth_Holloway,http://schema.org/containedInPlace,random,0,0
+Gerry Van Der Linden,Has Occupation,http://yago-knowledge.org/resource/Gerry_van_der_Linden,http://schema.org/hasOccupation,query,1,1
+Alex Masi,Has Occupation,http://yago-knowledge.org/resource/Alex_Masi,http://schema.org/hasOccupation,embedding,1,1
+Chung Shan Medical University,Image,http://yago-knowledge.org/resource/Chung_Shan_Medical_University,http://schema.org/image,query,1,1
+X M L Schema#date,Given Name,975-11-20^^<http://www.w3.org/2001/XMLSchema#date,http://schema.org/givenName,embedding,0,0
+Max Ellmer,Contained In Place,http://yago-knowledge.org/resource/Max_Ellmer,http://schema.org/containedInPlace,embedding,0,0
+Awqa Pallqa,Geo,http://yago-knowledge.org/resource/Awqa_Pallqa,http://schema.org/geo,compatible,1,1
+Wolfgang Seguin,Death Place,http://yago-knowledge.org/resource/Wolfgang_Seguin,http://schema.org/deathPlace,random,0,0
+Cirrhochrista Aurantialis,Image,http://yago-knowledge.org/resource/Cirrhochrista_aurantialis,http://schema.org/image,compatible,1,1
+Killer Bash,Member Of,http://yago-knowledge.org/resource/Killer_Bash,http://schema.org/memberOf,random,0,0
+Who's Watching The Kids?,Has Occupation,http://yago-knowledge.org/resource/Who's_Watching_the_Kids?,http://schema.org/hasOccupation,random,0,0
+Omorate,Contained In Place,http://yago-knowledge.org/resource/Omorate,http://schema.org/containedInPlace,compatible,1,1
+Elliott Avent,Given Name,http://yago-knowledge.org/resource/Elliott_Avent,http://schema.org/givenName,query,1,1
+"Langley, Essex",Geo,"http://yago-knowledge.org/resource/Langley,_Essex",http://schema.org/geo,query,1,1
+Music Is The Message,Taxon Rank,http://yago-knowledge.org/resource/Music_Is_the_Message,http://bioschemas.org/taxonRank,random,0,0
+Elizabeth Ofosu-Agyare,Has Occupation,http://yago-knowledge.org/resource/Elizabeth_Ofosu-Agyare,http://schema.org/hasOccupation,query,1,1
+Jan Tengnagel,Death Place,http://yago-knowledge.org/resource/Jan_Tengnagel,http://schema.org/deathPlace,query,1,1
+Klaus Nomi,Award,http://yago-knowledge.org/resource/Klaus_Nomi,http://schema.org/award,embedding,1,1
+Lucy Hutchinson,Location,http://yago-knowledge.org/resource/Lucy_Hutchinson,http://schema.org/location,embedding,0,0
+Times Herald-Record,Geo,http://yago-knowledge.org/resource/Times_Herald-Record,http://schema.org/geo,random,0,0
+S D M S Kepala Batas F. C.,Alumni Of,http://yago-knowledge.org/resource/SDMS_Kepala_Batas_F.C.,http://schema.org/alumniOf,embedding,1,1
+Teen-Age Crush,Author,http://yago-knowledge.org/resource/Teen-Age_Crush,http://schema.org/author,compatible,0,0
+Principe (Genoa Metro),Geo,http://yago-knowledge.org/resource/Principe_(Genoa_Metro),http://schema.org/geo,compatible,1,0
+Steve Dunn (referee),Contained In Place,http://yago-knowledge.org/resource/Steve_Dunn_(referee),http://schema.org/containedInPlace,embedding,0,0
+E Xperience112,Death Date,http://yago-knowledge.org/resource/EXperience112,http://schema.org/deathDate,random,0,0
+"Geo:50.83175662828808,24.06321252151453",Genre,"geo:50.83175662828808,24.06321252151453",http://schema.org/genre,random,0,0
+Cristian Trombetta,Geo,http://yago-knowledge.org/resource/Cristian_Trombetta,http://schema.org/geo,random,0,0
+G. D. Estoril Praia (women),Member Of,http://yago-knowledge.org/resource/G.D._Estoril_Praia_(women),http://schema.org/memberOf,random,1,0
+"Geo:51.5186,-0.14500000000000002",Country Of Origin,"geo:51.5186,-0.14500000000000002",http://schema.org/countryOfOrigin,random,0,0
+Kento Yachi,Given Name,http://yago-knowledge.org/resource/Kento_Yachi,http://schema.org/givenName,query,1,1
+University Of Liverpool School Of Veterinary Science,Member Of,http://yago-knowledge.org/resource/University_of_Liverpool_School_of_Veterinary_Science,http://schema.org/memberOf,embedding,1,0
+"Holy Trinity Church, Chipping Norton",Geo,"http://yago-knowledge.org/resource/Holy_Trinity_Church,_Chipping_Norton",http://schema.org/geo,compatible,1,0
+Belene Labour Camp,Location,http://yago-knowledge.org/resource/Belene_labour_camp,http://schema.org/location,query,1,1
+Cawley Memorial Stadium,Contained In Place,http://yago-knowledge.org/resource/Cawley_Memorial_Stadium,http://schema.org/containedInPlace,query,1,1
+Children Of The Grave,Birth Place,http://yago-knowledge.org/resource/Children_of_the_Grave,http://schema.org/birthPlace,embedding,0,0
+Until The End (Norah Jones Song),Has Occupation,http://yago-knowledge.org/resource/Until_the_End_(Norah_Jones_song),http://schema.org/hasOccupation,random,0,0
+Keishi Tanaka,Dissolution Date,http://yago-knowledge.org/resource/Keishi_Tanaka,http://schema.org/dissolutionDate,random,0,0
+Bombing Hitler's Dams,Content Location,http://yago-knowledge.org/resource/Bombing_Hitler's_Dams,http://schema.org/contentLocation,compatible,1,1
+Alpercatas River,Geo,http://yago-knowledge.org/resource/Alpercatas_River,http://schema.org/geo,random,1,0
+Hilda Selwyn-Clarke,Knows Language,http://yago-knowledge.org/resource/Hilda_Selwyn-Clarke,http://schema.org/knowsLanguage,embedding,1,1
+Wild Brazil,Date Published,http://yago-knowledge.org/resource/Wild_Brazil,http://schema.org/datePublished,query,1,1
+Friedrich Karl Schmidt,Birth Place,http://yago-knowledge.org/resource/Friedrich_Karl_Schmidt,http://schema.org/birthPlace,query,1,1
+Carlos Germano,Birth Date,http://yago-knowledge.org/resource/Carlos_Germano,http://schema.org/birthDate,query,1,1
+X M L Schema#date,Country Of Origin,855-07-01^^<http://www.w3.org/2001/XMLSchema#date,http://schema.org/countryOfOrigin,embedding,0,0
+Cupcakke,Birth Date,http://yago-knowledge.org/resource/Cupcakke,http://schema.org/birthDate,query,1,1
+Hesdin,Contained In Place,http://yago-knowledge.org/resource/Hesdin,http://schema.org/containedInPlace,query,1,0
+Mum Jokmok,Competitor,http://yago-knowledge.org/resource/Mum_Jokmok,http://schema.org/competitor,embedding,1,0
+Khadia Beswickii,Parent Taxon,http://yago-knowledge.org/resource/Khadia_beswickii,http://bioschemas.org/parentTaxon,query,1,1
+The Dance Of Life (album),In Language,http://yago-knowledge.org/resource/The_Dance_of_Life_(album),http://schema.org/inLanguage,compatible,1,1
+Tim Morabito,Taxon Rank,http://yago-knowledge.org/resource/Tim_Morabito,http://bioschemas.org/taxonRank,random,0,0
+"Geo:-25.94299640577428,28.160688050780784",Has Occupation,"geo:-25.94299640577428,28.160688050780784",http://schema.org/hasOccupation,random,0,0
+"Geo:-77.8167,166.65",Nationality,"geo:-77.8167,166.65",http://schema.org/nationality,embedding,0,0
+Szczytna,Contained In Place,http://yago-knowledge.org/resource/Szczytna,http://schema.org/containedInPlace,compatible,1,1
+"Geo:43.78385000000035,11.254947222222311",Contained In Place,"geo:43.78385000000035,11.254947222222311",http://schema.org/containedInPlace,random,1,0
+Joseph R. D' Cruz,Founding Location,http://yago-knowledge.org/resource/Joseph_R._D'Cruz,http://schema.org/foundingLocation,random,0,0
+Fiona Mc Gregor,Birth Date,http://yago-knowledge.org/resource/Fiona_McGregor,http://schema.org/birthDate,query,1,1
+Jonathan Leakey,Publisher,http://yago-knowledge.org/resource/Jonathan_Leakey,http://schema.org/publisher,embedding,0,0
+Tacking Into The Wind,Image,http://yago-knowledge.org/resource/Tacking_into_the_Wind,http://schema.org/image,compatible,1,1
+Al Bayda Governorate,Death Date,http://yago-knowledge.org/resource/Al_Bayda_Governorate,http://schema.org/deathDate,random,0,0
+"Faculty Of Sanskrit Vidya Dharma Vigyan, Banaras Hindu University",Contained In Place,"http://yago-knowledge.org/resource/Faculty_of_Sanskrit_Vidya_Dharma_Vigyan,_Banaras_Hindu_University",http://schema.org/containedInPlace,query,1,1
+Addy Raj,Member Of,http://yago-knowledge.org/resource/Addy_Raj,http://schema.org/memberOf,embedding,1,0
+The Thing About My Folks,Producer,http://yago-knowledge.org/resource/The_Thing_About_My_Folks,http://schema.org/producer,compatible,1,1
+"Geo:42.27416666666701,-74.92527777777838",Director,"geo:42.27416666666701,-74.92527777777838",http://schema.org/director,random,0,0
+Branko Mamula,Alumni Of,http://yago-knowledge.org/resource/Branko_Mamula,http://schema.org/alumniOf,embedding,1,1
+American Dialect Society,Actor,http://yago-knowledge.org/resource/American_Dialect_Society,http://schema.org/actor,embedding,0,0
+Amphibious (film),Birth Place,http://yago-knowledge.org/resource/Amphibious_(film),http://schema.org/birthPlace,embedding,0,0
+Turner Arena (Harrogate),Nationality,http://yago-knowledge.org/resource/Turner_Arena_(Harrogate),http://schema.org/nationality,random,0,0
+Evano Oruvan,Image,http://yago-knowledge.org/resource/Evano_Oruvan,http://schema.org/image,compatible,1,1
+Checkendon,Contained In Place,http://yago-knowledge.org/resource/Checkendon,http://schema.org/containedInPlace,query,1,1
+Bright Rwamirama,Geo,http://yago-knowledge.org/resource/Bright_Rwamirama,http://schema.org/geo,embedding,0,0
+E. A. Richardson,Producer,http://yago-knowledge.org/resource/E._A._Richardson,http://schema.org/producer,embedding,1,0
+"Viroqua, Wisconsin",Birth Date,"http://yago-knowledge.org/resource/Viroqua,_Wisconsin",http://schema.org/birthDate,embedding,0,0
+Satish Chandra Gulabdas,In Language,http://yago-knowledge.org/resource/Satish_Chandra_Gulabdas,http://schema.org/inLanguage,random,0,0
+Let's Kill Hitler,Music By,http://yago-knowledge.org/resource/Let's_Kill_Hitler,http://schema.org/musicBy,embedding,1,1
+Isekai,Given Name,http://yago-knowledge.org/resource/Isekai,http://schema.org/givenName,random,0,0
+Edam Airport,Geo,http://yago-knowledge.org/resource/Edam_Airport,http://schema.org/geo,compatible,1,0
+"Geo:-33.87926231096506,151.21191517066515",Nationality,"geo:-33.87926231096506,151.21191517066515",http://schema.org/nationality,embedding,0,0
+"Geo:11.916666666666904,-4.566666666666758",Death Place,"geo:11.916666666666904,-4.566666666666758",http://schema.org/deathPlace,random,0,0
+Segundo Serrano Poncela,Award,http://yago-knowledge.org/resource/Segundo_Serrano_Poncela,http://schema.org/award,embedding,1,1
+Sidi Hcine,Elevation,http://yago-knowledge.org/resource/Sidi_Hcine,http://schema.org/elevation,compatible,1,1
+Andy Warhol's Bad,Citation,http://yago-knowledge.org/resource/Andy_Warhol's_Bad,http://schema.org/citation,compatible,0,0
+X M L Schema#any U R I,Publisher,ttp://www.stmartin-bellevue.fr/^^<http://www.w3.org/2001/XMLSchema#anyURI,http://schema.org/publisher,random,0,0
+Vulcan!,Date Published,http://yago-knowledge.org/resource/Vulcan!,http://schema.org/datePublished,compatible,0,0
+Marko Kauppinen,Sport,http://yago-knowledge.org/resource/Marko_Kauppinen,http://schema.org/sport,embedding,1,1
+Bankole Cardoso,Genre,http://yago-knowledge.org/resource/Bankole_Cardoso,http://schema.org/genre,embedding,1,0
+Safdar Kiyani,Member Of,http://yago-knowledge.org/resource/Safdar_Kiyani,http://schema.org/memberOf,embedding,1,1
+Sakkin Barricade,Author,http://yago-knowledge.org/resource/Sakkin_Barricade,http://schema.org/author,compatible,1,1
+Jiangmen Book Store Old.jpg,Member Of,http://commons.wikimedia.org/wiki/Special:FilePath/JiangmenBookStoreOld.jpg,http://schema.org/memberOf,random,0,0
+Acklington,Image,http://yago-knowledge.org/resource/Acklington,http://schema.org/image,query,1,1
+Sergei Yakhontov,Alumni Of,http://yago-knowledge.org/resource/Sergei_Yakhontov,http://schema.org/alumniOf,query,1,1
+"Hale County, Alabama",Elevation,"http://yago-knowledge.org/resource/Hale_County,_Alabama",http://schema.org/elevation,compatible,1,1
+Stereo Fuse (album),In Language,http://yago-knowledge.org/resource/Stereo_Fuse_(album),http://schema.org/inLanguage,compatible,1,1
+Tariq Owens,Award,http://yago-knowledge.org/resource/Tariq_Owens,http://schema.org/award,random,1,1
+Restitution Inattendue,Image,http://yago-knowledge.org/resource/Restitution_inattendue,http://schema.org/image,compatible,1,1
+Suolahti,Member Of,http://yago-knowledge.org/resource/Suolahti,http://schema.org/memberOf,random,0,0
+Audiotraffic,Image,http://yago-knowledge.org/resource/Audiotraffic,http://schema.org/image,compatible,1,1
+John Milton Scudder,Award,http://yago-knowledge.org/resource/John_Milton_Scudder,http://schema.org/award,embedding,1,1
+Hadsund Butikscenter,Knows Language,http://yago-knowledge.org/resource/Hadsund_Butikscenter,http://schema.org/knowsLanguage,random,0,0
+Cutter Hodierne,Nationality,http://yago-knowledge.org/resource/Cutter_Hodierne,http://schema.org/nationality,query,1,1
+Papilio Mangoura,Parent Taxon,http://yago-knowledge.org/resource/Papilio_mangoura,http://bioschemas.org/parentTaxon,compatible,1,1
+"Geo:47.92,106.92",Nationality,"geo:47.92,106.92",http://schema.org/nationality,embedding,0,0
+W P L M (A M),Image,http://yago-knowledge.org/resource/WPLM_(AM),http://schema.org/image,compatible,1,1
+Alex Culvin,Has Occupation,http://yago-knowledge.org/resource/Alex_Culvin,http://schema.org/hasOccupation,random,1,1
+A P Chemistry,Date Published,http://yago-knowledge.org/resource/AP_Chemistry,http://schema.org/datePublished,compatible,1,1
+Serge Silberman,Birth Place,http://yago-knowledge.org/resource/Serge_Silberman,http://schema.org/birthPlace,embedding,1,1
+Arifat,Image,http://yago-knowledge.org/resource/Arifat,http://schema.org/image,query,1,1
+Tchello,Has Occupation,http://yago-knowledge.org/resource/Tchello,http://schema.org/hasOccupation,query,1,1
+My White Bicycle,Given Name,http://yago-knowledge.org/resource/My_White_Bicycle,http://schema.org/givenName,random,0,0
+Thomas Elyot,Country Of Origin,http://yago-knowledge.org/resource/Thomas_Elyot,http://schema.org/countryOfOrigin,embedding,0,0
+Prodontria,Parent Taxon,http://yago-knowledge.org/resource/Prodontria,http://bioschemas.org/parentTaxon,query,1,1
+Laurence Vaux,Birth Place,http://yago-knowledge.org/resource/Laurence_Vaux,http://schema.org/birthPlace,embedding,1,1
+"Geo:46.71638888888926,9.183333333333406",Given Name,"geo:46.71638888888926,9.183333333333406",http://schema.org/givenName,embedding,0,0
+Cedar Creek (Kansas),Image,http://yago-knowledge.org/resource/Cedar_Creek_(Kansas),http://schema.org/image,compatible,1,1
+Vilamarxant,Geo,http://yago-knowledge.org/resource/Vilamarxant,http://schema.org/geo,query,1,1
+Cock Robin (band),Member Of,http://yago-knowledge.org/resource/Cock_Robin_(band),http://schema.org/memberOf,embedding,1,1
+The Funhouse,Music By,http://yago-knowledge.org/resource/The_Funhouse,http://schema.org/musicBy,query,1,1
+Medal Of Honor: Infiltrator,In Language,http://yago-knowledge.org/resource/Medal_of_Honor:_Infiltrator,http://schema.org/inLanguage,compatible,1,1
+Catherine O' Hara,Birth Place,http://yago-knowledge.org/resource/Catherine_O'Hara,http://schema.org/birthPlace,query,1,1
+Chrono Cross,Producer,http://yago-knowledge.org/resource/Chrono_Cross,http://schema.org/producer,query,1,1
+The Price Of Fame (film),Genre,http://yago-knowledge.org/resource/The_Price_of_Fame_(film),http://schema.org/genre,random,1,1
+Hemiexarnis Moechilla,Image,http://yago-knowledge.org/resource/Hemiexarnis_moechilla,http://schema.org/image,compatible,1,1
+Sila Nerangalil,In Language,http://yago-knowledge.org/resource/Sila_Nerangalil,http://schema.org/inLanguage,compatible,1,1
+Bucculatrix Carolinae,Image,http://yago-knowledge.org/resource/Bucculatrix_carolinae,http://schema.org/image,compatible,1,1
+Presidential Library (Turkey),Contains Place,http://yago-knowledge.org/resource/Presidential_Library_(Turkey),http://schema.org/containsPlace,compatible,1,0
+Second Sight (Star Trek: Deep Space Nine),Creator,http://yago-knowledge.org/resource/Second_Sight_(Star_Trek:_Deep_Space_Nine),http://schema.org/creator,compatible,1,1
+Adelsheim,Contained In Place,http://yago-knowledge.org/resource/Adelsheim,http://schema.org/containedInPlace,compatible,1,1
+"Geo:51.514444444444855,-0.08027777777777842",Nationality,"geo:51.514444444444855,-0.08027777777777842",http://schema.org/nationality,random,0,0
+Valdeavellano,Member Of,http://yago-knowledge.org/resource/Valdeavellano,http://schema.org/memberOf,random,0,0
+"Geo:49.21548571866812,17.484720301426396",Birth Place,"geo:49.21548571866812,17.484720301426396",http://schema.org/birthPlace,embedding,1,0
+The Local Train,Geo,http://yago-knowledge.org/resource/The_Local_Train,http://schema.org/geo,random,0,0
+"Geo:44.80000000000089,20.38333333333374",Given Name,"geo:44.80000000000089,20.38333333333374",http://schema.org/givenName,random,0,0
+Pasquale Gallo,Family Name,http://yago-knowledge.org/resource/Pasquale_Gallo,http://schema.org/familyName,random,1,1
+X M L Schema#date,Member Of,970-02-14^^<http://www.w3.org/2001/XMLSchema#date,http://schema.org/memberOf,embedding,0,0
+Cecilia Andersson,Genre,http://yago-knowledge.org/resource/Cecilia_Andersson,http://schema.org/genre,random,1,0
+"Geo:-23.8333,45.566700000000004",Country Of Origin,"geo:-23.8333,45.566700000000004",http://schema.org/countryOfOrigin,random,0,0
+Alice Bunker Stockham,Birth Place,http://yago-knowledge.org/resource/Alice_Bunker_Stockham,http://schema.org/birthPlace,random,1,1
+"Geo:49.21305555555595,3.8588888888889197",Alumni Of,"geo:49.21305555555595,3.8588888888889197",http://schema.org/alumniOf,random,0,0
+Jonathan Miles (filmmaker),Alumni Of,http://yago-knowledge.org/resource/Jonathan_Miles_(filmmaker),http://schema.org/alumniOf,random,1,1
+Michel Riesen,Family Name,http://yago-knowledge.org/resource/Michel_Riesen,http://schema.org/familyName,query,1,1
+"Draper, Wisconsin",Location,"http://yago-knowledge.org/resource/Draper,_Wisconsin",http://schema.org/location,query,1,0
+Alejandro Llorente Y Lannas,Given Name,http://yago-knowledge.org/resource/Alejandro_Llorente_y_Lannas,http://schema.org/givenName,random,1,1
+"Race For Your Life, Charlie Brown",Given Name,"http://yago-knowledge.org/resource/Race_for_Your_Life,_Charlie_Brown",http://schema.org/givenName,random,0,0
+Boris Vian,Super Event,http://yago-knowledge.org/resource/Boris_Vian,http://schema.org/superEvent,embedding,0,0
+"Geo:48.780300000000004,9.1728",Has Occupation,"geo:48.780300000000004,9.1728",http://schema.org/hasOccupation,embedding,0,0
+Hero Of Belarus,Award,http://yago-knowledge.org/resource/Hero_of_Belarus,http://schema.org/award,query,1,0
+Cynthia Y. Forde,Nationality,http://yago-knowledge.org/resource/Cynthia_Y._Forde,http://schema.org/nationality,random,1,1
+Irineu (Duvlea),Member Of,http://yago-knowledge.org/resource/Irineu_(Duvlea),http://schema.org/memberOf,random,1,1
+Encounters Of The Spooky Kind,Image,http://yago-knowledge.org/resource/Encounters_of_the_Spooky_Kind,http://schema.org/image,compatible,1,1
+Landstuhl Regional Medical Center,Contains Place,http://yago-knowledge.org/resource/Landstuhl_Regional_Medical_Center,http://schema.org/containsPlace,random,1,0
+Queens Of The Stone Age,Given Name,http://yago-knowledge.org/resource/Queens_of_the_Stone_Age,http://schema.org/givenName,embedding,0,0
+Nature,Genre,http://yago-knowledge.org/resource/Nature,http://schema.org/genre,query,1,1
+The Empire Strikes Back (pinball),Birth Date,http://yago-knowledge.org/resource/The_Empire_Strikes_Back_(pinball),http://schema.org/birthDate,random,0,0
+Sleep Tight (film),Image,http://yago-knowledge.org/resource/Sleep_Tight_(film),http://schema.org/image,compatible,1,1
+Bentee,Contained In Place,http://yago-knowledge.org/resource/Bentee,http://schema.org/containedInPlace,compatible,1,1
+Anthony Dixon,Taxon Rank,http://yago-knowledge.org/resource/Anthony_Dixon,http://bioschemas.org/taxonRank,embedding,0,0
+The Lone Ranger (2013 Film),Duration,http://yago-knowledge.org/resource/The_Lone_Ranger_(2013_film),http://schema.org/duration,query,1,1
+Gran Hotel Torre Catalunya,Founding Date,http://yago-knowledge.org/resource/Gran_Hotel_Torre_Catalunya,http://schema.org/foundingDate,query,1,1
+Katherine Kingsley,Birth Place,http://yago-knowledge.org/resource/Katherine_Kingsley,http://schema.org/birthPlace,query,1,1
+Charlotte Kalla,Birth Place,http://yago-knowledge.org/resource/Charlotte_Kalla,http://schema.org/birthPlace,random,1,1
+Cabaret Voltaire (band),Location,http://yago-knowledge.org/resource/Cabaret_Voltaire_(band),http://schema.org/location,embedding,0,0
+Reddish-gray Mouse Lemur,Taxon Rank,http://yago-knowledge.org/resource/Reddish-gray_mouse_lemur,http://bioschemas.org/taxonRank,compatible,1,1
+"Coyote Flats, Texas",Geo,"http://yago-knowledge.org/resource/Coyote_Flats,_Texas",http://schema.org/geo,compatible,1,1
+Constantin Boerescu,Given Name,http://yago-knowledge.org/resource/Constantin_Boerescu,http://schema.org/givenName,query,1,1
+Birkenfeld (Enz),Home Location,http://yago-knowledge.org/resource/Birkenfeld_(Enz),http://schema.org/homeLocation,query,1,0
+Stonea Railway Station,Family Name,http://yago-knowledge.org/resource/Stonea_railway_station,http://schema.org/familyName,random,0,0
+Brilon,Death Place,http://yago-knowledge.org/resource/Brilon,http://schema.org/deathPlace,query,0,0
+An Electric Storm,Producer,http://yago-knowledge.org/resource/An_Electric_Storm,http://schema.org/producer,compatible,1,1
+Harold Burns,Nationality,http://yago-knowledge.org/resource/Harold_Burns,http://schema.org/nationality,query,1,1
+"Agudo, Ciudad Real",Contained In Place,"http://yago-knowledge.org/resource/Agudo,_Ciudad_Real",http://schema.org/containedInPlace,query,1,0
+Sampathige Savaal,Author,http://yago-knowledge.org/resource/Sampathige_Savaal,http://schema.org/author,compatible,0,0
+Sidney Kimmel Entertainment,Contained In Place,http://yago-knowledge.org/resource/Sidney_Kimmel_Entertainment,http://schema.org/containedInPlace,embedding,0,0
+"Gardar, North Dakota",Contains Place,"http://yago-knowledge.org/resource/Gardar,_North_Dakota",http://schema.org/containsPlace,compatible,1,0
+Roger Bourland,Actor,http://yago-knowledge.org/resource/Roger_Bourland,http://schema.org/actor,embedding,1,0
+Gaudreau,Nationality,http://yago-knowledge.org/resource/Gaudreau,http://schema.org/nationality,random,1,1
